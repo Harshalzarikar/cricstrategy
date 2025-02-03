@@ -1,4 +1,6 @@
 Cricket GPT - Interactive Cricket Analysis with Deepseek 🏏
+
+
 This project is an interactive cricket analysis tool built using Streamlit and Deepseek (Ollama). It provides real-time cricket analysis, live commentary, and strategic insights for cricket players, analysts, and fans.
 
 Key Features:
