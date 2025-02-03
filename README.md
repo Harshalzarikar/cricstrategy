@@ -13,9 +13,7 @@ Deepseek (Ollama API): AI model used for the cricket analysis chatbot.
 Cricinfo API: API for fetching live ball-by-ball commentary.
 File-Based Player Data: Historical player data to generate strategies and analysis.
 Setup Instructions:
-Clone the repository:
-git clone https://github.com/yourusername/cricket-gpt.git
-cd cricket-gpt
+
 
 Install the required packages: Make sure you have Python 3.7+ installed. Then, run:
 
