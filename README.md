@@ -1,4 +1,4 @@
-# Cricket Analysis with GPT-4
+# Cricket Analysis with Deepseek
 
 ## Overview
 This Streamlit application leverages OpenAI's GPT-4 model to provide advanced cricket analysis and generate engaging commentary. It offers two main features:
