@@ -1,0 +1,3706 @@
+Match: all_games_1375837_1375845.json
+Balls faced: 1
+Bowler: Hazlewood
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Peter: "Was Athanaze a bit unlucky there?  Looking at it live it looked like a very leaveable length on Australian pitch most days of the week. " Think it nipped back and ended up bouncing lesser, as a result
+
+On the stumps, defends it from the crease
+
+
+Balls faced: 2
+Bowler: Hazlewood
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off, hen is hurried into defending that to the on side
+
+
+Balls faced: 3
+Bowler: Hazlewood
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Debutant Kavem Hodge, who got his Test cap from Brian Lara, is out in the middle now
+
+Length ball well outside off, 133.9kph, he covers the stumps and leaves it alone
+
+
+Balls faced: 4
+Bowler: Hazlewood
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Peter: "Was Athanaze a bit unlucky there?  Looking at it live it looked like a very leaveable length on Australian pitch most days of the week. " Think it nipped back and ended up bouncing lesser, as a result
+
+On the stumps, defends it from the crease
+
+
+Balls faced: 5
+Bowler: Hazlewood
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off, hen is hurried into defending that to the on side
+
+
+Balls faced: 6
+Bowler: Hazlewood
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Debutant Kavem Hodge, who got his Test cap from Brian Lara, is out in the middle now
+
+Length ball well outside off, 133.9kph, he covers the stumps and leaves it alone
+
+
+Balls faced: 7
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and on the fifth-stump line, he gets forward and leaves it be
+
+
+Balls faced: 8
+Bowler: Hazlewood
+Over: 26
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+SHort ball angling in, 136kph, hurried Hodge on the pull. Ends up getting it towards midwicket
+
+
+Balls faced: 9
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and outside off, bounces twice before getting to Carey
+
+
+Balls faced: 10
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off and middle, he gets behind it and defends
+
+
+Balls faced: 11
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball just outside off, moves back in and just passes over off, as he shoulders arms
+
+
+Balls faced: 12
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and outside off, he gets his forward stride and shoulders arms
+
+
+Balls faced: 13
+Bowler: Starc
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+A loud "YES!" to get going in Test cricket for Hodge, as he hops and nudges the back of the length ball on middle and leg to fine leg
+
+
+Balls faced: 14
+Bowler: Starc
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Matthew Renshaw will be released from the Australia squad to play for the Brisbane Heat against the Sydney Sixers in the BBL qualifier on Friday. Renshaw will join the Heat tomorrow evening before returning to Adelaide on Saturday for day four the Test match against the West Indies.
+
+Length ball just around off, he taps and sets off for a run but gets no response from his partner
+
+
+Balls faced: 15
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and on the fifth-stump line, he gets forward and leaves it be
+
+
+Balls faced: 16
+Bowler: Hazlewood
+Over: 26
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+SHort ball angling in, 136kph, hurried Hodge on the pull. Ends up getting it towards midwicket
+
+
+Balls faced: 17
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and outside off, bounces twice before getting to Carey
+
+
+Balls faced: 18
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off and middle, he gets behind it and defends
+
+
+Balls faced: 19
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball just outside off, moves back in and just passes over off, as he shoulders arms
+
+
+Balls faced: 20
+Bowler: Hazlewood
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and outside off, he gets his forward stride and shoulders arms
+
+
+Balls faced: 21
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>top shot!</strong> That's one of the best of the day. Over pitched outside off, Hodge strides forward and nails a perfect cover drive
+RM: "@Steve - next batter comes in and the substitution happens when Renshaw is back at the ground?" Yes, that's how they would have to work it
+
+Balls faced: 22
+Bowler: Cummins
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fraction shorter, worked into midwicket
+
+
+Balls faced: 23
+Bowler: Cummins
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fuller, at the stumps, the inswinger from Cummins, Hodge works to the on side. Had to be sharp to keep that out
+
+
+Balls faced: 24
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+moves across to off stump, leaves it alone to the keeper
+
+
+Balls faced: 25
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+132kph, left alone outside off
+
+
+Balls faced: 26
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Welcome back, folks. Some encouraging signs from Kirk McKenzie but West Indies wobbling. Cummins will resume Steve E: "What would happen if Australia needed to use a concussion substitute for a batsman and Renshaw wasn't there?" - It's a valid question. Club cricketers of Adelaide, be ready!
+
+back of a length, just outside off, left alone
+
+
+Balls faced: 27
+Bowler: Starc
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+A loud "YES!" to get going in Test cricket for Hodge, as he hops and nudges the back of the length ball on middle and leg to fine leg
+
+
+Balls faced: 28
+Bowler: Starc
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Matthew Renshaw will be released from the Australia squad to play for the Brisbane Heat against the Sydney Sixers in the BBL qualifier on Friday. Renshaw will join the Heat tomorrow evening before returning to Adelaide on Saturday for day four the Test match against the West Indies.
+
+Length ball just around off, he taps and sets off for a run but gets no response from his partner
+
+
+Balls faced: 29
+Bowler: Green
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+wide outside off, left alone
+
+
+Balls faced: 30
+Bowler: Green
+Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer, angles down the leg side, comfortably over his back
+
+
+Balls faced: 31
+Bowler: Green
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length outside off, hanging back in the crease, defended with an open face
+
+
+Balls faced: 32
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>top shot!</strong> That's one of the best of the day. Over pitched outside off, Hodge strides forward and nails a perfect cover drive
+RM: "@Steve - next batter comes in and the substitution happens when Renshaw is back at the ground?" Yes, that's how they would have to work it
+
+Balls faced: 33
+Bowler: Cummins
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fraction shorter, worked into midwicket
+
+
+Balls faced: 34
+Bowler: Cummins
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fuller, at the stumps, the inswinger from Cummins, Hodge works to the on side. Had to be sharp to keep that out
+
+
+Balls faced: 35
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+moves across to off stump, leaves it alone to the keeper
+
+
+Balls faced: 36
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+132kph, left alone outside off
+
+
+Balls faced: 37
+Bowler: Cummins
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Welcome back, folks. Some encouraging signs from Kirk McKenzie but West Indies wobbling. Cummins will resume Steve E: "What would happen if Australia needed to use a concussion substitute for a batsman and Renshaw wasn't there?" - It's a valid question. Club cricketers of Adelaide, be ready!
+
+back of a length, just outside off, left alone
+
+
+Balls faced: 38
+Bowler: Cummins
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Deep square leg out
+
+full at off stump, 141kph, defended
+
+
+Balls faced: 39
+Bowler: Green
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+wide outside off, left alone
+
+
+Balls faced: 40
+Bowler: Green
+Over: 29
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer, angles down the leg side, comfortably over his back
+
+
+Balls faced: 41
+Bowler: Green
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length outside off, hanging back in the crease, defended with an open face
+
+
+Balls faced: 42
+Bowler: Green
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full at off stump, 141kph, defended. Good pace from Green
+
+
+Balls faced: 43
+Bowler: Cummins
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Deep square leg out
+
+full at off stump, 141kph, defended
+
+
+Balls faced: 44
+Bowler: Green
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full at off stump, 141kph, defended. Good pace from Green
+
+
+Balls faced: 45
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length outside off, 131kph, left alone
+
+
+Balls faced: 46
+Bowler: Green
+Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer at 137kph
+
+
+Balls faced: 47
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of a length outside off, nice carry as he leaves alone
+
+
+Balls faced: 48
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full outside off, gets forward, defended to mid-off. Green looks in good rhythm
+
+
+Balls faced: 49
+Bowler: Green
+Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short at the body, fended down into the leg side
+
+
+Balls faced: 50
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length at middle and off, 139kph, defended
+
+
+Balls faced: 51
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length outside off, 131kph, left alone
+
+
+Balls faced: 52
+Bowler: Green
+Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer at 137kph
+
+
+Balls faced: 53
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of a length outside off, nice carry as he leaves alone
+
+
+Balls faced: 54
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full outside off, gets forward, defended to mid-off. Green looks in good rhythm
+
+
+Balls faced: 55
+Bowler: Green
+Over: 33
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short at the body, fended down into the leg side
+
+
+Balls faced: 56
+Bowler: Green
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length at middle and off, 139kph, defended
+
+
+Balls faced: 57
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+left alone outside off
+
+
+Balls faced: 58
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+excellent bouncer! Around off stump, nips back, Hodge sways out of the line. Good cricket
+
+
+Balls faced: 59
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+big appeal for lbw! Nips back from a good length, takes the back leg. Probably too high
+
+
+Balls faced: 60
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+back of a length outside off, 138kph, left alone
+
+
+Balls faced: 61
+Bowler: Green
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+<strong>lovely shot!</strong> Goes full and straight, driven perfectly straight down the ground
+
+
+Balls faced: 62
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short outside off, defended on his toes
+
+
+Balls faced: 63
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+left alone outside off
+
+
+Balls faced: 64
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+excellent bouncer! Around off stump, nips back, Hodge sways out of the line. Good cricket
+
+
+Balls faced: 65
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+big appeal for lbw! Nips back from a good length, takes the back leg. Probably too high
+
+
+Balls faced: 66
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+back of a length outside off, 138kph, left alone
+
+
+Balls faced: 67
+Bowler: Green
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+<strong>lovely shot!</strong> Goes full and straight, driven perfectly straight down the ground
+
+
+Balls faced: 68
+Bowler: Green
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short outside off, defended on his toes
+
+
+Balls faced: 69
+Bowler: Lyon
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 3
+
+
+full toss outside off, driven square through the off side
+Jimmy: "What happened to Shai Hope?" Was offered a chance to tour, I believe, but felt he hadn't played enough red-ball cricket
+
+Balls faced: 70
+Bowler: Hazlewood
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+The clouds have well and truly burned off now
+Hodge is OUT! caught
+c Green b Hazlewood
+Kavem Hodge c Green b Hazlewood 12 (36b 2x4 0x6 62m) SR: 33.33
+<strong>edged, taken by bucket hands Green! </strong>That was travelling. Full outside off, Hodge comes forward to drive, skews off a thick edge and it's snaffled to his left. Standing reasonably close
+Another debutant at No.6 - Justin Greaves
+
+Balls faced: 71
+Bowler: Lyon
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 3
+
+
+full toss outside off, driven square through the off side
+Jimmy: "What happened to Shai Hope?" Was offered a chance to tour, I believe, but felt he hadn't played enough red-ball cricket
+
+Balls faced: 72
+Bowler: Hazlewood
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+The clouds have well and truly burned off now
+Hodge is OUT! caught
+c Green b Hazlewood
+Kavem Hodge c Green b Hazlewood 12 (36b 2x4 0x6 62m) SR: 33.33
+<strong>edged, taken by bucket hands Green! </strong>That was travelling. Full outside off, Hodge comes forward to drive, skews off a thick edge and it's snaffled to his left. Standing reasonably close
+Another debutant at No.6 - Justin Greaves
+
+
+Match: all_games_1375837_1375846.json
+Balls faced: 1
+Bowler: Starc
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 3
+
+
+Very full on off and Hodge meets it with a gentle push past the non-striker and gets three runs for his troubles
+
+
+Balls faced: 2
+Bowler: Starc
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and wide, Hodge shoulders arms
+
+
+Balls faced: 3
+Bowler: Starc
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Bangs it in short and Hodge leaves it alone as it goes across him
+
+
+Balls faced: 4
+Bowler: Starc
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Kavem Hodge joins Athanaze in the middle. That was <b>Test wicket no. 349 for Starc</b>, by the way
+
+Back of length delivery and Hodge starts by riding the bounce and blocking it out
+
+
+Balls faced: 5
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Back of length ball outside off, Hodge shows no interest in that one
+
+
+Balls faced: 6
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Banged in short at 137kph outside off, Hodge sways out of the way
+
+
+Balls faced: 7
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Krishna: "We talk about Starc being a white ball legend. But he's silently up there with very best in red ball cricket too."
+
+Back of length and wide of off stump, Hodge watches it fly past him to the keeper
+
+
+Balls faced: 8
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Hazlewood persists with that line just around off. Hodge continues to defend
+
+
+Balls faced: 9
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Slightly fuller around off, Hodge steers it to gully with soft hands
+
+
+Balls faced: 10
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Matt Renshaw, who flew in to Brisbane after Heat's win in the BBL final yesterday, is on the pitch for Lyon
+
+Length ball angling in on off, Hodge defends
+AnotherPK: "Oh YEEEEAAAAHHH! Imagine every umpiring decision going to the video screen, everyone furiously clicking buttons on their phones to influence the decision. Thumbs down. Batter out. Are you not entertained?"
+
+Balls faced: 11
+Bowler: Starc
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 3
+
+
+Very full on off and Hodge meets it with a gentle push past the non-striker and gets three runs for his troubles
+
+
+Balls faced: 12
+Bowler: Starc
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full and wide, Hodge shoulders arms
+
+
+Balls faced: 13
+Bowler: Starc
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Bangs it in short and Hodge leaves it alone as it goes across him
+
+
+Balls faced: 14
+Bowler: Starc
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Kavem Hodge joins Athanaze in the middle. That was <b>Test wicket no. 349 for Starc</b>, by the way
+
+Back of length delivery and Hodge starts by riding the bounce and blocking it out
+
+
+Balls faced: 15
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Back of length ball outside off, Hodge shows no interest in that one
+
+
+Balls faced: 16
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Banged in short at 137kph outside off, Hodge sways out of the way
+
+
+Balls faced: 17
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Krishna: "We talk about Starc being a white ball legend. But he's silently up there with very best in red ball cricket too."
+
+Back of length and wide of off stump, Hodge watches it fly past him to the keeper
+
+
+Balls faced: 18
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Hazlewood persists with that line just around off. Hodge continues to defend
+
+
+Balls faced: 19
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Slightly fuller around off, Hodge steers it to gully with soft hands
+
+
+Balls faced: 20
+Bowler: Hazlewood
+Over: 21
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Matt Renshaw, who flew in to Brisbane after Heat's win in the BBL final yesterday, is on the pitch for Lyon
+
+Length ball angling in on off, Hodge defends
+AnotherPK: "Oh YEEEEAAAAHHH! Imagine every umpiring decision going to the video screen, everyone furiously clicking buttons on their phones to influence the decision. Thumbs down. Batter out. Are you not entertained?"
+
+Balls faced: 21
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched fuller around off, Hodge defends
+
+
+Balls faced: 22
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<b>Beauty!</b> Hazlewood gets it on a length outside off, but it seams in sharply as Hodge was shouldering arms. He is lucky it goes over the stump!s
+
+
+Balls faced: 23
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+grug: "Moving on from DRS to another favourite gripe, interesting to note that the Aus pace bowlers are keeping up with India's spinners - both completed 22 so far."
+
+Pitches it up, and closer to off stump this time. Hodge defends
+
+
+Balls faced: 24
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+Patterspin: "Forget Kirrily, Cyclone Starc has hit the Gabba."
+
+Bangs in a bumper around off, Hodge was quick to duck under that
+
+
+Balls faced: 25
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Hazlewood pulls his length back, but sticks to that nagging line outside off. Hodge continues to shoulder arms
+
+
+Balls faced: 26
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Pitches it up at 135.6kph, but it's wide of off stump and Greaves lets it go
+
+
+Balls faced: 27
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched fuller around off, Hodge defends
+
+
+Balls faced: 28
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<b>Beauty!</b> Hazlewood gets it on a length outside off, but it seams in sharply as Hodge was shouldering arms. He is lucky it goes over the stump!s
+
+
+Balls faced: 29
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+grug: "Moving on from DRS to another favourite gripe, interesting to note that the Aus pace bowlers are keeping up with India's spinners - both completed 22 so far."
+
+Pitches it up, and closer to off stump this time. Hodge defends
+
+
+Balls faced: 30
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+Patterspin: "Forget Kirrily, Cyclone Starc has hit the Gabba."
+
+Bangs in a bumper around off, Hodge was quick to duck under that
+
+
+Balls faced: 31
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Hazlewood pulls his length back, but sticks to that nagging line outside off. Hodge continues to shoulder arms
+
+
+Balls faced: 32
+Bowler: Hazlewood
+Over: 23
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Pitches it up at 135.6kph, but it's wide of off stump and Greaves lets it go
+
+
+Balls faced: 33
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fuller, but also wider. Hodge doesn't get lured into the drive as he continues to leave
+
+
+Balls faced: 34
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball on a fifth-stump line and Hodge with a well-judged leave
+
+
+Balls faced: 35
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Full around off, Hodge fends it out towards cover
+
+
+Balls faced: 36
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Learjet: "Of the 26 bowlers above Starc on all time wickettakers list, only Waqar Younis, Malcolm Marshall and Dale Steyn have better strike rates. Starc's is 48.31"
+
+Full outside off, Hodge watches it pass him by
+
+
+Balls faced: 37
+Bowler: Hazlewood
+Over: 25
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Good bouncer on off and aimed at the batter, Hodge ducks underneath it
+
+
+Balls faced: 38
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+On a length on off and angling into middle, Hodge nudges it to midwicket off his pads
+
+
+Balls faced: 39
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball outside off, left alone by Kavem Hodge. But looks like he has overstepped!
+
+No Balls: 1
+Balls faced: 40
+Bowler: Starc
+Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fuller length, 137kph, on middle, no swing, he defends
+Muneeb: "@Alex: Isn't it reverse in day night tests? We get Tea in first break and dinner in the second" The first break is 40 minutes and the second break is 20. They did try the reverse at one point but have gone back to what it is for day games.
+
+Balls faced: 41
+Bowler: Starc
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 136kph, angled across, he leaves
+
+
+Balls faced: 42
+Bowler: Starc
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+136kph, fuller length, on off, he drives, not great timing but it's straight of mid-off
+
+
+Balls faced: 43
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fuller, but also wider. Hodge doesn't get lured into the drive as he continues to leave
+
+
+Balls faced: 44
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball on a fifth-stump line and Hodge with a well-judged leave
+
+
+Balls faced: 45
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Full around off, Hodge fends it out towards cover
+
+
+Balls faced: 46
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Learjet: "Of the 26 bowlers above Starc on all time wickettakers list, only Waqar Younis, Malcolm Marshall and Dale Steyn have better strike rates. Starc's is 48.31"
+
+Full outside off, Hodge watches it pass him by
+
+
+Balls faced: 47
+Bowler: Hazlewood
+Over: 25
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Good bouncer on off and aimed at the batter, Hodge ducks underneath it
+
+
+Balls faced: 48
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+On a length on off and angling into middle, Hodge nudges it to midwicket off his pads
+
+
+Balls faced: 49
+Bowler: Hazlewood
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball outside off, left alone by Kavem Hodge. But looks like he has overstepped!
+
+No Balls: 1
+Balls faced: 50
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, 138kph, angled into off, he defends from a compact position
+
+
+Balls faced: 51
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, good length, wider of off, he leaves
+Sammy J: "Why are the breaks split into 40 and 20 minutes anyway? Wouldn't two 30-minute breaks make more sense?" It would to me Sammy. But some may disagree
+
+Balls faced: 52
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+136kph, good length, fifth stump, he defends half forward and gets a thick edge that runs along the ground to gully
+
+
+Balls faced: 53
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 135kph, fifth stump line, he leaves watchfully
+Meety: "As great as Starc is a Test bowler - he is THE greatest white ball bowler of all time" That opinion will create some debate Meety. He has great records in all forms. His pink ball record is unrivalled
+
+Balls faced: 54
+Bowler: Starc
+Over: 26
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fuller length, 137kph, on middle, no swing, he defends
+Muneeb: "@Alex: Isn't it reverse in day night tests? We get Tea in first break and dinner in the second" The first break is 40 minutes and the second break is 20. They did try the reverse at one point but have gone back to what it is for day games.
+
+Balls faced: 55
+Bowler: Starc
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 136kph, angled across, he leaves
+
+
+Balls faced: 56
+Bowler: Starc
+Over: 26
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+136kph, fuller length, on off, he drives, not great timing but it's straight of mid-off
+
+
+Balls faced: 57
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, off stump, he's back to defend
+
+
+Balls faced: 58
+Bowler: Starc
+Over: 28
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+Two slips and two gullies now
+
+<strong>balloons off the shoulder of the bat forward of point!</strong> Short ball rising outside off, he tried to ride it and knock it down, it popped up off the shoulder of the angled bat but fell safe. Hodge punched his bat in frustration at his shot
+
+
+Balls faced: 59
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 2
+
+
+139kph, good length, fourth stump, angled across, he defends with an open bat face and it runs wide of gully again for two more
+
+
+Balls faced: 60
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+fuller and wider, angled across, 141kph, he leaves
+
+
+Balls faced: 61
+Bowler: Starc
+Over: 28
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 4
+
+
+<strong>edged just wide of gully!</strong> A back of a length ball that climbs at Hodge, he defends off the shoulder of the bat and flies just wide of Green's enormous reach at gully
+
+
+Balls faced: 62
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, 138kph, angled into off, he defends from a compact position
+
+
+Balls faced: 63
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, good length, wider of off, he leaves
+Sammy J: "Why are the breaks split into 40 and 20 minutes anyway? Wouldn't two 30-minute breaks make more sense?" It would to me Sammy. But some may disagree
+
+Balls faced: 64
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+136kph, good length, fifth stump, he defends half forward and gets a thick edge that runs along the ground to gully
+
+
+Balls faced: 65
+Bowler: Cummins
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 135kph, fifth stump line, he leaves watchfully
+Meety: "As great as Starc is a Test bowler - he is THE greatest white ball bowler of all time" That opinion will create some debate Meety. He has great records in all forms. His pink ball record is unrivalled
+
+Balls faced: 66
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, off stump, he's back to defend
+
+
+Balls faced: 67
+Bowler: Starc
+Over: 28
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+Two slips and two gullies now
+
+<strong>balloons off the shoulder of the bat forward of point!</strong> Short ball rising outside off, he tried to ride it and knock it down, it popped up off the shoulder of the angled bat but fell safe. Hodge punched his bat in frustration at his shot
+
+
+Balls faced: 68
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 2
+
+
+139kph, good length, fourth stump, angled across, he defends with an open bat face and it runs wide of gully again for two more
+
+
+Balls faced: 69
+Bowler: Starc
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+fuller and wider, angled across, 141kph, he leaves
+
+
+Balls faced: 70
+Bowler: Starc
+Over: 28
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 4
+
+
+<strong>edged just wide of gully!</strong> A back of a length ball that climbs at Hodge, he defends off the shoulder of the bat and flies just wide of Green's enormous reach at gully
+
+
+Balls faced: 71
+Bowler: Starc
+Over: 30
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Two men back in the deep
+
+good length angled well down leg
+AussieBren: "Liking Da Silva's approach. What do you think of the Windies using a Bazball approach in Tests? Given they are natural boundary hitters it might help them out a bit." Could work. The challenge would be with the two openers. They would have to completely change their natural games. You want guys playing with a method that suits them at this level. That's the art of coaching and selection.
+
+Balls faced: 72
+Bowler: Starc
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fuller length, he checks a drive nicely straight to mid-off
+
+
+Balls faced: 73
+Bowler: Starc
+Over: 30
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+<strong>pulled high over fine leg!</strong> Short into the ribs, he swivels inside and goes from low to high deliberately to get fine of the man in the deep and it goes all the way
+
+
+Balls faced: 74
+Bowler: Starc
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Fine leg and deep square back. Two slips and two gullies
+
+137kph, good length on middle, he defends on the front foot to mid-on who is a fraction deep
+
+
+Balls faced: 75
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, fuller, fifth stump line, tempting the drive, he's not tempted
+smug: "Is Cummins slightly out of rhythm compared to Pak series? Comparatively more boundary balls this match and last!"
+
+Balls faced: 76
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+137kph, good length, angled into middle and leg, he's cramped up as he tries to defend and it drops down off his thigh guard
+
+
+Balls faced: 77
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, good length, nipping and bouncing over off, a good leave on length
+
+
+Balls faced: 78
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+bouncer over middle, 137kph, he ducks underneath it
+
+
+Balls faced: 79
+Bowler: Starc
+Over: 30
+Pitch Line: WIDE_DOWN_LEG Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Two men back in the deep
+
+good length angled well down leg
+AussieBren: "Liking Da Silva's approach. What do you think of the Windies using a Bazball approach in Tests? Given they are natural boundary hitters it might help them out a bit." Could work. The challenge would be with the two openers. They would have to completely change their natural games. You want guys playing with a method that suits them at this level. That's the art of coaching and selection.
+
+Balls faced: 80
+Bowler: Starc
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fuller length, he checks a drive nicely straight to mid-off
+
+
+Balls faced: 81
+Bowler: Starc
+Over: 30
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+<strong>pulled high over fine leg!</strong> Short into the ribs, he swivels inside and goes from low to high deliberately to get fine of the man in the deep and it goes all the way
+
+
+Balls faced: 82
+Bowler: Starc
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Fine leg and deep square back. Two slips and two gullies
+
+137kph, good length on middle, he defends on the front foot to mid-on who is a fraction deep
+
+
+Balls faced: 83
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 126kph, fifth stump line, he leaves
+
+
+Balls faced: 84
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+123kph, fuller length, he checks a drive without timing to cover
+
+
+Balls faced: 85
+Bowler: Marsh
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+good length, 125kph, nipping into the thigh guard and dropping down into the off side
+
+
+Balls faced: 86
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+121kph, good length, wobbling well wide of off, he leaves
+
+
+Balls faced: 87
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, fuller, fifth stump line, tempting the drive, he's not tempted
+smug: "Is Cummins slightly out of rhythm compared to Pak series? Comparatively more boundary balls this match and last!"
+
+Balls faced: 88
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+137kph, good length, angled into middle and leg, he's cramped up as he tries to defend and it drops down off his thigh guard
+
+
+Balls faced: 89
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+137kph, good length, nipping and bouncing over off, a good leave on length
+
+
+Balls faced: 90
+Bowler: Cummins
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+bouncer over middle, 137kph, he ducks underneath it
+
+
+Balls faced: 91
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+tight leave. 138kph, good length, fourth stump, he trusts that there's no seam movement in. Good leave
+Rayen: "Hodge should rotate the strike like Da Silva to keep the momentum going rather be so self defensive and building pressure on himself and the team. " He's playing pretty well, Rayen. Australia aren't giving much away.
+
+Balls faced: 92
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, angled into off, 141kph, he defends on the front foot
+
+
+Balls faced: 93
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+139kph, overpitched, he drives with control, slicing it through cover-point for a couple
+West Indies reach three figures
+
+Balls faced: 94
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 126kph, fifth stump line, he leaves
+
+
+Balls faced: 95
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+123kph, fuller length, he checks a drive without timing to cover
+
+
+Balls faced: 96
+Bowler: Marsh
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+good length, 125kph, nipping into the thigh guard and dropping down into the off side
+
+
+Balls faced: 97
+Bowler: Marsh
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+121kph, good length, wobbling well wide of off, he leaves
+
+
+Balls faced: 98
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 126kph, wide of off, he leaves
+Steggles: "What will be a good first innings score for West Indies on this pitch? 200 or 250?" The way this pitch is playing, 300 plus looks a decent score. 200-250 looks under par. But always hard to judge this early on. We'll have to wait until Australia bat.
+
+Balls faced: 99
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, wide of off, 126kph, he leaves this alone
+
+
+Balls faced: 100
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, fourth stump, he defends from the crease
+
+
+Balls faced: 101
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+brilliant save from Cummins. Marsh overpitches, Hodge punches an on drive with power but Cummins makes a sliding stop to save four
+
+
+Balls faced: 102
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+tight leave. 138kph, good length, fourth stump, he trusts that there's no seam movement in. Good leave
+Rayen: "Hodge should rotate the strike like Da Silva to keep the momentum going rather be so self defensive and building pressure on himself and the team. " He's playing pretty well, Rayen. Australia aren't giving much away.
+
+Balls faced: 103
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, angled into off, 141kph, he defends on the front foot
+
+
+Balls faced: 104
+Bowler: Cummins
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+139kph, overpitched, he drives with control, slicing it through cover-point for a couple
+West Indies reach three figures
+
+Balls faced: 105
+Bowler: Hazlewood
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, fifth stump line, he leaves it alone
+
+
+Balls faced: 106
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, 126kph, wide of off, he leaves
+Steggles: "What will be a good first innings score for West Indies on this pitch? 200 or 250?" The way this pitch is playing, 300 plus looks a decent score. 200-250 looks under par. But always hard to judge this early on. We'll have to wait until Australia bat.
+
+Balls faced: 107
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, wide of off, 126kph, he leaves this alone
+
+
+Balls faced: 108
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+good length, fourth stump, he defends from the crease
+
+
+Balls faced: 109
+Bowler: Marsh
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+brilliant save from Cummins. Marsh overpitches, Hodge punches an on drive with power but Cummins makes a sliding stop to save four
+
+
+Balls faced: 110
+Bowler: Lyon
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+tossed up, middle and off, 88kph, he leans out to defend
+jishnu m: "It will be really difficult to bat under lights, especially starting your innings, if windies are all out by this session Aussies batters might have a tough job to do."
+
+Balls faced: 111
+Bowler: Lyon
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+flatter, on leg, 91kph, he's back to glance it to wide short fine
+
+
+Balls faced: 112
+Bowler: Hazlewood
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+good length, fifth stump line, he leaves it alone
+
+
+Balls faced: 113
+Bowler: Lyon
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+tossed up, middle and off, 88kph, he leans out to defend
+jishnu m: "It will be really difficult to bat under lights, especially starting your innings, if windies are all out by this session Aussies batters might have a tough job to do."
+
+Balls faced: 114
+Bowler: Lyon
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+flatter, on leg, 91kph, he's back to glance it to wide short fine
+
+
+Balls faced: 115
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+shorter length on off, 88kph, he's back to whip it past midwicket to the sweeper
+
+
+Balls faced: 116
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+good length, 92kph, fourth stump line, he punches off the back foot back to the bowler
+
+
+Balls faced: 117
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+leg stump line again, 90kph, he's back to work it past short leg
+
+
+Balls faced: 118
+Bowler: Lyon
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Still around the wicket
+
+89kph, tossed up, sliding across outside off, he defends off the back foot
+
+
+Balls faced: 119
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+89kph, good length, spinning down leg, he's back to glance to short fine
+
+
+Balls faced: 120
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+shorter length on off, 88kph, he's back to whip it past midwicket to the sweeper
+
+
+Balls faced: 121
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+good length, 92kph, fourth stump line, he punches off the back foot back to the bowler
+
+
+Balls faced: 122
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+leg stump line again, 90kph, he's back to work it past short leg
+
+
+Balls faced: 123
+Bowler: Lyon
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Still around the wicket
+
+89kph, tossed up, sliding across outside off, he defends off the back foot
+
+
+Balls faced: 124
+Bowler: Lyon
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+89kph, good length, spinning down leg, he's back to glance to short fine
+
+
+Balls faced: 125
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Over the wicket now
+
+On a length outside off and it spins in. Hodge drops it square on the leg side with soft hands
+
+
+Balls faced: 126
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Too full and Hodge tucks it behind square for a single
+
+
+Balls faced: 127
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks Alex. Can West Indies cash in on more runs before that dreaded twilight period though? They will be very happy to have gone an hour without any damage though, after losing five in the first session
+
+Fired in on a length on middle and spinning into him, Hodge meets it with a forward defense
+
+
+Balls faced: 128
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Over the wicket now
+
+On a length outside off and it spins in. Hodge drops it square on the leg side with soft hands
+
+
+Balls faced: 129
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Too full and Hodge tucks it behind square for a single
+
+
+Balls faced: 130
+Bowler: Lyon
+Over: 40
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks Alex. Can West Indies cash in on more runs before that dreaded twilight period though? They will be very happy to have gone an hour without any damage though, after losing five in the first session
+
+Fired in on a length on middle and spinning into him, Hodge meets it with a forward defense
+
+
+Balls faced: 131
+Bowler: Lyon
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Fuller and Hodge clips it to the bowler's right
+
+
+Balls faced: 132
+Bowler: Lyon
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+Lyon falters with one slightly short outside off. Hodge is quick to slash it away through point
+
+
+Balls faced: 133
+Bowler: Lyon
+Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+On a length outside off, Hodge turns it behind square and gets a run
+
+
+Balls faced: 134
+Bowler: Lyon
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Fuller and Hodge clips it to the bowler's right
+
+
+Balls faced: 135
+Bowler: Lyon
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+Lyon falters with one slightly short outside off. Hodge is quick to slash it away through point
+
+
+Balls faced: 136
+Bowler: Lyon
+Over: 42
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+On a length outside off, Hodge turns it behind square and gets a run
+
+
+Balls faced: 137
+Bowler: Lyon
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Full on middle, Hodge flicks it out to wide long-on
+
+
+Balls faced: 138
+Bowler: Lyon
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Slid in full on middle, Hodge defends
+
+
+Balls faced: 139
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+<b>Full, but too wide and Hodge cashes in.</b> Crashes a drive through point
+
+
+Balls faced: 140
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Full outside off, worked back to the bowler
+
+
+Balls faced: 141
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+On a length outside off, punched away square on the off side
+
+
+Balls faced: 142
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball just outside off, parried towards gully as Green completes a maiden
+
+
+Balls faced: 143
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<strong>Swing and a miss!</strong> Green goes short outside off and Hodge has a wild swipe at it but misses his attempted pull
+
+
+Balls faced: 144
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball outside off, Hodge rises with the bounce and steers it to gully
+
+
+Balls faced: 145
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Peter: "123 for 5 , may favourite cricket score!"
+
+Full around off, he parries and it goes to cover
+
+
+Balls faced: 146
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+AnotherPK : "Love a good barnacle keeper-batter."
+
+Back of length delivery around off, he hangs back and punches to cover
+
+
+Balls faced: 147
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+On a length outside off and it's a good leave from Hodge as the ball shapes away past the stumps
+
+
+Balls faced: 148
+Bowler: Lyon
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Full on middle, Hodge flicks it out to wide long-on
+
+
+Balls faced: 149
+Bowler: Lyon
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Slid in full on middle, Hodge defends
+
+
+Balls faced: 150
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+<b>Full, but too wide and Hodge cashes in.</b> Crashes a drive through point
+
+
+Balls faced: 151
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Full outside off, worked back to the bowler
+
+
+Balls faced: 152
+Bowler: Lyon
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+On a length outside off, punched away square on the off side
+
+
+Balls faced: 153
+Bowler: Lyon
+Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Tossed fuller and he works it leg side
+
+
+Balls faced: 154
+Bowler: Lyon
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+On a length outside off, Hodge goes back and whips it to the square leg fielder
+
+
+Balls faced: 155
+Bowler: Lyon
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Tossed up outside off, Hodge gets to the pitch of it and drives to cover point
+
+
+Balls faced: 156
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball just outside off, parried towards gully as Green completes a maiden
+
+
+Balls faced: 157
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<strong>Swing and a miss!</strong> Green goes short outside off and Hodge has a wild swipe at it but misses his attempted pull
+
+
+Balls faced: 158
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball outside off, Hodge rises with the bounce and steers it to gully
+
+
+Balls faced: 159
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Peter: "123 for 5 , may favourite cricket score!"
+
+Full around off, he parries and it goes to cover
+
+
+Balls faced: 160
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+AnotherPK : "Love a good barnacle keeper-batter."
+
+Back of length delivery around off, he hangs back and punches to cover
+
+
+Balls faced: 161
+Bowler: Green
+Over: 45
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+On a length outside off and it's a good leave from Hodge as the ball shapes away past the stumps
+
+
+Balls faced: 162
+Bowler: Starc
+Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball on off and Hodge defends firmly
+
+
+Balls faced: 163
+Bowler: Starc
+Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Mark: "Highest Partnership for either side this series" Actually, yes. Best of the series so far!
+
+Full on off, he looks to work it leg side and it goes to mid-on off the inside half of the bat
+
+
+Balls faced: 164
+Bowler: Lyon
+Over: 46
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Tossed fuller and he works it leg side
+
+
+Balls faced: 165
+Bowler: Lyon
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+On a length outside off, Hodge goes back and whips it to the square leg fielder
+
+
+Balls faced: 166
+Bowler: Lyon
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Tossed up outside off, Hodge gets to the pitch of it and drives to cover point
+
+
+Balls faced: 167
+Bowler: Cummins
+Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Full around off, Hodge looks to work it square and gets an inside edge to deep backward square
+
+
+Balls faced: 168
+Bowler: Starc
+Over: 47
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball on off and Hodge defends firmly
+
+
+Balls faced: 169
+Bowler: Starc
+Over: 47
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Mark: "Highest Partnership for either side this series" Actually, yes. Best of the series so far!
+
+Full on off, he looks to work it leg side and it goes to mid-on off the inside half of the bat
+
+
+Balls faced: 170
+Bowler: Starc
+Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Full outside off and Hodge reaches out and drives it out to deep point
+
+
+Balls faced: 171
+Bowler: Starc
+Over: 49
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Brodie: "Pitch assessment thus far? Spicy as the other wickets this summer?" There was some movement early on, but has gotten easier to bat on. Definitely no demons, but offering enough for bowlers and batters. Lyon has got quite a bit of spin off the surface, but WI have done well to keep him at bay
+
+Length ball just outside off and Hodge leaves it alone
+
+
+Balls faced: 172
+Bowler: Cummins
+Over: 48
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Full around off, Hodge looks to work it square and gets an inside edge to deep backward square
+
+
+Balls faced: 173
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Cummins angles in a length ball from outside off, Hodge tucks it in front of square leg
+Head is back on the field now
+
+Balls faced: 174
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Bumper on off, Hodge is happy to duck under it
+
+
+Balls faced: 175
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Full around off, Hodge pushes it to cover
+
+
+Balls faced: 176
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Renshaw is on the field in place of Travis Head, Gnasher informs me from the Gabba. Head had suffered that blow to his wrist fielding at forward short leg
+
+Back of length outside off, Kavem Hodge presses forward but lets it go
+
+
+Balls faced: 177
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Full outside off, left alone by Hodge. That was close to off-stump, but a well-adjudged leave
+
+
+Balls faced: 178
+Bowler: Cummins
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Cummins starts the over with a bouncer outside off at 137kph, Hodge sways away from harm's way
+
+
+Balls faced: 179
+Bowler: Starc
+Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Full outside off and Hodge reaches out and drives it out to deep point
+
+
+Balls faced: 180
+Bowler: Starc
+Over: 49
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Brodie: "Pitch assessment thus far? Spicy as the other wickets this summer?" There was some movement early on, but has gotten easier to bat on. Definitely no demons, but offering enough for bowlers and batters. Lyon has got quite a bit of spin off the surface, but WI have done well to keep him at bay
+
+Length ball just outside off and Hodge leaves it alone
+
+
+
+Match: all_games_1375837_1375847.json
+Balls faced: 1
+Bowler: Bartlett
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Length on fourth, a tad squared up as he defends to the off side
+
+
+Balls faced: 2
+Bowler: Abbott
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Ducks under the bouncer arrowing in towards him
+For the uninitiated, Bartlett was a gun for Brisbane Heat in the recently concluded BBL. <a href="https://www.espncricinfo.com/story/xavier-bartlett-for-australia-quick-s-rise-as-brisbane-heat-s-true-x-factor-1416839">Tristan Lavalette charted his progress here</a>
+
+Balls faced: 3
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Wide on a length, dabbed to the left of point. Good fielding stops it
+
+
+Balls faced: 4
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Tad back of a length just outside off, tapped on its head to deep third
+
+
+Balls faced: 5
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched up on fifth, 138ks, driven off the front foot to mid-off
+
+
+Balls faced: 6
+Bowler: Bartlett
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Length on fourth, a tad squared up as he defends to the off side
+
+
+Balls faced: 7
+Bowler: Bartlett
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Looked like a dipping ball. 129ks ball looked slower than it was on first impression. Hodge cleared his feet and jammed it to the off side for a quick run
+
+
+Balls faced: 8
+Bowler: Abbott
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Ducks under the bouncer arrowing in towards him
+For the uninitiated, Bartlett was a gun for Brisbane Heat in the recently concluded BBL. <a href="https://www.espncricinfo.com/story/xavier-bartlett-for-australia-quick-s-rise-as-brisbane-heat-s-true-x-factor-1416839">Tristan Lavalette charted his progress here</a>
+
+Balls faced: 9
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Wide on a length, dabbed to the left of point. Good fielding stops it
+
+
+Balls faced: 10
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Tad back of a length just outside off, tapped on its head to deep third
+
+
+Balls faced: 11
+Bowler: Abbott
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched up on fifth, 138ks, driven off the front foot to mid-off
+
+
+Balls faced: 12
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Ducks under the bouncer to let it go
+
+
+Balls faced: 13
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Length outside off, steered to deep point
+
+
+Balls faced: 14
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Morris back. Mike Hussey likes the move. Slip in
+
+Almost finds the edge. Hard length on fourth, 141ks, opens Hodge up as he has an indecisive poke. Doesn't reach out which ensures he doesn't nick it
+
+
+Balls faced: 15
+Bowler: Bartlett
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Looked like a dipping ball. 129ks ball looked slower than it was on first impression. Hodge cleared his feet and jammed it to the off side for a quick run
+
+
+Balls faced: 16
+Bowler: Green
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Length on sixth, checks the cut to point
+Steve: "Lot of talk about the debutants being successors, but what about Adam Zampa's replacement?"
+
+Balls faced: 17
+Bowler: Green
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+Hit and run to mid-on's right. Fullish at the stumps, Carty clipped it and took off right away, Zampa ran in and couldn't pick up the ball with his right hand
+
+
+Balls faced: 18
+Bowler: Green
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 4
+
+
+Edged wide of the lone slip! Back of length on fifth, Hodge checks the shot. Got his bat with a slightly pronounced back lift but the shot looked short-arm with the late whip
+
+
+Balls faced: 19
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Ducks under the bouncer to let it go
+
+
+Balls faced: 20
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Length outside off, steered to deep point
+
+
+Balls faced: 21
+Bowler: Morris
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Morris back. Mike Hussey likes the move. Slip in
+
+Almost finds the edge. Hard length on fourth, 141ks, opens Hodge up as he has an indecisive poke. Doesn't reach out which ensures he doesn't nick it
+
+
+Balls faced: 22
+Bowler: Morris
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Back of length on top of middle, Hodge goes back in the crease and tucks the 144ks ball to forward square leg
+
+
+Balls faced: 23
+Bowler: Morris
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Good gas again. Bumper outside off, 137ks, Hodge tried to drag it across with the pull, got beaten
+
+
+Balls faced: 24
+Bowler: Morris
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+Chips it over the bowler, not off the middle. Green chases from mid-on, stops it in the outfield. This was pitched up at the stumps, Hodge drove it straight and held his pose
+Lachlan: "Zampa is 31 years old and in the peak of his career, why would we need to talk about his replacement when plenty of spinners exceed well into their 30s "
+
+Balls faced: 25
+Bowler: Morris
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Zips back in to beat the cut. Hard length on fourth, pitched further away and cut back in, Hodge tried playing it square and was left without room
+
+
+Balls faced: 26
+Bowler: Green
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Length on sixth, checks the cut to point
+Steve: "Lot of talk about the debutants being successors, but what about Adam Zampa's replacement?"
+
+Balls faced: 27
+Bowler: Green
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+Hit and run to mid-on's right. Fullish at the stumps, Carty clipped it and took off right away, Zampa ran in and couldn't pick up the ball with his right hand
+
+
+Balls faced: 28
+Bowler: Green
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 4
+
+
+Edged wide of the lone slip! Back of length on fifth, Hodge checks the shot. Got his bat with a slightly pronounced back lift but the shot looked short-arm with the late whip
+
+
+Balls faced: 29
+Bowler: Green
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+Hodge is OUT! caught
+c sub (MW Harvey) b Green
+Kavem Hodge c sub (MW Harvey) b Green 11 (18b 1x4 0x6 23m) SR: 61.11
+<b>Green strikes!</b> Was on the fuller side of good length, in the line of the stumps. Hodge looks to go aerial but fails to middle it and mid-on takes a step or two back to gobble it up
+And it's time for a drinks break
+
+Balls faced: 30
+Bowler: Green
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks, Ekanth
+
+length outside off. Dabbed towards backward point
+
+
+Balls faced: 31
+Bowler: Morris
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Back of length on top of middle, Hodge goes back in the crease and tucks the 144ks ball to forward square leg
+
+
+Balls faced: 32
+Bowler: Morris
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Good gas again. Bumper outside off, 137ks, Hodge tried to drag it across with the pull, got beaten
+
+
+Balls faced: 33
+Bowler: Morris
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+Chips it over the bowler, not off the middle. Green chases from mid-on, stops it in the outfield. This was pitched up at the stumps, Hodge drove it straight and held his pose
+Lachlan: "Zampa is 31 years old and in the peak of his career, why would we need to talk about his replacement when plenty of spinners exceed well into their 30s "
+
+Balls faced: 34
+Bowler: Morris
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Zips back in to beat the cut. Hard length on fourth, pitched further away and cut back in, Hodge tried playing it square and was left without room
+
+
+Balls faced: 35
+Bowler: Green
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+Hodge is OUT! caught
+c sub (MW Harvey) b Green
+Kavem Hodge c sub (MW Harvey) b Green 11 (18b 1x4 0x6 23m) SR: 61.11
+<b>Green strikes!</b> Was on the fuller side of good length, in the line of the stumps. Hodge looks to go aerial but fails to middle it and mid-on takes a step or two back to gobble it up
+And it's time for a drinks break
+
+Balls faced: 36
+Bowler: Green
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks, Ekanth
+
+length outside off. Dabbed towards backward point
+
+
+
+Match: all_games_1375837_1415302.json
+Balls faced: 1
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Haskett
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Haskett
+Over: 43
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 3
+
+
+
+
+
+Balls faced: 20
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 3
+
+
+
+
+
+Balls faced: 28
+Bowler: Haskett
+Over: 45
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Warren
+Over: 46
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 35
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 37
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 39
+Bowler: Haskett
+Over: 49
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Haskett
+Over: 49
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 41
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 42
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 43
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 44
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 45
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 46
+Bowler: Warren
+Over: 48
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 47
+Bowler: Haskett
+Over: 49
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: Haskett
+Over: 49
+ 
+Shot: No Shot
+Run scored: 4

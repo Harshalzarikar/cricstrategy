@@ -1,0 +1,66 @@
+Match: all_games_1407043_1407107.json
+Balls faced: 1
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+NM Odhiambo is OUT! bowled
+ b Sikandar Raza
+Nelson Odhiambo b Sikandar Raza 2 (3b 0x4 0x6) SR: 66.66
+
+
+
+Balls faced: 2
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 3
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+NM Odhiambo is OUT! bowled
+ b Sikandar Raza
+Nelson Odhiambo b Sikandar Raza 2 (3b 0x4 0x6) SR: 66.66
+
+
+
+Balls faced: 5
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 6
+Bowler: Raza
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0

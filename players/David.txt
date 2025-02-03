@@ -1,0 +1,3076 @@
+Match: all_games_1375837_1375850.json
+Balls faced: 1
+Bowler: Russell
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+pats a full toss down the ground
+
+
+Balls faced: 2
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+touch shorter, driven off the back foot to deep cover
+Five overs to go. You'd say another 50 is minimum for Australia
+
+Balls faced: 3
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+steps back outside off, square drives powerfully into point. Another dot
+
+
+Balls faced: 4
+Bowler: Hosein
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+speared in at leg stump, takes an inside edge to the on side
+
+
+Balls faced: 5
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+West Indies fighting back. Do Australia need to consolidate for an over or two, or just keeping going? Hosein for his last
+
+steps back and cuts off the stumps to deep point
+
+
+Balls faced: 6
+Bowler: Russell
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+pats a full toss down the ground
+
+
+Balls faced: 7
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+width again, slices the drive to deep point, could easily have gone to the fence again
+Khalid: "During the WC in the Caribbean, WI will probably include a 2nd spinner in Motie. Who will they leave out - Shepherd or Joseph?" Will be interesting to see how a number of sides balance up
+
+Balls faced: 8
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+throws his hands through this one! That's David's power. Full and wide, he latches on and crunches it through the covers
+
+
+Balls faced: 9
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+Shepherd is back Bernie: "Keep thinking there is going to be a "power surge". Would be good to see it in international T20"
+
+full outside off, driven through the covers, place wide of long off
+
+
+Balls faced: 10
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+touch shorter, driven off the back foot to deep cover
+Five overs to go. You'd say another 50 is minimum for Australia
+
+Balls faced: 11
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+steps back outside off, square drives powerfully into point. Another dot
+
+
+Balls faced: 12
+Bowler: Hosein
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+speared in at leg stump, takes an inside edge to the on side
+
+
+Balls faced: 13
+Bowler: Hosein
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+West Indies fighting back. Do Australia need to consolidate for an over or two, or just keeping going? Hosein for his last
+
+steps back and cuts off the stumps to deep point
+
+
+Balls faced: 14
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+<strong>hammered!</strong> More of David's power. Full and straight, short of a yorker, David nails it perfectly straight down the ground
+
+
+Balls faced: 15
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+a slower short ball, David waits a fraction and pulls it backward of square
+
+
+Balls faced: 16
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+width again, slices the drive to deep point, could easily have gone to the fence again
+Khalid: "During the WC in the Caribbean, WI will probably include a 2nd spinner in Motie. Who will they leave out - Shepherd or Joseph?" Will be interesting to see how a number of sides balance up
+
+Balls faced: 17
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+throws his hands through this one! That's David's power. Full and wide, he latches on and crunches it through the covers
+
+
+Balls faced: 18
+Bowler: Shepherd
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+Shepherd is back Bernie: "Keep thinking there is going to be a "power surge". Would be good to see it in international T20"
+
+full outside off, driven through the covers, place wide of long off
+
+
+Balls faced: 19
+Bowler: Shepherd
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+well bowled, a wide yorker outside off, drives over the top it
+
+
+Balls faced: 20
+Bowler: Shepherd
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<b>a skimmer!</b> Barely gets off the ground. It's a low full toss and he uses immense power in the wrists to flick it flat over deep square
+
+
+Balls faced: 21
+Bowler: Shepherd
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+Taking a while to set the field
+
+full and straight, 138kph, worked through midwicket
+
+
+Balls faced: 22
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+<strong>hammered!</strong> More of David's power. Full and straight, short of a yorker, David nails it perfectly straight down the ground
+
+
+Balls faced: 23
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+a slower short ball, David waits a fraction and pulls it backward of square
+
+
+Balls faced: 24
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 4
+
+
+<b>all the way again!</b> Full, angling into the pads, flicks this towards long leg where it hits the boundary marker on the full. Actually, this will be changed, it pitches just before the rope so will be four
+Super innings from David
+
+Balls faced: 25
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+another full toss, high into the leg side, and <b>two fielders leave it to each other</b>...ball drops safe
+
+
+Balls faced: 26
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+<b>launched straight...and that's wind assisted!</b> A low full toss and David swings through the line straight down the ground
+
+
+Balls faced: 27
+Bowler: Shepherd
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+well bowled, a wide yorker outside off, drives over the top it
+
+
+Balls faced: 28
+Bowler: Shepherd
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<b>a skimmer!</b> Barely gets off the ground. It's a low full toss and he uses immense power in the wrists to flick it flat over deep square
+
+
+Balls faced: 29
+Bowler: Shepherd
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+Taking a while to set the field
+
+full and straight, 138kph, worked through midwicket
+
+
+Balls faced: 30
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+low full toss at the toes, worked down to long on
+
+
+Balls faced: 31
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 4
+
+
+<b>all the way again!</b> Full, angling into the pads, flicks this towards long leg where it hits the boundary marker on the full. Actually, this will be changed, it pitches just before the rope so will be four
+Super innings from David
+
+Balls faced: 32
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 1
+
+
+another full toss, high into the leg side, and <b>two fielders leave it to each other</b>...ball drops safe
+
+
+Balls faced: 33
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+<b>launched straight...and that's wind assisted!</b> A low full toss and David swings through the line straight down the ground
+
+
+Balls faced: 34
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+low full toss at the toes, worked down to long on
+
+
+
+Match: all_games_1375837_1375851.json
+Balls faced: 1
+Bowler: Holder
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full at off stump, driven to mid-off on the edge of the ring
+
+
+Balls faced: 2
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+pulls this one from outside off to long on
+
+
+Balls faced: 3
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+and again! This was shorter, David cuts it in the air but through the gap and too square for deep third to get around
+
+
+Balls faced: 4
+Bowler: Shepherd
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+sliced away from outside off, took advantage of a hint of width and he back cuts it through point
+
+
+Balls faced: 5
+Bowler: Holder
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full at off stump, driven to mid-off on the edge of the ring
+
+
+Balls faced: 6
+Bowler: Russell
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Russell is called back
+
+driven through the covers
+Dennis: "Surely Matt Short would be a better alternative to Stoinis - every game I see Stoi play, unfortunately always makes between 10 and 30 at a rate slower than everyone else…" Short would have been in this squad if not for injury
+
+Balls faced: 7
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+pulls this one from outside off to long on
+
+
+Balls faced: 8
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+and again! This was shorter, David cuts it in the air but through the gap and too square for deep third to get around
+
+
+Balls faced: 9
+Bowler: Shepherd
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+sliced away from outside off, took advantage of a hint of width and he back cuts it through point
+
+
+Balls faced: 10
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+short and flies over the top edge at 146kph as David pulls
+Joseph has been good tonight. Has bowled with proper pace.
+
+Balls faced: 11
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+good response, a straight yorker, driven to deep cover
+
+
+Balls faced: 12
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>that sounded great!</strong> Latches onto another short one, small matter of 148kph, and launches it miles back over deep midwicket
+
+
+Balls faced: 13
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+Joseph for his last over
+
+splices a short one but has the distance to clear short fine leg
+
+
+Balls faced: 14
+Bowler: Russell
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Russell is called back
+
+driven through the covers
+Dennis: "Surely Matt Short would be a better alternative to Stoinis - every game I see Stoi play, unfortunately always makes between 10 and 30 at a rate slower than everyone else…" Short would have been in this squad if not for injury
+
+Balls faced: 15
+Bowler: Holder
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+comes round the wicket, full at the toes, worked through midwicket
+
+
+Balls faced: 16
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+short and flies over the top edge at 146kph as David pulls
+Joseph has been good tonight. Has bowled with proper pace.
+
+Balls faced: 17
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+good response, a straight yorker, driven to deep cover
+
+
+Balls faced: 18
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>that sounded great!</strong> Latches onto another short one, small matter of 148kph, and launches it miles back over deep midwicket
+
+
+Balls faced: 19
+Bowler: Alzarri Joseph
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+Joseph for his last over
+
+splices a short one but has the distance to clear short fine leg
+
+
+Balls faced: 20
+Bowler: Shepherd
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+round the wicket, a low full toss, scooped in the air down the ground
+
+
+Balls faced: 21
+Bowler: Holder
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+comes round the wicket, full at the toes, worked through midwicket
+
+
+Balls faced: 22
+Bowler: Russell
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: ON_DRIVE
+Run scored: 2
+
+
+a good delivery to end with, a yorker at off stump, forced down the ground and they get back for a second
+The crowd rises to Glenn Maxwell. West Indies go up and congratulate him. Another magnificent display from him. He's having an extraordinary win in international cricket. Australia were a little uncertain at 64 for 3, but Maxwell soon took charge. A knock that won't be forgotten in a while. And it's a huge total (<a href="https://www.espncricinfo.com/ask/cricket-qna/highest-total-in-Australia&tournament=menst20i">Australia's highest on home soil</a>). Hard to see West Indies chasing it, but they'll have a crack. Alex will be with you shortly. "It was good fun," Maxwell tells Fox Cricket. "Just gave myself a chance. It's a really nice wicket. Nice to cash in and spend most of the time out there. I've always relied on my hand speed to get me out of trouble...and it really seemed to work for me today." From Sampath: Glenn Maxwell's 120* is the <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=4;batting_positionval1=batting_position;class=3;filter=advanced;orderby=hundreds;template=results;type=batting;view=innings">second highest T20I score while batting at No.4</a> or lower, behind Shaheryar Butt of Belgium who scored 125* vs Czech Republic in 2020 while batting at No.6. james: "Maxi is still not out in any of this century knocks!! wow !!" Afeef: "Funnily enough, Maxwell equalled Rohit's T20I centuries tally in December, then in January Rohit pulled ahead, and now in February Maxwell has equalled him again."
+
+Balls faced: 23
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full at the stumps, clubbed to deep midwicket
+
+
+Balls faced: 24
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 6
+Last over. Can they get 230?
+
+<b>that's huge!</b> A massive full toss which David swings over deep backward square. And it's a no-ball
+<b>Free hit</b>
+No Balls: 1
+Balls faced: 25
+Bowler: Shepherd
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+round the wicket, a low full toss, scooped in the air down the ground
+
+
+Balls faced: 26
+Bowler: Russell
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: ON_DRIVE
+Run scored: 2
+
+
+a good delivery to end with, a yorker at off stump, forced down the ground and they get back for a second
+The crowd rises to Glenn Maxwell. West Indies go up and congratulate him. Another magnificent display from him. He's having an extraordinary win in international cricket. Australia were a little uncertain at 64 for 3, but Maxwell soon took charge. A knock that won't be forgotten in a while. And it's a huge total (<a href="https://www.espncricinfo.com/ask/cricket-qna/highest-total-in-Australia&tournament=menst20i">Australia's highest on home soil</a>). Hard to see West Indies chasing it, but they'll have a crack. Alex will be with you shortly. "It was good fun," Maxwell tells Fox Cricket. "Just gave myself a chance. It's a really nice wicket. Nice to cash in and spend most of the time out there. I've always relied on my hand speed to get me out of trouble...and it really seemed to work for me today." From Sampath: Glenn Maxwell's 120* is the <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html?batting_positionmin1=4;batting_positionval1=batting_position;class=3;filter=advanced;orderby=hundreds;template=results;type=batting;view=innings">second highest T20I score while batting at No.4</a> or lower, behind Shaheryar Butt of Belgium who scored 125* vs Czech Republic in 2020 while batting at No.6. james: "Maxi is still not out in any of this century knocks!! wow !!" Afeef: "Funnily enough, Maxwell equalled Rohit's T20I centuries tally in December, then in January Rohit pulled ahead, and now in February Maxwell has equalled him again."
+
+Balls faced: 27
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full at the stumps, clubbed to deep midwicket
+
+
+Balls faced: 28
+Bowler: Russell
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 6
+Last over. Can they get 230?
+
+<b>that's huge!</b> A massive full toss which David swings over deep backward square. And it's a no-ball
+<b>Free hit</b>
+No Balls: 1
+
+Match: all_games_1375837_1375852.json
+Balls faced: 1
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+short outside off, 137kph, David swings and misses
+That over from Chase wasn't a maiden. The leg bye was changed to a run after a delay. Doesn't take away from the display at all, though. Just spoils a stat!
+
+Balls faced: 2
+Bowler: Shepherd
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+full and wide outside off, called wide, that looked very tight. On the guideline
+
+Wide: 1
+Balls faced: 3
+Bowler: Shepherd
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+tucks this into midwicket, paces the shot nicely to allow the chance for the second
+
+
+Balls faced: 4
+Bowler: Shepherd
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 4
+
+
+on the pads, swung backward of square
+
+
+Balls faced: 5
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+back of a length, straight, defended
+
+
+Balls faced: 6
+Bowler: Alzarri Joseph
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+back of a length, straight, worked down to long on. Another brilliant over
+ankur baid: "Excellent bowling by the West Indians "
+
+Balls faced: 7
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+short outside off, 137kph, David swings and misses
+That over from Chase wasn't a maiden. The leg bye was changed to a run after a delay. Doesn't take away from the display at all, though. Just spoils a stat!
+
+Balls faced: 8
+Bowler: Shepherd
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+full and wide outside off, called wide, that looked very tight. On the guideline
+
+Wide: 1
+Balls faced: 9
+Bowler: Shepherd
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+tucks this into midwicket, paces the shot nicely to allow the chance for the second
+
+
+Balls faced: 10
+Bowler: Shepherd
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 4
+
+
+on the pads, swung backward of square
+
+
+Balls faced: 11
+Bowler: Shepherd
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+back of a length, straight, defended
+
+
+Balls faced: 12
+Bowler: Holder
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+full and straight, swings it clean down the ground
+
+
+Balls faced: 13
+Bowler: Holder
+Over: 17
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+worked down the ground
+
+
+Balls faced: 14
+Bowler: Holder
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+full at the pads, swings it through square leg off a thick inside edge
+
+
+Balls faced: 15
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: SLOG_SHOT
+Run scored: 4
+Holder returns
+
+short outside off, swings across the line and gets a top edge that just evades a leaping Pooran
+
+
+Balls faced: 16
+Bowler: Alzarri Joseph
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+back of a length, straight, worked down to long on. Another brilliant over
+ankur baid: "Excellent bowling by the West Indians "
+
+Balls faced: 17
+Bowler: Holder
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+full and straight, swings it clean down the ground
+
+
+Balls faced: 18
+Bowler: Holder
+Over: 17
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+worked down the ground
+
+
+Balls faced: 19
+Bowler: Holder
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+full at the pads, swings it through square leg off a thick inside edge
+
+
+Balls faced: 20
+Bowler: Holder
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: SLOG_SHOT
+Run scored: 4
+Holder returns
+
+short outside off, swings across the line and gets a top edge that just evades a leaping Pooran
+
+
+Balls faced: 21
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+good yorker, pushed back up the pitch
+
+
+Balls faced: 22
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+launches a back-of-a-length delivery over deep square leg
+
+
+Balls faced: 23
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+a quick short ball, <b>149.5kph!</b> Flies over the top edge
+
+
+Balls faced: 24
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+clears the front leg and launches a delivery in the slot over wide long on (and the asking rate goes up)
+
+
+Balls faced: 25
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+connects well with a pull but straight to deep square leg
+
+
+Balls faced: 26
+Bowler: Holder
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+full and straight, gets a bottom edge and that's that
+<b>West Indies win by 37 runs</b> and close the series to 2-1. A very good performance from the visitors. Their recovery with the bat was remarkable through Rutherford and Russell. Australia, led by Warner, made an excellent start to the chase but Chase (the Roston version) was outstanding with the ball and Australia lost all momentum around the mid part of the innings. Shepherd and Joseph also played their part with the ball. Both sides will take plenty from the series - for Australia, some key players will return in New Zealand. Reckon both sides are pretty close to knowing their T20 World Cup 15s. Maybe a spot or two for each to mull over? <b>Andre Russell</b> is player of the match, but didn't catch his interview. Sorry. <b>David Warner</b> is player of the series. "It was good to have a break and play the franchise stuff. I've got a lot of time off after the New Zealand series, go to the IPL before we embark on a World Cup in the Caribbean. Was quite surprised an opening bowler 145kph and swings it not trying to get me out. Go the Caribbean, the boundaries aren't too big there. I'm well and truly done, it's time for the youngsters to come through and show their talent." <b>Rovman Powell</b> "It's a very good feeling to come here and get a win. The Australia team is such a strong team and understands their conditions. The boys showed some heart and courage. We had good plans through the three games but execution let us down. We sat down as a bowling group but 240 runs is too many. It's always good for players to have confidence and we told him [Rutherford] to relax, you are an integral part of the team. As captain going into the World Cup it's a lot of thought and things I need to think about it." <b>Mitchell Marsh</b> "Thought we were in a great position, went for the kill to try and get a few more wickets. We were on the wrong end of it, fair play to West Indies. We saw that throughout the series, they bat down to No. 10. They are a great unit but thought we played some really good cricket in the first two games. Been nice to see our young guys come in and do well. We'll go to New Zealand next week with a pretty full strength team." So, that wraps up the home season for Australia's men. But there's plenty more cricket to come, starting with the women's Test match (also in Perth) from Thursday then the men head over to New Zealand for T20Is and Tests. We'll be back to bring you the Test in a couple of days but until then, from Gnasher and Alex, it's goodbye and thanks for joining us.
+
+Balls faced: 27
+Bowler: Holder
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+drilled off the stumps, one bounce to long on...declines the run
+
+
+Balls faced: 28
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+full outside off, shows his power as he swings this over long off...very good series for David. And it's a no-ball!
+
+No Balls: 1
+Balls faced: 29
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a short ball, David swings and misses, called wide which doesn't impress Holder and he may have a point
+
+Wide: 1
+Balls faced: 30
+Bowler: Holder
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+follows him well outside leg, swings it off the pads to deep backward square
+Junaid Anwar: "Tim David has a personal milestone,1000 T20i runs and 50 sixes in 36 matches."
+
+Balls faced: 31
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+50 needed off the last. Reckon West Indies will be okay
+
+a short delivery, pace off, David is through the pull and gets taken on the shoulder
+
+Legbyes: 1
+Balls faced: 32
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 1
+
+
+good yorker, pushed back up the pitch
+
+
+Balls faced: 33
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+launches a back-of-a-length delivery over deep square leg
+
+
+Balls faced: 34
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+a quick short ball, <b>149.5kph!</b> Flies over the top edge
+
+
+Balls faced: 35
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+clears the front leg and launches a delivery in the slot over wide long on (and the asking rate goes up)
+
+
+Balls faced: 36
+Bowler: Alzarri Joseph
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+connects well with a pull but straight to deep square leg
+
+
+Balls faced: 37
+Bowler: Holder
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+full and straight, gets a bottom edge and that's that
+<b>West Indies win by 37 runs</b> and close the series to 2-1. A very good performance from the visitors. Their recovery with the bat was remarkable through Rutherford and Russell. Australia, led by Warner, made an excellent start to the chase but Chase (the Roston version) was outstanding with the ball and Australia lost all momentum around the mid part of the innings. Shepherd and Joseph also played their part with the ball. Both sides will take plenty from the series - for Australia, some key players will return in New Zealand. Reckon both sides are pretty close to knowing their T20 World Cup 15s. Maybe a spot or two for each to mull over? <b>Andre Russell</b> is player of the match, but didn't catch his interview. Sorry. <b>David Warner</b> is player of the series. "It was good to have a break and play the franchise stuff. I've got a lot of time off after the New Zealand series, go to the IPL before we embark on a World Cup in the Caribbean. Was quite surprised an opening bowler 145kph and swings it not trying to get me out. Go the Caribbean, the boundaries aren't too big there. I'm well and truly done, it's time for the youngsters to come through and show their talent." <b>Rovman Powell</b> "It's a very good feeling to come here and get a win. The Australia team is such a strong team and understands their conditions. The boys showed some heart and courage. We had good plans through the three games but execution let us down. We sat down as a bowling group but 240 runs is too many. It's always good for players to have confidence and we told him [Rutherford] to relax, you are an integral part of the team. As captain going into the World Cup it's a lot of thought and things I need to think about it." <b>Mitchell Marsh</b> "Thought we were in a great position, went for the kill to try and get a few more wickets. We were on the wrong end of it, fair play to West Indies. We saw that throughout the series, they bat down to No. 10. They are a great unit but thought we played some really good cricket in the first two games. Been nice to see our young guys come in and do well. We'll go to New Zealand next week with a pretty full strength team." So, that wraps up the home season for Australia's men. But there's plenty more cricket to come, starting with the women's Test match (also in Perth) from Thursday then the men head over to New Zealand for T20Is and Tests. We'll be back to bring you the Test in a couple of days but until then, from Gnasher and Alex, it's goodbye and thanks for joining us.
+
+Balls faced: 38
+Bowler: Holder
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+drilled off the stumps, one bounce to long on...declines the run
+
+
+Balls faced: 39
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+full outside off, shows his power as he swings this over long off...very good series for David. And it's a no-ball!
+
+No Balls: 1
+Balls faced: 40
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a short ball, David swings and misses, called wide which doesn't impress Holder and he may have a point
+
+Wide: 1
+Balls faced: 41
+Bowler: Holder
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+follows him well outside leg, swings it off the pads to deep backward square
+Junaid Anwar: "Tim David has a personal milestone,1000 T20i runs and 50 sixes in 36 matches."
+
+Balls faced: 42
+Bowler: Holder
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+50 needed off the last. Reckon West Indies will be okay
+
+a short delivery, pace off, David is through the pull and gets taken on the shoulder
+
+Legbyes: 1
+
+Match: all_games_1388188_1388223.json
+Balls faced: 1
+Bowler: Santner
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+flighted outside off, drives to long-off. <B>Just three off the 17th over</b>
+
+
+Balls faced: 2
+Bowler: Ferguson
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+taps and runs through the off side
+jeet: "Ravindra what have u done? Ignils was playing at Sr 100 wasnt a threat... Now good luck with TIm David"
+
+Balls faced: 3
+Bowler: Santner
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+flighted outside off, drives to long-off. <B>Just three off the 17th over</b>
+
+
+Balls faced: 4
+Bowler: Milne
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+launches it again. That's two sixes to end the over. Milne goes yorker. He misses the mark. David batting deep in his crease is able to line it up and thumps it over long-on
+
+
+Balls faced: 5
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<B>smoked</b>! David charges down the crease with menacing intent and he has demolished the slower length ball 98 metres over the straight boundary
+
+
+Balls faced: 6
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+toe ends the wide yorker and it slithers away for four between short third and the keeper.
+Anver Azeez: "Watch out a super over is ahead !!"
+
+Balls faced: 7
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Conway fluffs it behind the stumps as David swings at a full and wide delivery and makes no contact. Australia staying leg side of the ball sometimes to their detriment
+
+Byes: 1
+Balls faced: 8
+Bowler: Ferguson
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+taps and runs through the off side
+jeet: "Ravindra what have u done? Ignils was playing at Sr 100 wasnt a threat... Now good luck with TIm David"
+
+Balls faced: 9
+Bowler: Southee
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 4
+
+
+shovelled away with the bottom hand between deep midwicket and wide long-on. Bam! <b>Even Phillips can't stop that! David finishes it off the last ball for Australia</b>. Southee tries the yorker, but marginally misses his length, tails into David, but David still clears his front leg and absolutely muscles it away to the leg-side boundary. Phillips leaps to his left but David has hit it so hard. Phillips is shocked at the boundary. The crowd is shocked beyond the boundary. But this is just David doing David things
+<b>10.36pm</b> That was a fun, high-scoring thriller. It boiled down to the last ball, with Australia needing four off it and David did the job for Australia. Australia go 1-0 up in Wellington, with two games to go in Auckland. Brace yourselves for more big scores at Eden Park. Boult is set to return to international action there. So, plenty to look forward to at Eden Park. That's all we have for you from this game. Until next time, this is Deivarayan Muthu signing off on the behalf of Alex Malcolm. Take care and good night. <b>Mitch Marsh is the Player of the Match</b> for his all-round effort. "Timmy David is extremely calm and has got a lot of confidence in his ability towards the end there," he says. "We're very lucky to have him. Just a great game of cricket. Any time you chase down 216 is a great effort. We just got over the line by the sheer brilliance of Tim David. We've got the Test series starting in a week so our bowlers will likely rotate. We've also got guys like Steve Smith who will come in for a crack at some point in time." <b>Mitch Santner</b>: "I thought we didn't bowl too bad. But the power they possess all the way down is the reason why they're pretty good. [215] was a pretty good score. I guess we know they keep coming with the bat. The only way to stop them is to keep taking wickets and we didn't really do that today. It was a hell of a game of cricket. We've just got to reflect and move on. When the Bison (Mitch Marsh) can mis-hit it for six it means I might have to go to the gym to get some arms like that." Srividya : "So Australia continue to silence crowds across the world ! And they did silence a very hostile crowd tonight " Kiran: "Good game with a view to the World Cup. I was surprised that NZ didn't give another of their bowling options a go when it was going poorly in the middle just to experiment. " James: "The real winner tonight was cricket. The real loser tonight was the Win Predictor" Lilifar: "That's a powerful display of batting from Tim David " Anis: "To that CSK Fan ...now MI fans very Happy :)"<hr>
+
+Balls faced: 10
+Bowler: Southee
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+off-stump yorker, good comeback from Southee. David carves away to the right of deep cover and rushes back for the double
+<b>Australia need four to win off the last ball</b>. Tim Southee vs Tim David.
+
+Balls faced: 11
+Bowler: Southee
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 6
+
+
+Southee searches for a yorker, ends up pushing a full-toss down the leg side. David connects with it and sends it flat and hard over the boundary. Replays indicate that he hit the long-leg boundary cushions on the full
+
+
+Balls faced: 12
+Bowler: Southee
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+just short of a yorker length, but still a good full ball on leg stump, David backs away and digs it out to the covers
+
+
+Balls faced: 13
+Bowler: Milne
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+launches it again. That's two sixes to end the over. Milne goes yorker. He misses the mark. David batting deep in his crease is able to line it up and thumps it over long-on
+
+
+Balls faced: 14
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<B>smoked</b>! David charges down the crease with menacing intent and he has demolished the slower length ball 98 metres over the straight boundary
+
+
+Balls faced: 15
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+toe ends the wide yorker and it slithers away for four between short third and the keeper.
+Anver Azeez: "Watch out a super over is ahead !!"
+
+Balls faced: 16
+Bowler: Milne
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Conway fluffs it behind the stumps as David swings at a full and wide delivery and makes no contact. Australia staying leg side of the ball sometimes to their detriment
+
+Byes: 1
+Balls faced: 17
+Bowler: Southee
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 4
+
+
+shovelled away with the bottom hand between deep midwicket and wide long-on. Bam! <b>Even Phillips can't stop that! David finishes it off the last ball for Australia</b>. Southee tries the yorker, but marginally misses his length, tails into David, but David still clears his front leg and absolutely muscles it away to the leg-side boundary. Phillips leaps to his left but David has hit it so hard. Phillips is shocked at the boundary. The crowd is shocked beyond the boundary. But this is just David doing David things
+<b>10.36pm</b> That was a fun, high-scoring thriller. It boiled down to the last ball, with Australia needing four off it and David did the job for Australia. Australia go 1-0 up in Wellington, with two games to go in Auckland. Brace yourselves for more big scores at Eden Park. Boult is set to return to international action there. So, plenty to look forward to at Eden Park. That's all we have for you from this game. Until next time, this is Deivarayan Muthu signing off on the behalf of Alex Malcolm. Take care and good night. <b>Mitch Marsh is the Player of the Match</b> for his all-round effort. "Timmy David is extremely calm and has got a lot of confidence in his ability towards the end there," he says. "We're very lucky to have him. Just a great game of cricket. Any time you chase down 216 is a great effort. We just got over the line by the sheer brilliance of Tim David. We've got the Test series starting in a week so our bowlers will likely rotate. We've also got guys like Steve Smith who will come in for a crack at some point in time." <b>Mitch Santner</b>: "I thought we didn't bowl too bad. But the power they possess all the way down is the reason why they're pretty good. [215] was a pretty good score. I guess we know they keep coming with the bat. The only way to stop them is to keep taking wickets and we didn't really do that today. It was a hell of a game of cricket. We've just got to reflect and move on. When the Bison (Mitch Marsh) can mis-hit it for six it means I might have to go to the gym to get some arms like that." Srividya : "So Australia continue to silence crowds across the world ! And they did silence a very hostile crowd tonight " Kiran: "Good game with a view to the World Cup. I was surprised that NZ didn't give another of their bowling options a go when it was going poorly in the middle just to experiment. " James: "The real winner tonight was cricket. The real loser tonight was the Win Predictor" Lilifar: "That's a powerful display of batting from Tim David " Anis: "To that CSK Fan ...now MI fans very Happy :)"<hr>
+
+Balls faced: 18
+Bowler: Southee
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+off-stump yorker, good comeback from Southee. David carves away to the right of deep cover and rushes back for the double
+<b>Australia need four to win off the last ball</b>. Tim Southee vs Tim David.
+
+Balls faced: 19
+Bowler: Southee
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 6
+
+
+Southee searches for a yorker, ends up pushing a full-toss down the leg side. David connects with it and sends it flat and hard over the boundary. Replays indicate that he hit the long-leg boundary cushions on the full
+
+
+Balls faced: 20
+Bowler: Southee
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+just short of a yorker length, but still a good full ball on leg stump, David backs away and digs it out to the covers
+
+
+
+Match: all_games_1388188_1388224.json
+Balls faced: 1
+Bowler: Santner
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+<strong>pulled through midwicket!</strong> Too short, he's back to hammer a pull along the deck through midwicket and beats the sweeper
+Here's Deiva
+
+Balls faced: 2
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+92kph, shorter length, on off, he's back to force to long-off
+
+
+Balls faced: 3
+Bowler: Santner
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+94kph, short of a length, on off, he's back to punch to cover
+
+
+Balls faced: 4
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+90kph, tossed up on off, he leans out to defend
+
+
+Balls faced: 5
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+hard-length delivery on off stump, David opens the face and dinks it through point
+
+
+Balls faced: 6
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+back of a length, angling in and straightening away late past the outside edge at 142ks
+
+
+Balls faced: 7
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Vasumathy : "For once , definitely not the last time , Tim David gets to bat for 10 overs!!!"
+
+banged in shorter and Ferguson gets it to duck back in to slam the inside edge and roll into the leg side
+Kapil Baldawa: "Great chance for NZ to get Australia bowled out under 160 here. Had mentioned last time too, that NZ will need to bowl out Australia to stand any chance of winning the games and they are on track to get Aussies out tonight"
+
+Balls faced: 8
+Bowler: Santner
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+<strong>pulled through midwicket!</strong> Too short, he's back to hammer a pull along the deck through midwicket and beats the sweeper
+Here's Deiva
+
+Balls faced: 9
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+92kph, shorter length, on off, he's back to force to long-off
+
+
+Balls faced: 10
+Bowler: Santner
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+94kph, short of a length, on off, he's back to punch to cover
+
+
+Balls faced: 11
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+90kph, tossed up on off, he leans out to defend
+
+
+Balls faced: 12
+Bowler: Santner
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+looped up and outside off, David eases it down to long-off on the front foot
+
+
+Balls faced: 13
+Bowler: Santner
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+David manufactures swinging room, takes a shortish delivery from outside off and flat-bats it through extra-cover
+
+
+Balls faced: 14
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+hard-length delivery on off stump, David opens the face and dinks it through point
+
+
+Balls faced: 15
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+back of a length, angling in and straightening away late past the outside edge at 142ks
+
+
+Balls faced: 16
+Bowler: Ferguson
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Vasumathy : "For once , definitely not the last time , Tim David gets to bat for 10 overs!!!"
+
+banged in shorter and Ferguson gets it to duck back in to slam the inside edge and roll into the leg side
+Kapil Baldawa: "Great chance for NZ to get Australia bowled out under 160 here. Had mentioned last time too, that NZ will need to bowl out Australia to stand any chance of winning the games and they are on track to get Aussies out tonight"
+
+Balls faced: 17
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+on a length and on off stump, David opens the face and drives to deep cover
+
+
+Balls faced: 18
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+on a length and outside off, another slower one? David delays the drive and pushes it to extra-cover
+
+
+Balls faced: 19
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+slowie outside off, good change-up from Boult, as David chops and misses outside off
+
+
+Balls faced: 20
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+hip-high short ball just a shade outside off, David lays into it and <strong>wallops it to the midwicket boundary</strong>. Such a powerful pull
+
+
+Balls faced: 21
+Bowler: Santner
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+looped up and outside off, David eases it down to long-off on the front foot
+
+
+Balls faced: 22
+Bowler: Santner
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+David manufactures swinging room, takes a shortish delivery from outside off and flat-bats it through extra-cover
+
+
+Balls faced: 23
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+another full ball down the leg side, helped away to Sodhi at deep fine leg
+
+
+Balls faced: 24
+Bowler: Sears
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+another slower ball into the pitch, 122.6ks, David waits on it and then blocks
+
+
+Balls faced: 25
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+good length and floating into middle, 120.4ks, slower ball, defended back to him
+
+
+Balls faced: 26
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Sears is back into the attack
+
+on a length and veering down the leg side, David uses the angle to his advantage and tickles it away to the right of Sodhi at deep fine leg
+
+Legbyes: 4
+Balls faced: 27
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+on a length and on off stump, David opens the face and drives to deep cover
+
+
+Balls faced: 28
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+on a length and outside off, another slower one? David delays the drive and pushes it to extra-cover
+
+
+Balls faced: 29
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+slowie outside off, good change-up from Boult, as David chops and misses outside off
+
+
+Balls faced: 30
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+hip-high short ball just a shade outside off, David lays into it and <strong>wallops it to the midwicket boundary</strong>. Such a powerful pull
+
+
+Balls faced: 31
+Bowler: Milne
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+David is OUT! caught
+c Santner b Milne
+Tim David c Santner b Milne 17 (19b 3x4 0x6 23m) SR: 89.47
+<strong>Milne returns and bags the big wicket of David!</strong> Milne pounds it on a heavy length and just outside off, the ball hits the bat as opposed to bat hitting the ball. Spliced into the hands of Santner at extra-cover. Aus are in danger of being bowled out at Eden Park
+Ellis at No.9
+
+Balls faced: 32
+Bowler: Milne
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Milne replaces Boult
+
+Milne takes pace off this time. On a fullish length and breaks away outside off, David spars at it and does not meet the ball
+
+
+Balls faced: 33
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+another full ball down the leg side, helped away to Sodhi at deep fine leg
+
+
+Balls faced: 34
+Bowler: Sears
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+another slower ball into the pitch, 122.6ks, David waits on it and then blocks
+
+
+Balls faced: 35
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+good length and floating into middle, 120.4ks, slower ball, defended back to him
+
+
+Balls faced: 36
+Bowler: Sears
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Sears is back into the attack
+
+on a length and veering down the leg side, David uses the angle to his advantage and tickles it away to the right of Sodhi at deep fine leg
+
+Legbyes: 4
+Balls faced: 37
+Bowler: Milne
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+David is OUT! caught
+c Santner b Milne
+Tim David c Santner b Milne 17 (19b 3x4 0x6 23m) SR: 89.47
+<strong>Milne returns and bags the big wicket of David!</strong> Milne pounds it on a heavy length and just outside off, the ball hits the bat as opposed to bat hitting the ball. Spliced into the hands of Santner at extra-cover. Aus are in danger of being bowled out at Eden Park
+Ellis at No.9
+
+Balls faced: 38
+Bowler: Milne
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Milne replaces Boult
+
+Milne takes pace off this time. On a fullish length and breaks away outside off, David spars at it and does not meet the ball
+
+
+
+Match: all_games_1388188_1388225.json
+Balls faced: 1
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+back of a length and just a shade outside off, slapped away to the left of sweeper cover on the back foot
+
+
+Balls faced: 2
+Bowler: Sodhi
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+on a back of a length and turns away outside off, slugged away to the right of long-on
+
+
+Balls faced: 3
+Bowler: Sodhi
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+C<strong>lears long-on!</strong> Pushed through on middle and leg, David clears his front leg and smites Sodhi down the ground
+
+
+Balls faced: 4
+Bowler: Santner
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+back of a length and just a shade outside off, slapped away to the left of sweeper cover on the back foot
+
+
+Balls faced: 5
+Bowler: Sodhi
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+on a back of a length and turns away outside off, slugged away to the right of long-on
+
+
+Balls faced: 6
+Bowler: Sodhi
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+C<strong>lears long-on!</strong> Pushed through on middle and leg, David clears his front leg and smites Sodhi down the ground
+
+
+
+Match: all_games_1411166_1415710.json
+Balls faced: 1
+Bowler: Kaleemullah
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+<B>David wastes little time!</b> This was a slower one, 98kph, on his pads. But David gets inside the line and slaps this down to the fine leg boundary with interest. That really did race away
+
+
+Balls faced: 2
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+David is OUT! run out
+run out (Ayaan Khan/†Athavale)
+Tim David run out (Ayaan Khan/†Athavale) 9 (4b 2x4 0x6 5m) SR: 225
+full on off, clobbered down to wide long-on. They look for a second that's never on as David is run out off the final delivery
+<B>10.12pm</b> Australia end then on a well above par 164 for 5. Oman had them worried for the first half of this innings but a potentially game-defining stand of 102 from 64 deliveries between Stoinis and Warner took the game away. Both batters bided their time on a tricky surface, before Stoinis turned on the afterburners. On a wicket such as this all it took was one or two big overs, and Stoinis delivered on that front while Warner played the anchor role to perfection. Steep chase for Oman, Abhimanyu will back for the start of that in a bit.
+
+Balls faced: 3
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Rishab: "Kaleemullah, what was that send off? He's been animated pretty much from the start of the game. Pretty sure referee is taking note of it." --- Yeah sorry missed that after Warner's wicket.
+
+<B>Flicked behind square leg!</b> Length ball, sticks in the surface, but David waits for it and flicks his wrists to great effect
+
+
+Balls faced: 4
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full and wide, swing and a miss
+
+
+Balls faced: 5
+Bowler: Kaleemullah
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+<B>David wastes little time!</b> This was a slower one, 98kph, on his pads. But David gets inside the line and slaps this down to the fine leg boundary with interest. That really did race away
+
+
+Balls faced: 6
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+David is OUT! run out
+run out (Ayaan Khan/†Athavale)
+Tim David run out (Ayaan Khan/†Athavale) 9 (4b 2x4 0x6 5m) SR: 225
+full on off, clobbered down to wide long-on. They look for a second that's never on as David is run out off the final delivery
+<B>10.12pm</b> Australia end then on a well above par 164 for 5. Oman had them worried for the first half of this innings but a potentially game-defining stand of 102 from 64 deliveries between Stoinis and Warner took the game away. Both batters bided their time on a tricky surface, before Stoinis turned on the afterburners. On a wicket such as this all it took was one or two big overs, and Stoinis delivered on that front while Warner played the anchor role to perfection. Steep chase for Oman, Abhimanyu will back for the start of that in a bit.
+
+Balls faced: 7
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Rishab: "Kaleemullah, what was that send off? He's been animated pretty much from the start of the game. Pretty sure referee is taking note of it." --- Yeah sorry missed that after Warner's wicket.
+
+<B>Flicked behind square leg!</b> Length ball, sticks in the surface, but David waits for it and flicks his wrists to great effect
+
+
+Balls faced: 8
+Bowler: Bilal Khan
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full and wide, swing and a miss
+
+
+
+Match: all_games_1411166_1415717.json
+Balls faced: 1
+Bowler: Rashid
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+Tim David is out perhaps a handful of overs sooner than anticipated. Leg slip and slip for Stoinis
+
+skids on outside off, rocks back and cuts to the off-side
+
+
+Balls faced: 2
+Bowler: Rashid
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+Tim David is out perhaps a handful of overs sooner than anticipated. Leg slip and slip for Stoinis
+
+skids on outside off, rocks back and cuts to the off-side
+
+
+Balls faced: 3
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+David is OUT! caught
+c Livingstone b Jordan
+Tim David c Livingstone b Jordan 11 (8b 0x4 1x6 10m) SR: 137.5
+<B>this time the long boundary is David's downfall!</B> More width from Jordan, forcing Australia to take it on, but David's uppish thrash is into the wind, and Livingstone is well placed inside the rope at deep cover. England continue to nibble away through the back end
+
+
+Balls faced: 4
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+lashed through the length ball, Jordan sticks out another hand but can't intercept as long-off mops up
+
+
+Balls faced: 5
+Bowler: Jordan
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+<B>dropped by Jordan in his followthrough!</B> A collector's item that, but that was properly nailed, and at thigh height too, couldn't get his hands down in time
+
+
+Balls faced: 6
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 6
+Here''s Jordan
+
+width on the full length, <B>creamed over extra cover!</B> It's the long side, into the breeze, and David loses one hand on his bat, but still mashes it into the stands! Jordan gesticulates... what else can he do?
+
+
+Balls faced: 7
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+David is OUT! caught
+c Livingstone b Jordan
+Tim David c Livingstone b Jordan 11 (8b 0x4 1x6 10m) SR: 137.5
+<B>this time the long boundary is David's downfall!</B> More width from Jordan, forcing Australia to take it on, but David's uppish thrash is into the wind, and Livingstone is well placed inside the rope at deep cover. England continue to nibble away through the back end
+
+
+Balls faced: 8
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+lashed through the length ball, Jordan sticks out another hand but can't intercept as long-off mops up
+
+
+Balls faced: 9
+Bowler: Jordan
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+<B>dropped by Jordan in his followthrough!</B> A collector's item that, but that was properly nailed, and at thigh height too, couldn't get his hands down in time
+
+
+Balls faced: 10
+Bowler: Jordan
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 6
+Here''s Jordan
+
+width on the full length, <B>creamed over extra cover!</B> It's the long side, into the breeze, and David loses one hand on his bat, but still mashes it into the stands! Jordan gesticulates... what else can he do?
+
+
+
+Match: all_games_1411166_1415735.json
+Balls faced: 1
+Bowler: Sharif
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+Tim David. Over the wicket to him
+
+short ball around off. Pulled in front of square for one
+
+
+Balls faced: 2
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+too full around off. Digs it out towards long-off
+
+
+Balls faced: 3
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+way too outside off even though David was moving across
+
+Wide: 1
+Balls faced: 4
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 0
+36 required from four overs. Here's Watt
+
+full outside off. David drags it towards short fine leg
+
+
+Balls faced: 5
+Bowler: Sharif
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+Tim David. Over the wicket to him
+
+short ball around off. Pulled in front of square for one
+
+
+Balls faced: 6
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+length ball at the stumps. Flicked towards deep midwicket
+
+
+Balls faced: 7
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+<b>wheels are coming off.</b> A short ball at the batter. David backs away and forehands it over cover for four more. A run a ball required now
+
+
+Balls faced: 8
+Bowler: Wheal
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 0
+
+
+a full toss spraying down the leg side. Don't think David got any bat on it but it brushed the thigh pad and went for four
+
+Legbyes: 4
+Balls faced: 9
+Bowler: Wheal
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Umesh : "is there any scenario where Scotland lose and still qualify for super 8s?" - No
+
+short at the stumps and David pulls it fine. Picks up a boundary to fine leg
+
+
+Balls faced: 10
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+26 needed from three overs. Wade is the new batter but at the other end for now. Wheal to bowl the 18th over
+
+starts with a dot. A length ball around off. David ends up pushing it back towards the bowler who dives forward but it lands just short of him
+
+
+Balls faced: 11
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+too full around off. Digs it out towards long-off
+
+
+Balls faced: 12
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+way too outside off even though David was moving across
+
+Wide: 1
+Balls faced: 13
+Bowler: Watt
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 0
+36 required from four overs. Here's Watt
+
+full outside off. David drags it towards short fine leg
+
+
+Balls faced: 14
+Bowler: Sharif
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+length outside off. Smashed straight back towards the bowler who gets a hand on it but cannot stop the single
+
+
+Balls faced: 15
+Bowler: Sharif
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+full but way outside off. Left alone
+
+Wide: 1
+Balls faced: 16
+Bowler: Sharif
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 2
+
+
+a juicy full toss but David fails to put it away. A fumble at deep square leg though allows him to come back for a second
+
+
+Balls faced: 17
+Bowler: Sharif
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+13 needed from 12 balls. Here's Sharif
+
+full outside off. David throws his bat at it and gets a thick outside edge. Short third makes a diving stop to his right
+
+
+Balls faced: 18
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+length ball at the stumps. Flicked towards deep midwicket
+
+
+Balls faced: 19
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+<b>wheels are coming off.</b> A short ball at the batter. David backs away and forehands it over cover for four more. A run a ball required now
+
+
+Balls faced: 20
+Bowler: Wheal
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 0
+
+
+a full toss spraying down the leg side. Don't think David got any bat on it but it brushed the thigh pad and went for four
+
+Legbyes: 4
+Balls faced: 21
+Bowler: Wheal
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Umesh : "is there any scenario where Scotland lose and still qualify for super 8s?" - No
+
+short at the stumps and David pulls it fine. Picks up a boundary to fine leg
+
+
+Balls faced: 22
+Bowler: Wheal
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+26 needed from three overs. Wade is the new batter but at the other end for now. Wheal to bowl the 18th over
+
+starts with a dot. A length ball around off. David ends up pushing it back towards the bowler who dives forward but it lands just short of him
+
+
+Balls faced: 23
+Bowler: Wheal
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+That's it. <b>Scotland have been knocked out. England are through to Super Eight</b>. It was in the slot, full on off and middle and David smashes it over deep midwicket
+That's all from our side for this game. Hope you enjoyed our coverage. See you soon. A heartbreak for Scotland. A relief for England, who join West Indies, South Africa and USA in Group 2 of Super Eight. <b>Mitchell Marsh</b>: We spoke about sticking to our game. Scotland are a pretty good outfit and have improved a lot in the last few years. We spoke as a group to stay really consistent in how we want to play. Having already qualified, there was little less pressure on us. The World Cup kind of starts again now. It's going to be a busy schedule. T20 is a hard format. We are excited for what's to come. [On chat about England] I think more externally than internally. <b>Richie Berrington</b>: I thought we were in a pretty good position at the halfway mark. Unfortunately we couldn't capitalise towards the end. We had a really good start with the ball but we couldn't execute it for long enough. A few big overs towards the back end got them back into the game. There was a breeze at the ground, so we were just trying to get them hit away from the breeze. I think the guys can hold their head high. We played some really good cricket throughout the tournament. It was a great learning for us. Obviously we are a bit disappointed given the position we were in. We came here to qualify but couldn't do that. vagnur: "This just shows how scary Australia is. Not doing it all, but winning against a spirited scotland team" Krish : "Pheww!! England can sleep peacefully now..." <b>Marcus Stoinis is the Player of the Match</b>: "The plan was to get yourself in and hit it hard along the ground. And then access from there. There's a strong breeze, which meant that end was easier to hit from. The pitch was also very good. Head picked his bowlers and pretty much turned the game in that over with three sixes even though he got out. I have been fortunate to play consistently for the last 3-4 months starting with the IPL but there's no substitute for confidence. That's the recipe we all try to keep a hold of." <B>11.50pm</b> A valiant effort by Scotland but Australia were too good in the end. They posted a competitive 180 and were ahead at the halfway mark in the chase. At one point, Australia needed 89 from seven overs. Head and Stoinis shifted gears then and David joined in later and finished it off with two balls to spare.
+
+Balls faced: 24
+Bowler: Wheal
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 2
+Pavan: "Take it Super Over please!!! " Back to over the stumps for David
+
+length ball around off. David launches it towards midwicket. Sole moves to his right and get under it, but <B>ends up dropping it</b>. Was never steady but what a time to drop a catch. <b>Score are level</b>
+
+
+Balls faced: 25
+Bowler: Wheal
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: FLICK
+Run scored: 1
+Only five required... Wheal to bowl
+
+in the blockhole. David works it towards long-on
+
+
+Balls faced: 26
+Bowler: Sharif
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+length outside off. Smashed straight back towards the bowler who gets a hand on it but cannot stop the single
+
+
+Balls faced: 27
+Bowler: Sharif
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+full but way outside off. Left alone
+
+Wide: 1
+Balls faced: 28
+Bowler: Sharif
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 2
+
+
+a juicy full toss but David fails to put it away. A fumble at deep square leg though allows him to come back for a second
+
+
+Balls faced: 29
+Bowler: Sharif
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+13 needed from 12 balls. Here's Sharif
+
+full outside off. David throws his bat at it and gets a thick outside edge. Short third makes a diving stop to his right
+
+
+Balls faced: 30
+Bowler: Wheal
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+That's it. <b>Scotland have been knocked out. England are through to Super Eight</b>. It was in the slot, full on off and middle and David smashes it over deep midwicket
+That's all from our side for this game. Hope you enjoyed our coverage. See you soon. A heartbreak for Scotland. A relief for England, who join West Indies, South Africa and USA in Group 2 of Super Eight. <b>Mitchell Marsh</b>: We spoke about sticking to our game. Scotland are a pretty good outfit and have improved a lot in the last few years. We spoke as a group to stay really consistent in how we want to play. Having already qualified, there was little less pressure on us. The World Cup kind of starts again now. It's going to be a busy schedule. T20 is a hard format. We are excited for what's to come. [On chat about England] I think more externally than internally. <b>Richie Berrington</b>: I thought we were in a pretty good position at the halfway mark. Unfortunately we couldn't capitalise towards the end. We had a really good start with the ball but we couldn't execute it for long enough. A few big overs towards the back end got them back into the game. There was a breeze at the ground, so we were just trying to get them hit away from the breeze. I think the guys can hold their head high. We played some really good cricket throughout the tournament. It was a great learning for us. Obviously we are a bit disappointed given the position we were in. We came here to qualify but couldn't do that. vagnur: "This just shows how scary Australia is. Not doing it all, but winning against a spirited scotland team" Krish : "Pheww!! England can sleep peacefully now..." <b>Marcus Stoinis is the Player of the Match</b>: "The plan was to get yourself in and hit it hard along the ground. And then access from there. There's a strong breeze, which meant that end was easier to hit from. The pitch was also very good. Head picked his bowlers and pretty much turned the game in that over with three sixes even though he got out. I have been fortunate to play consistently for the last 3-4 months starting with the IPL but there's no substitute for confidence. That's the recipe we all try to keep a hold of." <B>11.50pm</b> A valiant effort by Scotland but Australia were too good in the end. They posted a competitive 180 and were ahead at the halfway mark in the chase. At one point, Australia needed 89 from seven overs. Head and Stoinis shifted gears then and David joined in later and finished it off with two balls to spare.
+
+Balls faced: 31
+Bowler: Wheal
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 2
+Pavan: "Take it Super Over please!!! " Back to over the stumps for David
+
+length ball around off. David launches it towards midwicket. Sole moves to his right and get under it, but <B>ends up dropping it</b>. Was never steady but what a time to drop a catch. <b>Score are level</b>
+
+
+Balls faced: 32
+Bowler: Wheal
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: FLICK
+Run scored: 1
+Only five required... Wheal to bowl
+
+in the blockhole. David works it towards long-on
+
+
+
+Match: all_games_1434088_1434095.json
+Balls faced: 1
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 5
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 8
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Scholtz
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Trumpelmann
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Trumpelmann
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 15
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 18
+Bowler: Wiese
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 23
+Bowler: Trumpelmann
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Trumpelmann
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Scholtz
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+David is OUT! caught
+c Davin b Scholtz
+Tim David c Davin b Scholtz 23 (16b 3x4 1x6) SR: 143.75
+
+
+
+Balls faced: 26
+Bowler: Scholtz
+Over: 9
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 27
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Frylinck
+Over: 8
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 31
+Bowler: Scholtz
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+David is OUT! caught
+c Davin b Scholtz
+Tim David c Davin b Scholtz 23 (16b 3x4 1x6) SR: 143.75
+
+
+
+Balls faced: 32
+Bowler: Scholtz
+Over: 9
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+
+Match: all_games_1434088_1434102.json
+Balls faced: 1
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 3
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Alzarri Joseph
+Over: 6
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 5
+Bowler: Alzarri Joseph
+Over: 6
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 6
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 8
+Bowler: McCoy
+Over: 5
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: McCoy
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: McCoy
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Alzarri Joseph
+Over: 6
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 12
+Bowler: Alzarri Joseph
+Over: 6
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 13
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 14
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 15
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: McCoy
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: McCoy
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 21
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 22
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Motie
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Motie
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+David is OUT! caught
+c Hetmyer b Motie
+Tim David c Hetmyer b Motie 25 (12b 3x4 2x6) SR: 208.33
+
+Match State: Drinks
+
+Balls faced: 26
+Bowler: Motie
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+David is OUT! caught
+c Hetmyer b Motie
+Tim David c Hetmyer b Motie 25 (12b 3x4 2x6) SR: 208.33
+
+Match State: Drinks

@@ -1,0 +1,67 @@
+Match: all_games_1411166_1415710.json
+Balls faced: 1
+Bowler: Ellis
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+attempted yorker, eased straight down the ground
+
+
+Balls faced: 2
+Bowler: Ellis
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+Last man walks in
+
+Slower one outside off, Bilal with a wild swing and a miss
+
+
+Balls faced: 3
+Bowler: Ellis
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+attempted yorker, eased straight down the ground
+
+
+Balls faced: 4
+Bowler: Ellis
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+Last man walks in
+
+Slower one outside off, Bilal with a wild swing and a miss
+
+
+
+Match: all_games_1411166_1415728.json
+Balls faced: 1
+Bowler: Rashid
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+One-handed sweep... on the bounce to Liam Livingstone out at deep square leg. For a moment, it looked like Adil Rashid might become the second Englishman to take a T20i five-for after Sam Curran. He'll have to settle for four...
+
+
+Balls faced: 2
+Bowler: Rashid
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+One-handed sweep... on the bounce to Liam Livingstone out at deep square leg. For a moment, it looked like Adil Rashid might become the second Englishman to take a T20i five-for after Sam Curran. He'll have to settle for four...

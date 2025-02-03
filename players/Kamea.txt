@@ -1,0 +1,89 @@
+Match: all_games_1411166_1415729.json
+Balls faced: 1
+Bowler: Fazalhaq Farooqi
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: STEERED
+Run scored: 1
+Kamea is the last batter in
+
+dug in short on off. Kamea stays leg side of the ball and fends it down to third man
+
+
+Balls faced: 2
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 1
+Around the wicket now
+
+full and darted into leg stump. Kamea marches down the track and slogs at it, squirting it off the inside edge towards fine leg
+
+
+Balls faced: 3
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Naveen to bowl the final over. Can PNG get past 100? Kamea on strike
+
+cutter on a length just outside off. Grips in the surface and deviates away, which takes it past the outside edge of Kamea's bat
+
+
+Balls faced: 4
+Bowler: Fazalhaq Farooqi
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: STEERED
+Run scored: 1
+Kamea is the last batter in
+
+dug in short on off. Kamea stays leg side of the ball and fends it down to third man
+
+
+Balls faced: 5
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 1
+Around the wicket now
+
+full and darted into leg stump. Kamea marches down the track and slogs at it, squirting it off the inside edge towards fine leg
+
+
+Balls faced: 6
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Naveen to bowl the final over. Can PNG get past 100? Kamea on strike
+
+cutter on a length just outside off. Grips in the surface and deviates away, which takes it past the outside edge of Kamea's bat
+
+
+
+Match: all_games_1411166_1415739.json
+Balls faced: 1
+Bowler: Sodhi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+tight line across the left-hander, straightens off the pitch, chopped to the on-side off the back foot
+
+
+Balls faced: 2
+Bowler: Sodhi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+tight line across the left-hander, straightens off the pitch, chopped to the on-side off the back foot

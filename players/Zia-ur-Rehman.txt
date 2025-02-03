@@ -1,0 +1,333 @@
+Match: all_games_1416063_1416080.json
+Balls faced: 1
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+goes wide of the crease, and bowls on a length and wide of off. Zia leaves it alone
+
+
+Balls faced: 2
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+loud appeal for lbw, but there seemed to be an inside edge and it's not given. Balbirnie isn't too interested in a review either. Nope, no inside edge, but he was hit on his back leg, with the ball probably sliding down off a length after being angled in
+
+
+Balls faced: 3
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fuller side of a length just outside off, and blocked down
+
+
+Balls faced: 4
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+fuller length, and wide of off. Left alone by Zia
+
+
+Balls faced: 5
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Zia-ur-Rehman
+
+on a length on middle and off, and dabbed down from middle after almost getting cramped up
+
+
+Balls faced: 6
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+goes wide of the crease, and bowls on a length and wide of off. Zia leaves it alone
+
+
+Balls faced: 7
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+loud appeal for lbw, but there seemed to be an inside edge and it's not given. Balbirnie isn't too interested in a review either. Nope, no inside edge, but he was hit on his back leg, with the ball probably sliding down off a length after being angled in
+
+
+Balls faced: 8
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fuller side of a length just outside off, and blocked down
+
+
+Balls faced: 9
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+fuller length, and wide of off. Left alone by Zia
+
+
+Balls faced: 10
+Bowler: Young
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Zia-ur-Rehman
+
+on a length on middle and off, and dabbed down from middle after almost getting cramped up
+
+
+Balls faced: 11
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+Vinod Rajpal: "Himanshu, looks like you had a good Irish Lunch with beer. Ireland on top... Afghanistan in trouble" --- *Burps*...
+
+quite full on off, and driven back to the bowler
+
+
+Balls faced: 12
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+this time extra cover moves to his right to stop this, as Zia again stabs at this length ball outside off
+
+
+Balls faced: 13
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fullish length, and just outside off as he persists with this line. Driven to extra cover this time
+
+
+Balls faced: 14
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+length ball on off, and pushed to mid-on without any foot movement
+
+
+Balls faced: 15
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fires in a yorker which swings in late and hits his front pad outside leg. The ball rolls away past the keeper's left, and they get a leg bye
+
+Legbyes: 2
+Balls faced: 16
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short ball around off which is angled in, with Zia ducking, but the ball moves away late as the keeper takes it to his right
+
+
+Balls faced: 17
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+Vinod Rajpal: "Himanshu, looks like you had a good Irish Lunch with beer. Ireland on top... Afghanistan in trouble" --- *Burps*...
+
+quite full on off, and driven back to the bowler
+
+
+Balls faced: 18
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+this time extra cover moves to his right to stop this, as Zia again stabs at this length ball outside off
+
+
+Balls faced: 19
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fullish length, and just outside off as he persists with this line. Driven to extra cover this time
+
+
+Balls faced: 20
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+length ball on off, and pushed to mid-on without any foot movement
+
+
+Balls faced: 21
+Bowler: Young
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fires in a yorker which swings in late and hits his front pad outside leg. The ball rolls away past the keeper's left, and they get a leg bye
+
+Legbyes: 2
+Balls faced: 22
+Bowler: Young
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short ball around off which is angled in, with Zia ducking, but the ball moves away late as the keeper takes it to his right
+
+
+Balls faced: 23
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Zia-ur-Rehman is OUT! caught
+c Balbirnie b Adair
+Zia-ur-Rehman c Balbirnie b Adair 6 (15b 1x4 0x6 22m) SR: 40
+<strong>now taken by second slip!</strong> This is pretty simple, and Zia's stay of hit-and-miss ends. Adair went on the fuller side of a length on off, angling it into the right-hander. But the ball moved away after pitching, and Zia went driving at it with an angled bat outside off. He got an outside edge, and Balbirnie gobbled it up
+
+
+Balls faced: 24
+Bowler: Adair
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+pushes this length ball on the stumps to mid-on
+
+
+Balls faced: 25
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 4
+
+
+<strong>uff, nearly taken by third slip!</strong> It would have been terrific catch by McBrine had he nabbed it. He leaped with his right hand up, and replays show the ball just tickled his fingers as Zia got an outside edge off this length ball on sixth stump while he looked to push
+
+
+Balls faced: 26
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+flashed aerially to cover, beating the man at point to his right. He just hangs his bat out horizontally at this length ball on fifth stump, with the ball taking off from the higher side of the bat
+
+
+Balls faced: 27
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Zia-ur-Rehman is OUT! caught
+c Balbirnie b Adair
+Zia-ur-Rehman c Balbirnie b Adair 6 (15b 1x4 0x6 22m) SR: 40
+<strong>now taken by second slip!</strong> This is pretty simple, and Zia's stay of hit-and-miss ends. Adair went on the fuller side of a length on off, angling it into the right-hander. But the ball moved away after pitching, and Zia went driving at it with an angled bat outside off. He got an outside edge, and Balbirnie gobbled it up
+
+
+Balls faced: 28
+Bowler: Adair
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+pushes this length ball on the stumps to mid-on
+
+
+Balls faced: 29
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 4
+
+
+<strong>uff, nearly taken by third slip!</strong> It would have been terrific catch by McBrine had he nabbed it. He leaped with his right hand up, and replays show the ball just tickled his fingers as Zia got an outside edge off this length ball on sixth stump while he looked to push
+
+
+Balls faced: 30
+Bowler: Adair
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+flashed aerially to cover, beating the man at point to his right. He just hangs his bat out horizontally at this length ball on fifth stump, with the ball taking off from the higher side of the bat

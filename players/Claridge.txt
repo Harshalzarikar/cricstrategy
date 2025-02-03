@@ -1,0 +1,110 @@
+Match: all_games_1410505_1410546.json
+Balls faced: 1
+Bowler: Pavely
+Over: 18
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Pavely
+Over: 18
+ 
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Pavely
+Over: 18
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Baker
+Over: 19
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+Claridge is OUT! caught
+c Perrin b Baker
+Ella Claridge c Perrin b Baker 10 (5b 2x4 0x6 6m) SR: 200
+
+
+
+Balls faced: 5
+Bowler: Baker
+Over: 19
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 6
+Bowler: Pavely
+Over: 18
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Pavely
+Over: 18
+ 
+Shot: PUSH_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Pavely
+Over: 18
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: Baker
+Over: 19
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+Claridge is OUT! caught
+c Perrin b Baker
+Ella Claridge c Perrin b Baker 10 (5b 2x4 0x6 6m) SR: 200
+
+
+
+Balls faced: 10
+Bowler: Baker
+Over: 19
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4

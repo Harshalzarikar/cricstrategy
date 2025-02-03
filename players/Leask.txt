@@ -1,0 +1,3968 @@
+Match: all_games_1383037_1383083.json
+Balls faced: 1
+Bowler: Ahmad
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Ahmad
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 3
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 4
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 5
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 6
+Bowler: Ahmad
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Ahmad
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 8
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! caught
+c Bharaj b Ahmad
+Michael Leask c Bharaj b Ahmad 20 (8b 3x4 1x6) SR: 250
+
+
+
+Balls faced: 9
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 10
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 12
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 13
+Bowler: Saud
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 14
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! caught
+c Bharaj b Ahmad
+Michael Leask c Bharaj b Ahmad 20 (8b 3x4 1x6) SR: 250
+
+
+
+Balls faced: 15
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 16
+Bowler: Ahmad
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1383037_1383088.json
+Balls faced: 1
+Bowler: White
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: White
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 3
+Bowler: Little
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Little
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: White
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: White
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 7
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 8
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 12
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Little
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Little
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 16
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 17
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 19
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 20
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+No Balls: 1
+Balls faced: 24
+Bowler: Adair
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Adair
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 26
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 27
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 28
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Campher
+Over: 18
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 30
+Bowler: McCarthy
+Over: 20
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! caught
+c Tector b McCarthy
+Michael Leask c Tector b McCarthy 21 (15b 2x4 1x6) SR: 140
+
+
+
+Balls faced: 31
+Bowler: Adair
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 32
+Bowler: McCarthy
+Over: 20
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! caught
+c Tector b McCarthy
+Michael Leask c Tector b McCarthy 21 (15b 2x4 1x6) SR: 140
+
+
+
+
+Match: all_games_1411166_1415712.json
+Balls faced: 1
+Bowler: Erasmus
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+a fraction of room outside off, Leask rocks back well to increase his room to swing the arms, and picks off two to deep cover
+
+
+Balls faced: 2
+Bowler: Erasmus
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+firmly onto the front foot, to meet the round-the-wicket line. Back to the bowler
+
+
+Balls faced: 3
+Bowler: Lungameni
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+bowled into the pitch, outside off, cracked hard to the leg-side but the sweeper is well positioned
+
+
+Balls faced: 4
+Bowler: Erasmus
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+a fraction of room outside off, Leask rocks back well to increase his room to swing the arms, and picks off two to deep cover
+
+
+Balls faced: 5
+Bowler: Erasmus
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+firmly onto the front foot, to meet the round-the-wicket line. Back to the bowler
+
+
+Balls faced: 6
+Bowler: Erasmus
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+forward, and punched down the ground for one more
+
+
+Balls faced: 7
+Bowler: Erasmus
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<B>Massive!</B> The hundred comes up in style! A rare glimmer of width outside off, and Leask latches onto it with a mighty mash high over midwicket! It's lodged on the roof of the groundsman's shed!
+
+
+Balls faced: 8
+Bowler: Erasmus
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+round the wicket, full and leg-sided, flashed into the on-side
+
+
+Balls faced: 9
+Bowler: Lungameni
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+bowled into the pitch, outside off, cracked hard to the leg-side but the sweeper is well positioned
+
+
+Balls faced: 10
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+swept, but well controlled, getting the front leg outside off as a precaution and watching the ball into a firm slap to midwicket
+
+
+Balls faced: 11
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+on the back foot, jabbed to the on-side, no width to work with
+
+
+Balls faced: 12
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+on the back foot, waiting on the ball as it straightens from round the wicket, tapped to the on-side
+
+
+Balls faced: 13
+Bowler: Erasmus
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+forward, and punched down the ground for one more
+
+
+Balls faced: 14
+Bowler: Erasmus
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<B>Massive!</B> The hundred comes up in style! A rare glimmer of width outside off, and Leask latches onto it with a mighty mash high over midwicket! It's lodged on the roof of the groundsman's shed!
+
+
+Balls faced: 15
+Bowler: Erasmus
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+round the wicket, full and leg-sided, flashed into the on-side
+
+
+Balls faced: 16
+Bowler: Trumpelmann
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+round the wicket again, angled into the pads, Leask swings into a big hack to leg, misses, but it's going over the stumps
+
+Legbyes: 1
+Balls faced: 17
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+swept, but well controlled, getting the front leg outside off as a precaution and watching the ball into a firm slap to midwicket
+
+
+Balls faced: 18
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+on the back foot, jabbed to the on-side, no width to work with
+
+
+Balls faced: 19
+Bowler: Scholtz
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+on the back foot, waiting on the ball as it straightens from round the wicket, tapped to the on-side
+
+
+Balls faced: 20
+Bowler: Wiese
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 6
+
+
+full toss, <B>deposited high over deep midwicket!</B> That might just have been the over. 18 runs pour from it, almost half the previous requirement. Scotland need 21 from 18 now
+
+
+Balls faced: 21
+Bowler: Wiese
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+smashed into the off side for the single
+
+
+Balls faced: 22
+Bowler: Wiese
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+<B>mashed into the stands!</B> A good take in the crowd at midwicket, as Leask takes no half-measures against the dangerman! A touch of width, and clobbered to bring up the fifty stand from 32 balls
+
+
+Balls faced: 23
+Bowler: Trumpelmann
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+round the wicket again, angled into the pads, Leask swings into a big hack to leg, misses, but it's going over the stumps
+
+Legbyes: 1
+Balls faced: 24
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Leask is OUT! caught
+c Wiese b Trumpelmann
+Michael Leask c Wiese b Trumpelmann 35 (17b 0x4 4x6 29m) SR: 205.88
+<B>holed out to long-on!</B> Leask climbed into another mighty wipe down the ground, but this time the pace off, allied to a touch of width, leaves him reaching a touch too much. Wiese stoops low to gather, and ends a game-breaking knock
+Mr Matt: "121 metres? really?" That's what I heard on the TV comms... I may have been mistaken! Apparently it was 101... big either way
+
+Balls faced: 25
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+<B>free hit</B> ... full length, attempts a cutesy sweep/ramp, loops behind square on the leg side
+
+
+Balls faced: 26
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: STRAIGHT_DRIVE
+Run scored: 2
+
+
+<B>the wheels are coming off now!</B> Another big wind-up, but Trumpelmann has overstepped as well
+
+No Balls: 1
+Balls faced: 27
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<B>Leask is off the leash!</B> Seizes on the slower ball, and piledrives it 101 metres, into the prevailing wind, over wide long-on!
+
+
+Balls faced: 28
+Bowler: Wiese
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PULL
+Run scored: 6
+
+
+full toss, <B>deposited high over deep midwicket!</B> That might just have been the over. 18 runs pour from it, almost half the previous requirement. Scotland need 21 from 18 now
+
+
+Balls faced: 29
+Bowler: Wiese
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+smashed into the off side for the single
+
+
+Balls faced: 30
+Bowler: Wiese
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+<B>mashed into the stands!</B> A good take in the crowd at midwicket, as Leask takes no half-measures against the dangerman! A touch of width, and clobbered to bring up the fifty stand from 32 balls
+
+
+Balls faced: 31
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Leask is OUT! caught
+c Wiese b Trumpelmann
+Michael Leask c Wiese b Trumpelmann 35 (17b 0x4 4x6 29m) SR: 205.88
+<B>holed out to long-on!</B> Leask climbed into another mighty wipe down the ground, but this time the pace off, allied to a touch of width, leaves him reaching a touch too much. Wiese stoops low to gather, and ends a game-breaking knock
+Mr Matt: "121 metres? really?" That's what I heard on the TV comms... I may have been mistaken! Apparently it was 101... big either way
+
+Balls faced: 32
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+<B>free hit</B> ... full length, attempts a cutesy sweep/ramp, loops behind square on the leg side
+
+
+Balls faced: 33
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: STRAIGHT_DRIVE
+Run scored: 2
+
+
+<B>the wheels are coming off now!</B> Another big wind-up, but Trumpelmann has overstepped as well
+
+No Balls: 1
+Balls faced: 34
+Bowler: Trumpelmann
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<B>Leask is off the leash!</B> Seizes on the slower ball, and piledrives it 101 metres, into the prevailing wind, over wide long-on!
+
+
+
+Match: all_games_1411166_1415735.json
+Balls faced: 1
+Bowler: Maxwell
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+floated around off. Leask hits it back towards the bowler who makes a partial stop that is enough to prevent a single
+
+
+Balls faced: 2
+Bowler: Maxwell
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Leask is the new batter
+
+short of length around off. Cuts it towards deep extra
+
+
+Balls faced: 3
+Bowler: Agar
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+full outside off. Goes for the sweep but gets an under-edge towards short fine leg
+
+
+Balls faced: 4
+Bowler: Agar
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+a full toss around off. Hit along the ground towards long-on
+
+
+Balls faced: 5
+Bowler: Maxwell
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+floated around off. Leask hits it back towards the bowler who makes a partial stop that is enough to prevent a single
+
+
+Balls faced: 6
+Bowler: Maxwell
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Leask is the new batter
+
+short of length around off. Cuts it towards deep extra
+
+
+Balls faced: 7
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Leask is OUT! caught
+c Starc b Ellis
+Michael Leask c Starc b Ellis 5 (8b 0x4 0x6 9m) SR: 62.5
+<b>Ellis picks up his first</b>. Full and straight. Leask goes aerial but doesn't get the required distance behind it. A simple catch for Starc at long-on
+
+
+Balls faced: 8
+Bowler: Ellis
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+a slower short ball. Leask was too early into his pull and gets beaten
+
+
+Balls faced: 9
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+full on the stumps. Hits it down the ground. Starc at long-on dives to his left to make the stop
+
+
+Balls faced: 10
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+a slower length ball. Leask was looking to back away and work it towards the off side but fails to connect
+
+
+Balls faced: 11
+Bowler: Agar
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 1
+
+
+full outside off. Goes for the sweep but gets an under-edge towards short fine leg
+
+
+Balls faced: 12
+Bowler: Agar
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+a full toss around off. Hit along the ground towards long-on
+
+
+Balls faced: 13
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Leask is OUT! caught
+c Starc b Ellis
+Michael Leask c Starc b Ellis 5 (8b 0x4 0x6 9m) SR: 62.5
+<b>Ellis picks up his first</b>. Full and straight. Leask goes aerial but doesn't get the required distance behind it. A simple catch for Starc at long-on
+
+
+Balls faced: 14
+Bowler: Ellis
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+a slower short ball. Leask was too early into his pull and gets beaten
+
+
+Balls faced: 15
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+full on the stumps. Hits it down the ground. Starc at long-on dives to his left to make the stop
+
+
+Balls faced: 16
+Bowler: Ellis
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+a slower length ball. Leask was looking to back away and work it towards the off side but fails to connect
+
+
+
+Match: all_games_1420525_1421070.json
+Balls faced: 1
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Saad
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Saad
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Saad
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Saad
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 13
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Thaker
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Thaker
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 17
+Bowler: Thaker
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Thaker
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 21
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Saad
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Saad
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 24
+Bowler: Saad
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Saad
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+
+
+Byes: 1
+Balls faced: 26
+Bowler: Saad
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Thaker
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Thaker
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 29
+Bowler: Thaker
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Thaker
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 33
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Saad
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 4
+
+
+
+
+
+Balls faced: 35
+Bowler: Saad
+Over: 38
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Saad
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+
+
+
+
+Byes: 1
+Balls faced: 37
+Bowler: Saad
+Over: 38
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 38
+Bowler: Heyliger
+Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 3
+
+
+
+
+
+Balls faced: 39
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 41
+Bowler: Thaker
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 42
+Bowler: Saad
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: Saad
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 44
+Bowler: Saad
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 45
+Bowler: Heyliger
+Over: 40
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 3
+
+
+
+
+
+Balls faced: 46
+Bowler: Heyliger
+Over: 42
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 47
+Bowler: Heyliger
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: Heyliger
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 49
+Bowler: Saad
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Saad
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 51
+Bowler: Saad
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 52
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 53
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 54
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 55
+Bowler: Heyliger
+Over: 42
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 56
+Bowler: Heyliger
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 57
+Bowler: Heyliger
+Over: 42
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 58
+Bowler: Heyliger
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 59
+Bowler: Heyliger
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 60
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 61
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 62
+Bowler: Kaleem Sana
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 63
+Bowler: Kaleem Sana
+Over: 45
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 64
+Bowler: Kaleem Sana
+Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 65
+Bowler: Heyliger
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 66
+Bowler: Heyliger
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 67
+Bowler: Heyliger
+Over: 46
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+Leask is OUT! caught
+c Dhaliwal b Heyliger
+Michael Leask c Dhaliwal b Heyliger 40 (44b 3x4 0x6 56m) SR: 90.9
+
+
+
+Balls faced: 68
+Bowler: Heyliger
+Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 69
+Bowler: Kaleem Sana
+Over: 45
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 70
+Bowler: Kaleem Sana
+Over: 45
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 71
+Bowler: Heyliger
+Over: 46
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+Leask is OUT! caught
+c Dhaliwal b Heyliger
+Michael Leask c Dhaliwal b Heyliger 40 (44b 3x4 0x6 56m) SR: 90.9
+
+
+
+Balls faced: 72
+Bowler: Heyliger
+Over: 46
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 2
+
+
+
+
+
+
+Match: all_games_1420525_1421073.json
+Balls faced: 1
+Bowler: Heyliger
+Over: 29
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Heyliger
+Over: 29
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 2
+
+
+
+
+
+Balls faced: 7
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+Leask is OUT! bowled
+ b Saad Bin Zafar
+Michael Leask b Saad Bin Zafar 2 (7b 0x4 0x6 12m) SR: 28.57
+
+
+
+Balls faced: 8
+Bowler: Saad
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Ammar Khalid
+Over: 31
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 2
+
+
+
+
+
+Balls faced: 13
+Bowler: Saad
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+Leask is OUT! bowled
+ b Saad Bin Zafar
+Michael Leask b Saad Bin Zafar 2 (7b 0x4 0x6 12m) SR: 28.57
+
+
+
+Balls faced: 14
+Bowler: Saad
+Over: 32
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1421067_1421078.json
+Balls faced: 1
+Bowler: Aayan Afzal Khan
+Over: 7
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Aayan Afzal Khan
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STEERED
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 5
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+
+
+
+Balls faced: 6
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Aayan Afzal Khan
+Over: 7
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Aayan Afzal Khan
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STEERED
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 15
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+
+
+
+Balls faced: 16
+Bowler: Akif Raja
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+
+Leask is OUT! lbw
+lbw b Basil Hameed
+Michael Leask lbw b Basil Hameed 19 (15b 1x4 1x6 12m) SR: 126.66
+
+
+
+Balls faced: 18
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 20
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 21
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Aayan Afzal Khan
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+
+Leask is OUT! lbw
+lbw b Basil Hameed
+Michael Leask lbw b Basil Hameed 19 (15b 1x4 1x6 12m) SR: 126.66
+
+
+
+Balls faced: 27
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 29
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 30
+Bowler: Basil Hameed
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1421067_1421079.json
+Balls faced: 1
+Bowler: Basil Hameed
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Basil Hameed
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Basil Hameed
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Leask is OUT! caught
+c Chopra b Basil Hameed
+Michael Leask c Chopra b Basil Hameed 5 (5b 1x4 0x6) SR: 100
+
+
+
+Balls faced: 7
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: Zuhaib Zubair
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Basil Hameed
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Leask is OUT! caught
+c Chopra b Basil Hameed
+Michael Leask c Chopra b Basil Hameed 5 (5b 1x4 0x6) SR: 100
+
+
+
+
+Match: all_games_1421067_1421080.json
+Balls faced: 1
+Bowler: Akif Raja
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Akif Raja
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 3
+Bowler: Akif Raja
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Aayan Afzal Khan
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Aayan Afzal Khan
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Akif Raja
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Akif Raja
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 8
+Bowler: Akif Raja
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Aayan Afzal Khan
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Aayan Afzal Khan
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Basil Hameed
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Leask is OUT! bowled
+ b Basil Hameed
+Michael Leask b Basil Hameed 11 (15b 1x4 0x6 19m) SR: 73.33
+
+
+
+Balls faced: 23
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: WIDE_DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 26
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: Aayan Afzal Khan
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Leask is OUT! bowled
+ b Basil Hameed
+Michael Leask b Basil Hameed 11 (15b 1x4 0x6 19m) SR: 73.33
+
+
+
+Balls faced: 29
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Basil Hameed
+Over: 11
+Pitch Line: WIDE_DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1428145_1428151.json
+Balls faced: 1
+Bowler: van Meekeren
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+Leask is OUT! caught
+c Doram b van Meekeren
+Michael Leask c Doram b van Meekeren 3 (3b 0x4 0x6 4m) SR: 100
+
+
+
+Balls faced: 2
+Bowler: van Meekeren
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: van Meekeren
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 4
+Bowler: van Meekeren
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+Leask is OUT! caught
+c Doram b van Meekeren
+Michael Leask c Doram b van Meekeren 3 (3b 0x4 0x6 4m) SR: 100
+
+
+
+Balls faced: 5
+Bowler: van Meekeren
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: van Meekeren
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+
+
+
+
+Match: all_games_1428145_1428154.json
+Balls faced: 1
+Bowler: Kingma
+Over: 14
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Kingma
+Over: 14
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Klein
+Michael Leask b Klein 9 (6b 0x4 1x6 5m) SR: 150
+
+
+
+Balls faced: 4
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 7
+Bowler: Kingma
+Over: 14
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Kingma
+Over: 14
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Klein
+Michael Leask b Klein 9 (6b 0x4 1x6 5m) SR: 150
+
+
+
+Balls faced: 10
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Klein
+Over: 15
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+
+Match: all_games_1428145_1428155.json
+Balls faced: 1
+Bowler: Delany
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Delany
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Delany
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Delany
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: White
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 19
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 20
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 21
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Dockrell
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 26
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 31
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 32
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 33
+Bowler: McCarthy
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: White
+Over: 13
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: White
+Over: 13
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 36
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 38
+Bowler: Delany
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 39
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 41
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 42
+Bowler: White
+Over: 13
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: White
+Over: 13
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 44
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Adair
+Michael Leask b Adair 34 (26b 1x4 2x6 30m) SR: 130.76
+
+
+
+Balls faced: 45
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 46
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 47
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 48
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 49
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 51
+Bowler: Delany
+Over: 14
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 52
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Adair
+Michael Leask b Adair 34 (26b 1x4 2x6 30m) SR: 130.76
+
+
+
+Balls faced: 53
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 54
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 55
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 56
+Bowler: Adair
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+
+Match: all_games_1434088_1434104.json
+Balls faced: 1
+Bowler: Rashid Khan
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Nangeyalia Kharote
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Nangeyalia Kharote
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Rashid Khan
+Over: 7
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Nangeyalia Kharote
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Nangeyalia Kharote
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Nangeyalia Kharote
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Nangeyalia Kharote
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Rashid Khan
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 16
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Legbyes: 4
+Balls faced: 19
+Bowler: Nangeyalia Kharote
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Nangeyalia Kharote
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Karim Janat
+Over: 12
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Karim Janat
+Michael Leask b Karim Janat 6 (13b 1x4 0x6) SR: 46.15
+
+
+
+Balls faced: 22
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 23
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Azmatullah
+Over: 11
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Legbyes: 4
+Balls faced: 26
+Bowler: Karim Janat
+Over: 12
+ 
+Shot: No Shot
+Run scored: 0
+
+Leask is OUT! bowled
+ b Karim Janat
+Michael Leask b Karim Janat 6 (13b 1x4 0x6) SR: 46.15

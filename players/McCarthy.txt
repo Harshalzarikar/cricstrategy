@@ -1,0 +1,1606 @@
+Match: all_games_1383037_1383088.json
+Balls faced: 1
+Bowler: Greaves
+Over: 12
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 2
+Bowler: Greaves
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 5
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 6
+Bowler: Greaves
+Over: 12
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 7
+Bowler: Greaves
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 10
+Bowler: Sharif
+Over: 13
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 11
+Bowler: Watt
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Watt
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+McCarthy is OUT! caught
+c Currie b Main
+Barry McCarthy c Currie b Main 17 (9b 1x4 1x6) SR: 188.88
+
+
+
+Balls faced: 14
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 15
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 16
+Bowler: Watt
+Over: 15
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Watt
+Over: 15
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+McCarthy is OUT! caught
+c Currie b Main
+Barry McCarthy c Currie b Main 17 (9b 1x4 1x6) SR: 188.88
+
+
+
+Balls faced: 19
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 20
+Bowler: Main
+Over: 16
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+
+Match: all_games_1408099_1408103.json
+Balls faced: 1
+Bowler: Ngarava
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PUSH
+Run scored: 1
+Barry McCarthy is the next man in
+
+Low full toss on middle, pushes it towards mid-off and sets off. Just one run and a wicket
+
+
+Balls faced: 2
+Bowler: Muzarabani
+Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Muzarabani again
+McCarthy is OUT! caught
+c Williams b Muzarabani
+Barry McCarthy c Williams b Muzarabani 1 (2b 0x4 0x6 3m) SR: 50
+Completely done in by the slower one from Muzarabani. Full and just outside off, McCarthy pushes at it way too early and ends up spooning a catch via the outside edge towards point
+
+
+Balls faced: 3
+Bowler: Ngarava
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: PUSH
+Run scored: 1
+Barry McCarthy is the next man in
+
+Low full toss on middle, pushes it towards mid-off and sets off. Just one run and a wicket
+
+
+Balls faced: 4
+Bowler: Muzarabani
+Over: 18
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Muzarabani again
+McCarthy is OUT! caught
+c Williams b Muzarabani
+Barry McCarthy c Williams b Muzarabani 1 (2b 0x4 0x6 3m) SR: 50
+Completely done in by the slower one from Muzarabani. Full and just outside off, McCarthy pushes at it way too early and ends up spooning a catch via the outside edge towards point
+
+
+
+Match: all_games_1411166_1415708.json
+Balls faced: 1
+Bowler: Hardik
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+Ravi Shastri reckons Ireland have let the pitch play on their mind.
+
+beaten as he chips down the track to heave across the line
+
+
+Balls faced: 2
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+Venkatesh: "Why do I get the images of Dada and Debasis Mohanthy in my mind as I watch visuals?!" -- Maybe because we're geographically close to Toronto?
+
+beaten by a bumper again, Hardik dug it. Effort ball.
+
+
+Balls faced: 3
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+Fahad suggests: "India should hand next over to Shivam Dube. Just to get himself into some sort of rhythm and feel of the conditions. With Hardik bowling in the WC, India may not need services of Shivam as a bowler though, but just in case!"
+
+skids through off a length, keeps a tad low to hit McCarthy on the back thigh as he tries to pull in front of squaee
+
+
+Balls faced: 4
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+goes full on the stumps, defended to mid-off
+
+
+Balls faced: 5
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Hardik on a hat-trick
+
+ooohhh! The skid off a length has McCarthy rushing into his stroke as he defends awkwardly.
+
+
+Balls faced: 6
+Bowler: Axar Patel
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+McCarthy is OUT! caught
+c & b Patel
+Barry McCarthy c & b Patel 0 (6b 0x4 0x6) SR: 0
+<strong>outstanding catch by Axar!</strong> Harmless ball drifting into middle and leg, McCarthy gets a leading edge that appears to be drifting away from Axar's reach, but he does superbly well to run a couple of steps to his right before putting in the dive and taking it one-handed.
+
+
+Balls faced: 7
+Bowler: Hardik
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+Ravi Shastri reckons Ireland have let the pitch play on their mind.
+
+beaten as he chips down the track to heave across the line
+
+
+Balls faced: 8
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+Venkatesh: "Why do I get the images of Dada and Debasis Mohanthy in my mind as I watch visuals?!" -- Maybe because we're geographically close to Toronto?
+
+beaten by a bumper again, Hardik dug it. Effort ball.
+
+
+Balls faced: 9
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+Fahad suggests: "India should hand next over to Shivam Dube. Just to get himself into some sort of rhythm and feel of the conditions. With Hardik bowling in the WC, India may not need services of Shivam as a bowler though, but just in case!"
+
+skids through off a length, keeps a tad low to hit McCarthy on the back thigh as he tries to pull in front of squaee
+
+
+Balls faced: 10
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+goes full on the stumps, defended to mid-off
+
+
+Balls faced: 11
+Bowler: Hardik
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Hardik on a hat-trick
+
+ooohhh! The skid off a length has McCarthy rushing into his stroke as he defends awkwardly.
+
+
+Balls faced: 12
+Bowler: Axar Patel
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+McCarthy is OUT! caught
+c & b Patel
+Barry McCarthy c & b Patel 0 (6b 0x4 0x6) SR: 0
+<strong>outstanding catch by Axar!</strong> Harmless ball drifting into middle and leg, McCarthy gets a leading edge that appears to be drifting away from Axar's reach, but he does superbly well to run a couple of steps to his right before putting in the dive and taking it one-handed.
+
+
+
+Match: all_games_1411166_1415713.json
+Balls faced: 1
+Bowler: Gordon
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+this time they go for a bye! Good bounce off a length outside off, as McCarthy is beaten again after attempting a pull
+
+Byes: 1
+Balls faced: 2
+Bowler: Gordon
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+Binod: "Two upsets in two days! Come on associates!"
+
+dot ball! On a length just outside off, and McCarthy's attempt to deposit it across the line doesn't pay off
+
+
+Balls faced: 3
+Bowler: Gordon
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 2
+McCarthy
+
+shortish length, and pulled off the top edge towards square leg
+
+
+Balls faced: 4
+Bowler: Gordon
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+this time they go for a bye! Good bounce off a length outside off, as McCarthy is beaten again after attempting a pull
+
+Byes: 1
+Balls faced: 5
+Bowler: Gordon
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+Binod: "Two upsets in two days! Come on associates!"
+
+dot ball! On a length just outside off, and McCarthy's attempt to deposit it across the line doesn't pay off
+
+
+Balls faced: 6
+Bowler: Gordon
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 2
+McCarthy
+
+shortish length, and pulled off the top edge towards square leg
+
+
+
+Match: all_games_1411166_1415736.json
+Balls faced: 1
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+slower pace, 82mph on off, defended towards backward point
+
+
+Balls faced: 2
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+pushed through and steered away coming across
+
+
+Balls faced: 3
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+Barry McCarthy is in, slip posted
+
+straight line with lots of overspin, hits the inside edge and ricochets into the pads going back
+
+
+Balls faced: 4
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+full, straight, 143kph/89mph and clipped neatly off the pads through midwicket for a couple
+"I think absence of middle order batsmen in team is real cause of failure of team PCB." It's a circular argument linked to the openers, Dr Abid Hussain - <a href=https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864>one we've had many times before</a>
+
+Balls faced: 5
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+bangs it on a hard length, beats the outside edge with McCarthy attempting to prop on to the front foot
+
+
+Balls faced: 6
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball, 143kph/89mph and sliding back in with the arm, McCarthy blocks into the off side
+
+
+Balls faced: 7
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+slower pace, 82mph on off, defended towards backward point
+
+
+Balls faced: 8
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+pushed through and steered away coming across
+
+
+Balls faced: 9
+Bowler: Imad Wasim
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+Barry McCarthy is in, slip posted
+
+straight line with lots of overspin, hits the inside edge and ricochets into the pads going back
+
+
+Balls faced: 10
+Bowler: Imad Wasim
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+McCarthy is OUT! bowled
+ b Imad Wasim
+Barry McCarthy b Imad Wasim 2 (7b 0x4 0x6 12m) SR: 28.57
+<b>steps away, misses with a big swing!</b> McCarthy exposes his stumps and Imad duly takes up the offer to hit them. Slower pace, definitely some turn as the ball straightens into leg stump. He hadn't taken a wicket at this World Cup before today - now he has three!
+
+
+Balls faced: 11
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+full, straight, 143kph/89mph and clipped neatly off the pads through midwicket for a couple
+"I think absence of middle order batsmen in team is real cause of failure of team PCB." It's a circular argument linked to the openers, Dr Abid Hussain - <a href=https://www.espncricinfo.com/story/ind-vs-pak-t20-world-cup-2024-old-debate-simple-answer-pakistans-batting-just-not-very-good-1437864>one we've had many times before</a>
+
+Balls faced: 12
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+bangs it on a hard length, beats the outside edge with McCarthy attempting to prop on to the front foot
+
+
+Balls faced: 13
+Bowler: Haris Rauf
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball, 143kph/89mph and sliding back in with the arm, McCarthy blocks into the off side
+
+
+Balls faced: 14
+Bowler: Imad Wasim
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+McCarthy is OUT! bowled
+ b Imad Wasim
+Barry McCarthy b Imad Wasim 2 (7b 0x4 0x6 12m) SR: 28.57
+<b>steps away, misses with a big swing!</b> McCarthy exposes his stumps and Imad duly takes up the offer to hit them. Slower pace, definitely some turn as the ball straightens into leg stump. He hadn't taken a wicket at this World Cup before today - now he has three!
+
+
+
+Match: all_games_1416063_1416083.json
+Balls faced: 1
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Deep: "What a collapse from Ireland. From 92/2 to 103/8. Wow!"
+
+full and straight, and pushed back to the bowler's left
+
+
+Balls faced: 2
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full on off, and blocked back
+
+
+Balls faced: 4
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+on the bounce towards slip! He looked to slash at this fullish ball just outside off, with the ball skidding through
+
+
+Balls faced: 5
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full and straight, and blocked back
+
+
+Balls faced: 6
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+fullish ball just outside off, and pushed off the outside edge to short third
+
+
+Balls faced: 7
+Bowler: M Nabi
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+half-hearted appeal for lbw, and turned down. He seemed to be struck outside off, as he looked to defend this full and flat ball outside off
+
+
+Balls faced: 8
+Bowler: M Nabi
+Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+quite full, and straight. Blocked back towards Nabi
+
+
+Balls faced: 9
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Deep: "What a collapse from Ireland. From 92/2 to 103/8. Wow!"
+
+full and straight, and pushed back to the bowler's left
+
+
+Balls faced: 10
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full on off, and blocked back
+
+
+Balls faced: 12
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+on the bounce towards slip! He looked to slash at this fullish ball just outside off, with the ball skidding through
+
+
+Balls faced: 13
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full and straight, and blocked back
+
+
+Balls faced: 14
+Bowler: Nangeyalia Kharote
+Over: 29
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+fullish ball just outside off, and pushed off the outside edge to short third
+
+
+Balls faced: 15
+Bowler: Nangeyalia Kharote
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+short and flat around sixth stump. Punched to short third
+
+
+Balls faced: 16
+Bowler: M Nabi
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+half-hearted appeal for lbw, and turned down. He seemed to be struck outside off, as he looked to defend this full and flat ball outside off
+
+
+Balls faced: 17
+Bowler: M Nabi
+Over: 30
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+quite full, and straight. Blocked back towards Nabi
+
+
+Balls faced: 18
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+tossed up and dipping on off. Pushed back to the bowler
+
+
+Balls faced: 19
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+Romal: "Hope Nabi gets one more, so he will eventually get 5w in his career. He has a best of 4/30 until now"
+
+fullish ball on middle and leg, and nudged behind square
+
+
+Balls faced: 20
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full and dipping on off. Blocked back
+
+
+Balls faced: 21
+Bowler: Nangeyalia Kharote
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+short and flat around sixth stump. Punched to short third
+
+
+Balls faced: 22
+Bowler: Nangeyalia Kharote
+Over: 33
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+full and angled into middle and leg. Clipped to deep backward square leg
+
+
+Balls faced: 23
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+tossed up and dipping on off. Pushed back to the bowler
+
+
+Balls faced: 24
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+Romal: "Hope Nabi gets one more, so he will eventually get 5w in his career. He has a best of 4/30 until now"
+
+fullish ball on middle and leg, and nudged behind square
+
+
+Balls faced: 25
+Bowler: M Nabi
+Over: 32
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full and dipping on off. Blocked back
+
+
+Balls faced: 26
+Bowler: M Nabi
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+slows it down, and bowls full around off. Tucked down towards point, and they pinch a single
+
+
+Balls faced: 27
+Bowler: M Nabi
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fullish and quicker on off. Another defence firmly on the pitch
+
+
+Balls faced: 28
+Bowler: M Nabi
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full again, and dipping on off. Tapped back to the bowler
+
+
+Balls faced: 29
+Bowler: Nangeyalia Kharote
+Over: 33
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+full and angled into middle and leg. Clipped to deep backward square leg
+
+
+Balls faced: 30
+Bowler: Nangeyalia Kharote
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+McCarthy is OUT! bowled
+ b Nangeyalia Kharote
+Barry McCarthy b Nangeyalia Kharote 8 (18b 0x4 1x6 23m) SR: 44.44
+cleans him up! Kharote hits back immediately after being hit for a six. This stays low off a length on middle and leg, as it skidded through to beat McCarthy's attempted slash. Kharote has four on debut, as <b>Afghanistan win by 117 runs take the series 2-0</b>
+So Afghanistan win the ODI series after coming second in the one-off Test, and Shahidi lifts the series trophy along with his team-mates. Incredible comeback from their spinners after Ireland were entirely on track in their chase of 237. But Nabi used his experience to good effect, while the debutant Kharote showed what he was capable of too. Join us for the T20I leg of the tour in a few days' time, as we wrap up the ODIs. Goodnight and goodbye from Ranjith, Sudeep, Ekanth, and me, Himanshu! <strong>Hashmatullah Shahidi</strong>, Afghanistan captain: "Very happy with the performance. Stirling and Campher were playing very well. But when I was batting, I knew the wicket wasn't easy for batting. So I brought on Nabi. It was a critical partnership [with Nabi]. Nabi and I wanted to take the game till the end. I told him to make it to the 45th over. We did it, and it was good. It was the first ODI pitch, and while we were batting, it was slower compared to the last game. When they were bowling, the ball wasn't coming. Nabi is an amazing player. He always contributes. For other players, he is inspirational." <strong>Paul Stirling</strong>, Ireland captain: "We seemed to be in a pretty good position to chase that down. We were pretty happy with today's performance [with the ball]. I can't really put my finger on it [the collapse]. That is something we will think about in the next couple of days. I think there was a lot of dew in the first game [and hence he bowled first]. It didn't come in today, and that probably cost us." <strong>Rahmanullah Gurbaz is the Player of the Series</strong>: "It was a great series for me, and my team as well. Not happy with the bat today because I had got set. But it's an exciting moment as we won the match. I always try to do something better. We were focused more [than the one-off Test], and got the result as well. I want to dedicate this award to Nangeyalia, and all the best for his future." <strong>Mohammad Nabi is the Player of the Match</strong>: "Really happy to perform in those conditions. Five wickets [came] after a long time - it has been 17 or 18 years [15 years]! I saw Stirling hit a six, so in the next over I told Ibrahim to put mid-off back, and bowled wicket-to-wicket. I didn't think about my fifty; I just tried to put a good score for the team." <strong>Time for the presentations</strong> <strong>Jonathan Trott</strong>, Afghanistan's coach: "I thought we were a bit short to be honest... but then we saw the wicket slow down. With two new spinners, it's important in a series like this that we perform well. [Against] Sri Lanka, we didn't play the cricket we know we can. It was important we came back in this series and did well. It's important we don't get too far ahead of ourselves; cricket is a great leveler." <strong>10.10pm</strong> Ireland lose 8 for 26 in a staggering collapse, as what was 93 for 2 in the 22nd over turned out to be 119 all out after 35. The ball was turning for Nabi and debutant Kharote, with a few skidding through sharply too. It wasn't easy for a new batter to start on this slow pitch, and Ireland's batters departed one after the other. As a result, Nabi got his maiden ODI five-for 15 years after his debut, and Kharote finished with four in his first game. Hang around for the presentations.
+
+Balls faced: 31
+Bowler: Nangeyalia Kharote
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+Darshan: "The way it is going, it seems like that the 97-run partnership wasn't even needed."
+
+clubbed down the ground! Maybe time for some entertainment now, as he sees this full and loopy ball dipping on the stumps, and launches it back
+
+
+Balls faced: 32
+Bowler: M Nabi
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+slows it down, and bowls full around off. Tucked down towards point, and they pinch a single
+
+
+Balls faced: 33
+Bowler: M Nabi
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+fullish and quicker on off. Another defence firmly on the pitch
+
+
+Balls faced: 34
+Bowler: M Nabi
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full again, and dipping on off. Tapped back to the bowler
+
+
+Balls faced: 35
+Bowler: Nangeyalia Kharote
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+McCarthy is OUT! bowled
+ b Nangeyalia Kharote
+Barry McCarthy b Nangeyalia Kharote 8 (18b 0x4 1x6 23m) SR: 44.44
+cleans him up! Kharote hits back immediately after being hit for a six. This stays low off a length on middle and leg, as it skidded through to beat McCarthy's attempted slash. Kharote has four on debut, as <b>Afghanistan win by 117 runs take the series 2-0</b>
+So Afghanistan win the ODI series after coming second in the one-off Test, and Shahidi lifts the series trophy along with his team-mates. Incredible comeback from their spinners after Ireland were entirely on track in their chase of 237. But Nabi used his experience to good effect, while the debutant Kharote showed what he was capable of too. Join us for the T20I leg of the tour in a few days' time, as we wrap up the ODIs. Goodnight and goodbye from Ranjith, Sudeep, Ekanth, and me, Himanshu! <strong>Hashmatullah Shahidi</strong>, Afghanistan captain: "Very happy with the performance. Stirling and Campher were playing very well. But when I was batting, I knew the wicket wasn't easy for batting. So I brought on Nabi. It was a critical partnership [with Nabi]. Nabi and I wanted to take the game till the end. I told him to make it to the 45th over. We did it, and it was good. It was the first ODI pitch, and while we were batting, it was slower compared to the last game. When they were bowling, the ball wasn't coming. Nabi is an amazing player. He always contributes. For other players, he is inspirational." <strong>Paul Stirling</strong>, Ireland captain: "We seemed to be in a pretty good position to chase that down. We were pretty happy with today's performance [with the ball]. I can't really put my finger on it [the collapse]. That is something we will think about in the next couple of days. I think there was a lot of dew in the first game [and hence he bowled first]. It didn't come in today, and that probably cost us." <strong>Rahmanullah Gurbaz is the Player of the Series</strong>: "It was a great series for me, and my team as well. Not happy with the bat today because I had got set. But it's an exciting moment as we won the match. I always try to do something better. We were focused more [than the one-off Test], and got the result as well. I want to dedicate this award to Nangeyalia, and all the best for his future." <strong>Mohammad Nabi is the Player of the Match</strong>: "Really happy to perform in those conditions. Five wickets [came] after a long time - it has been 17 or 18 years [15 years]! I saw Stirling hit a six, so in the next over I told Ibrahim to put mid-off back, and bowled wicket-to-wicket. I didn't think about my fifty; I just tried to put a good score for the team." <strong>Time for the presentations</strong> <strong>Jonathan Trott</strong>, Afghanistan's coach: "I thought we were a bit short to be honest... but then we saw the wicket slow down. With two new spinners, it's important in a series like this that we perform well. [Against] Sri Lanka, we didn't play the cricket we know we can. It was important we came back in this series and did well. It's important we don't get too far ahead of ourselves; cricket is a great leveler." <strong>10.10pm</strong> Ireland lose 8 for 26 in a staggering collapse, as what was 93 for 2 in the 22nd over turned out to be 119 all out after 35. The ball was turning for Nabi and debutant Kharote, with a few skidding through sharply too. It wasn't easy for a new batter to start on this slow pitch, and Ireland's batters departed one after the other. As a result, Nabi got his maiden ODI five-for 15 years after his debut, and Kharote finished with four in his first game. Hang around for the presentations.
+
+Balls faced: 36
+Bowler: Nangeyalia Kharote
+Over: 35
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+Darshan: "The way it is going, it seems like that the 97-run partnership wasn't even needed."
+
+clubbed down the ground! Maybe time for some entertainment now, as he sees this full and loopy ball dipping on the stumps, and launches it back
+
+
+
+Match: all_games_1416063_1416085.json
+Balls faced: 1
+Bowler: Rashid Khan
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+McCarthy at No. 9
+
+another wrong 'un, as this is on a length on sixth stump, and turns in towards off. Punched towards deep point
+
+
+Balls faced: 2
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+yorker-length ball angled into off, and swiped to long-on after coming down the pitch
+
+
+Balls faced: 3
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+on the bounce to deep backward square, as he pulls this short-of-a-length ball outside off from the top half of the bat
+
+
+Balls faced: 4
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Naveen back
+
+swatted on the bounce to mid-off, as he skips down at this length ball outside off
+Azweer: "Rashid things..."
+
+Balls faced: 5
+Bowler: Rashid Khan
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+McCarthy at No. 9
+
+another wrong 'un, as this is on a length on sixth stump, and turns in towards off. Punched towards deep point
+
+
+Balls faced: 6
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+yorker-length ball angled into off, and swiped to long-on after coming down the pitch
+
+
+Balls faced: 7
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+on the bounce to deep backward square, as he pulls this short-of-a-length ball outside off from the top half of the bat
+
+
+Balls faced: 8
+Bowler: Naveen-ul-Haq
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Naveen back
+
+swatted on the bounce to mid-off, as he skips down at this length ball outside off
+Azweer: "Rashid things..."
+
+Balls faced: 9
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+change of pace, and quite full just outside off. Pushed to point
+
+
+Balls faced: 10
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+bouncer outside off, and a tennis-batted swat to deep midwicket
+
+
+Balls faced: 11
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Hefaz: "@Azweer, Clearly Nabi!"
+
+ahh, bottom edge hits the base of off stump! He made a bit of room and drove at this full ball on fifth stump, but the bails don't come off
+
+
+Balls faced: 12
+Bowler: Fazalhaq Farooqi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+gets across and comes down the pitch. He converts this into a low full toss and pushes to extra cover
+
+
+Balls faced: 13
+Bowler: Fazalhaq Farooqi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+Ireland need 18 off 6
+
+ahh, well bowled! Fires a yorker on sixth stump, which McCarthy cannot get a bat on as he jams it down
+
+
+Balls faced: 14
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+change of pace, and quite full just outside off. Pushed to point
+
+
+Balls faced: 15
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+bouncer outside off, and a tennis-batted swat to deep midwicket
+
+
+Balls faced: 16
+Bowler: Naveen-ul-Haq
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Hefaz: "@Azweer, Clearly Nabi!"
+
+ahh, bottom edge hits the base of off stump! He made a bit of room and drove at this full ball on fifth stump, but the bails don't come off
+
+
+Balls faced: 17
+Bowler: Fazalhaq Farooqi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+gets across and comes down the pitch. He converts this into a low full toss and pushes to extra cover
+
+
+Balls faced: 18
+Bowler: Fazalhaq Farooqi
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: LEFT_ALONE
+Run scored: 0
+Ireland need 18 off 6
+
+ahh, well bowled! Fires a yorker on sixth stump, which McCarthy cannot get a bat on as he jams it down
+
+
+
+Match: all_games_1416063_1416086.json
+Balls faced: 1
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+McCarthy is OUT! caught
+c & b Azmatullah Omarzai
+Barry McCarthy c & b Azmatullah Omarzai 1 (3b 0x4 0x6 3m) SR: 33.33
+<strong>spooned back to Omarzai!</strong> He has his fourth, as he stretches his hands out to his left to take it. Omarzai bowled on a short of a length, and the ball moved back in towards leg, while also bouncing considerably. McCarthy skipped down the pitch but was cramped for room, as he ended up swatting it back
+
+
+Balls faced: 2
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+short of a length on sixth stump, as he skips down and looks to pull, but is beaten
+
+
+Balls faced: 3
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+McCarthy
+
+shorter side of a length on off, and tucked towards cover for a hurried single
+
+
+Balls faced: 4
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+McCarthy is OUT! caught
+c & b Azmatullah Omarzai
+Barry McCarthy c & b Azmatullah Omarzai 1 (3b 0x4 0x6 3m) SR: 33.33
+<strong>spooned back to Omarzai!</strong> He has his fourth, as he stretches his hands out to his left to take it. Omarzai bowled on a short of a length, and the ball moved back in towards leg, while also bouncing considerably. McCarthy skipped down the pitch but was cramped for room, as he ended up swatting it back
+
+
+Balls faced: 5
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+short of a length on sixth stump, as he skips down and looks to pull, but is beaten
+
+
+Balls faced: 6
+Bowler: Azmatullah
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+McCarthy
+
+shorter side of a length on off, and tucked towards cover for a hurried single
+
+
+
+Match: all_games_1428145_1428152.json
+Balls faced: 1
+Bowler: Pringle
+Over: 20
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Pringle
+Over: 20
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+
+Match: all_games_1434088_1434103.json
+Balls faced: 1
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 5
+Bowler: Theekshana
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Shanaka
+Over: 16
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 10
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 12
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 16
+Bowler: Theekshana
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Shanaka
+Over: 19
+ 
+Shot: No Shot
+Run scored: 0
+
+McCarthy is OUT! caught
+c Hasaranga b Shanaka
+Barry McCarthy c Hasaranga b Shanaka 4 (10b 0x4 0x6) SR: 40
+
+
+
+Balls faced: 18
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 20
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Pathirana
+Over: 18
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 24
+Bowler: Shanaka
+Over: 19
+ 
+Shot: No Shot
+Run scored: 0
+
+McCarthy is OUT! caught
+c Hasaranga b Shanaka
+Barry McCarthy c Hasaranga b Shanaka 4 (10b 0x4 0x6) SR: 40

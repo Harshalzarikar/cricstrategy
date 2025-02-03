@@ -1,0 +1,1200 @@
+Match: all_games_1420525_1421071.json
+Balls faced: 1
+Bowler: Currie
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Watt
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Watt
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Watt
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Currie
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Currie
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Watt
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Watt
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Watt
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Watt
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Watt
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Watt
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Watt
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Currie
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Currie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Currie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Currie
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Watt
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Watt
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Watt
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Watt
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Watt
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Currie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Currie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Currie
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Currie
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Watt
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 33
+Bowler: Greaves
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+Chopra is OUT! lbw
+lbw b Greaves
+Rahul Chopra lbw b Greaves 5 (21b 0x4 0x6 23m) SR: 23.8
+
+
+
+Balls faced: 34
+Bowler: Greaves
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 35
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 37
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Currie
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 39
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Currie
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 41
+Bowler: Greaves
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+Chopra is OUT! lbw
+lbw b Greaves
+Rahul Chopra lbw b Greaves 5 (21b 0x4 0x6 23m) SR: 23.8
+
+
+
+Balls faced: 42
+Bowler: Greaves
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1421067_1421079.json
+Balls faced: 1
+Bowler: Jarvis
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Jarvis
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Currie
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Currie
+Over: 5
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 7
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Jarvis
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Jarvis
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Jarvis
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Chopra is OUT! bowled
+ b Jarvis
+Rahul Chopra b Jarvis 2 (11b 0x4 0x6) SR: 18.18
+
+
+
+Balls faced: 11
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Currie
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Currie
+Over: 5
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 19
+Bowler: Currie
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Jarvis
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Chopra is OUT! bowled
+ b Jarvis
+Rahul Chopra b Jarvis 2 (11b 0x4 0x6) SR: 18.18
+
+
+
+Balls faced: 21
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Jarvis
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1421067_1421080.json
+Balls faced: 1
+Bowler: Jarvis
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Jarvis
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Sharif
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Currie
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+Byes: 4
+Balls faced: 5
+Bowler: Currie
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Sharif
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Currie
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+Byes: 4
+Balls faced: 12
+Bowler: Currie
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Currie
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 21
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 3
+
+
+
+
+
+Balls faced: 24
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 26
+Bowler: Leask
+Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 27
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 30
+Bowler: Greaves
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Greaves
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 32
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 3
+
+
+
+
+
+Balls faced: 33
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 34
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 35
+Bowler: Leask
+Over: 11
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: PADDLE_SWEEP
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 36
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Jarvis
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+Chopra is OUT! caught
+c †Tear b Jarvis
+Rahul Chopra c †Tear b Jarvis 14 (19b 0x4 0x6 43m) SR: 73.68
+
+
+
+Balls faced: 38
+Bowler: Jarvis
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 39
+Bowler: Greaves
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Greaves
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 41
+Bowler: Jarvis
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+Chopra is OUT! caught
+c †Tear b Jarvis
+Rahul Chopra c †Tear b Jarvis 14 (19b 0x4 0x6 43m) SR: 73.68
+
+
+
+Balls faced: 42
+Bowler: Jarvis
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0

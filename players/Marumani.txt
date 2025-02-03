@@ -1,0 +1,2715 @@
+Match: all_games_1377745_1377762.json
+Balls faced: 1
+Bowler: Paradkar
+Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+short on fifth stump, pulled to deep midwicket for a long single. Williams turns down the two to keep the strike.
+
+
+Balls faced: 2
+Bowler: Jasdeep
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 4
+
+
+in the slot on seventh stump, goes to heave this over long-on but gets a thick edge that swirls wide of short third man before backspinning to the rope.
+<b>12.40 pm</b> Zimbabwe took their sweet time seeing off USA's new ball pair before going berserk across the final 35 overs sparked by the arrival of stand-in captain Sean Williams, who blitzed a 65-ball hundred and finished with 174 off 101 to drive Zimbabwe to their highest ever ODI total. No prizes for guessing that it's also the most USA have ever conceded. USA's fielding was uninspired from the start. Numerous drops and misfields throughout the innings. They were without Ali Khan and Saurabh Netravalkar today but this is still an incredibly bleak effort on the part of USA. They just had no energy in the field from start to finish, regardless of who was bowling. They have no hope of chasing this. But it will be interesting to see how they approach the second innings as a way of learning for the future. Stay with us for the start of the reply when Rvel Zahid takes over in the central commentary position. For those keen to watch the chase to see how USA fares.... <b>If you're in the USA, you can watch the <a href="https://www.espn.com/watch/player/_/id/cdc8fbf5-628d-4564-a59a-0ceb29901bec/country/us/redirected/true#bucketId=23396">Zimbabwe vs USA</a> match LIVE on ESPN+.</b> <b>Sean Williams speaks after his 174:</b> "It was a fantastic wicket. The way we started out there, it was a little slow, so we thought if we could pick the intensity up against the spinners, we could see where we go from there. Like I said at the beginning, we play to win regardless of which team we are playing and that shows it all. I'm looking to play the ball as late as I can and visualizing it going to the boundary. It's amazing what can happen if you continue to dream big." Fahad Butt: "Welcome to the big stage USA. An eye opener to be at this level." AiyoPol: "I don't get it, why isn't the US a better team? Aren't they technically richer than Zimbabwe? Whats stopping them from investing a ton of money into hiring the best coaches and high performance trainers and the like?" I don't think I could fully cover all the reasons why, even if I spent the whole second innings dissecting it.
+
+Balls faced: 3
+Bowler: Jasdeep
+Over: 50
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: ON_DRIVE
+Run scored: 2
+
+
+length ball on eighth stump, slaps this over the bowler and Taylor cuts this off at long-off to keep it to two.
+
+
+Balls faced: 4
+Bowler: Jasdeep
+Over: 50
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+bouncer over leg stump, too high to hook and a wide is called on height.
+
+Wide: 1
+Balls faced: 5
+Bowler: Jasdeep
+Over: 50
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<b>the crowd goes out of its minds! 400 up for Zimbabwe for the first time in their ODI history!</b> half-volley on middle, Marumani winds up and drills this over long-off clanging the facade of the top deck.
+
+
+Balls faced: 6
+Bowler: Jasdeep
+Over: 50
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+length ball on sixth stump, heaves this through wide midwicket and teases Nisarg at deep midwicket all the way to the rope.
+
+
+Balls faced: 7
+Bowler: Jasdeep
+Over: 50
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+good length ball outside leg, Marumani shuffles across to heave for square leg and misses off the pads. It dribbles away for a single off the gloves.
+Physio comes out to give some treatment to Marumani as the ball apparently deflected onto the helmet at some point in that sequence and a brief concussion check is administered but he's fine to continue.
+
+Balls faced: 8
+Bowler: Paradkar
+Over: 49
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+short on fifth stump, pulled to deep midwicket for a long single. Williams turns down the two to keep the strike.
+
+
+
+Match: all_games_1407043_1407101.json
+Balls faced: 1
+Bowler: Z Bimenyimana
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Muhammad Nadir
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 2
+Balls faced: 3
+Bowler: Z Bimenyimana
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 7
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 10
+Bowler: Muhammad Nadir
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 2
+Balls faced: 11
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 14
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 17
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Z Bimenyimana
+Over: 3
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 20
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 22
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 24
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 25
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Muhammad Nadir
+Over: 4
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Rubagumya
+Over: 6
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 34
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 35
+Bowler: Akayezu
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 38
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 39
+Bowler: Rubagumya
+Over: 6
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Muhammad Nadir
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 41
+Bowler: Muhammad Nadir
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 42
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 44
+Bowler: Akayezu
+Over: 7
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 45
+Bowler: E Rukiriza
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 46
+Bowler: E Rukiriza
+Over: 9
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 47
+Bowler: Muhammad Nadir
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 48
+Bowler: Muhammad Nadir
+Over: 8
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 49
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 50
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 51
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 52
+Bowler: E Rukiriza
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 53
+Bowler: E Rukiriza
+Over: 9
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 54
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 55
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 56
+Bowler: Muhammad Nadir
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 57
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Rukiriza b Rubagumya
+Tadiwanashe Marumani c Rukiriza b Rubagumya 50 (31b 4x4 3x6) SR: 161.29
+
+
+
+Balls faced: 58
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 59
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 60
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 61
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Rukiriza b Rubagumya
+Tadiwanashe Marumani c Rukiriza b Rubagumya 50 (31b 4x4 3x6) SR: 161.29
+
+
+
+Balls faced: 62
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 63
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 64
+Bowler: Rubagumya
+Over: 12
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+
+Match: all_games_1407043_1407104.json
+Balls faced: 1
+Bowler: C Udekwe
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Useni
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Useni
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: C Udekwe
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: C Udekwe
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Useni b Udekwe
+Tadiwanashe Marumani c Useni b Udekwe 0 (4b 0x4 0x6) SR: 0
+
+
+
+Balls faced: 6
+Bowler: Useni
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Useni
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: C Udekwe
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Useni b Udekwe
+Tadiwanashe Marumani c Useni b Udekwe 0 (4b 0x4 0x6) SR: 0
+
+
+
+
+Match: all_games_1407043_1407107.json
+Balls faced: 1
+Bowler: Oluoch
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Oluoch
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Mwendwa
+Over: 2
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Mwendwa
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Oluoch
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Oluoch
+Over: 1
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Oluoch
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Oluoch
+Over: 3
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Mwendwa
+Over: 2
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Mwendwa
+Over: 2
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 14
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 15
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Oluoch
+Over: 3
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Oluoch
+Over: 3
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 19
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 21
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 22
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 26
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 27
+Bowler: Vraj Patel
+Over: 4
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Mwendwa
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 32
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 33
+Bowler: Mutua
+Over: 5
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Mwendwa
+Over: 6
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 35
+Bowler: S Ngoche
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Legbyes: 1
+Balls faced: 36
+Bowler: S Ngoche
+Over: 8
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 37
+Bowler: Bhudia
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Bhudia
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 39
+Bowler: S Ngoche
+Over: 8
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Legbyes: 1
+Balls faced: 40
+Bowler: S Ngoche
+Over: 8
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 41
+Bowler: S Ngoche
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Obuya b Ngoche
+Tadiwanashe Marumani c Obuya b Ngoche 27 (22b 1x4 3x6) SR: 122.72
+
+
+
+Balls faced: 42
+Bowler: S Ngoche
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: Bhudia
+Over: 9
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 44
+Bowler: Bhudia
+Over: 9
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 45
+Bowler: S Ngoche
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+Marumani is OUT! caught
+c Obuya b Ngoche
+Tadiwanashe Marumani c Obuya b Ngoche 27 (22b 1x4 3x6) SR: 122.72
+
+
+
+Balls faced: 46
+Bowler: S Ngoche
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+
+Match: all_games_1408099_1408103.json
+Balls faced: 1
+Bowler: Adair
+Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+Swing and a miss! Marumani skips down the track but Adair throws it up wide and going away from him
+
+
+Balls faced: 2
+Bowler: Adair
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Marumani drops a length ball to the off side and scampers for a quick single. That one pitched on middle and was going across him and he taps it in front of him before taking off
+
+
+Balls faced: 3
+Bowler: Little
+Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+On a length outside off and seaming away, Marumani swings at thin air
+
+
+Balls faced: 4
+Bowler: Little
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+Full outside off, Marumani goes for a big swing but can only inside-edge it to backward square
+
+
+Balls faced: 5
+Bowler: Adair
+Over: 1
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+Swing and a miss! Marumani skips down the track but Adair throws it up wide and going away from him
+
+
+Balls faced: 6
+Bowler: Adair
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Marumani drops a length ball to the off side and scampers for a quick single. That one pitched on middle and was going across him and he taps it in front of him before taking off
+
+
+Balls faced: 7
+Bowler: McCarthy
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+Marumani is OUT! caught
+c Tector b McCarthy
+Tadiwanashe Marumani c Tector b McCarthy 1 (6b 0x4 0x6 14m) SR: 16.66
+<strong>Chipped to mid-on!</strong> Marumani has not been able to get away and he goes for another big shot, trying to go down the ground against McCarthy. But there's a bit of inswing and the ball comes off the inside half of the bat. It's a simple take for Tector and Ireland have an early wicket
+
+
+Balls faced: 8
+Bowler: McCarthy
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+cricfan: "you missed Wessly Madhevere comleted 1000 runs " He did indeed! His first run today brought up the 1000-run mark in T20is for him, good spot!
+
+Bangs it in short and Marumani is beaten on the pull
+
+
+Balls faced: 9
+Bowler: Little
+Over: 2
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+On a length outside off and seaming away, Marumani swings at thin air
+
+
+Balls faced: 10
+Bowler: Little
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+Full outside off, Marumani goes for a big swing but can only inside-edge it to backward square
+
+
+Balls faced: 11
+Bowler: McCarthy
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+Marumani is OUT! caught
+c Tector b McCarthy
+Tadiwanashe Marumani c Tector b McCarthy 1 (6b 0x4 0x6 14m) SR: 16.66
+<strong>Chipped to mid-on!</strong> Marumani has not been able to get away and he goes for another big shot, trying to go down the ground against McCarthy. But there's a bit of inswing and the ball comes off the inside half of the bat. It's a simple take for Tector and Ireland have an early wicket
+
+
+Balls faced: 12
+Bowler: McCarthy
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+cricfan: "you missed Wessly Madhevere comleted 1000 runs " He did indeed! His first run today brought up the 1000-run mark in T20is for him, good spot!
+
+Bangs it in short and Marumani is beaten on the pull
+
+
+
+Match: all_games_1408099_1408104.json
+Balls faced: 1
+Bowler: Adair
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+Marumani is OUT! lbw
+lbw b Adair
+Tadiwanashe Marumani lbw b Adair 0 (1b 0x4 0x6 1m) SR: 0
+<b>Marumani is gone first ball!</b> It's full on middle, with the ball shaping into the left-hander. Not a lot of swing, but enough to beat Marumani's attempted flick. That struck him plumb in front of middle and the umpire has his finger up immediately. Ireland draw early blood, continuing to boss proceedings in the powerplay this series
+
+
+Balls faced: 2
+Bowler: Adair
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+Marumani is OUT! lbw
+lbw b Adair
+Tadiwanashe Marumani lbw b Adair 0 (1b 0x4 0x6 1m) SR: 0
+<b>Marumani is gone first ball!</b> It's full on middle, with the ball shaping into the left-hander. Not a lot of swing, but enough to beat Marumani's attempted flick. That struck him plumb in front of middle and the umpire has his finger up immediately. Ireland draw early blood, continuing to boss proceedings in the powerplay this series
+
+
+
+Match: all_games_1425117_1425127.json
+Balls faced: 1
+Bowler: Mahedi Hasan
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+Mahedi from the other end
+
+Fuller length ball on the stumps, played with soft hands to mid off and sets off for a quick single
+
+
+Balls faced: 2
+Bowler: Shoriful Islam
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+Bouncer delivery outside off, tries to pull and misses the length
+
+
+Balls faced: 3
+Bowler: Shoriful Islam
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+Orup Ovilashi: "@Mizbah, Probably Litton Das will be dropped from the playing XI but will remain in the squad as a backup for his experience. Jeker Ali Anik keeping wickets despite Litton being on the field says so!"
+
+Back of a length ball on the fourth stump, moves across and shovels it to the mid wicket region for a quick single
+
+
+Balls faced: 4
+Bowler: Mahedi Hasan
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+Mahedi from the other end
+
+Fuller length ball on the stumps, played with soft hands to mid off and sets off for a quick single
+
+
+Balls faced: 5
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+CricJane: "The sooner these two batsman realise that this is a T20I match the better this match would be as a contest"
+Marumani is OUT! lbw
+lbw b Taskin Ahmed
+Tadiwanashe Marumani lbw b Taskin Ahmed 2 (4b 0x4 0x6 21m) SR: 50
+Fuller length ball on the stumps, tries to play across the line and misses the length, hits the front pad. Loud appeal from Taskin and the fielders, no response from the umpire. Skipper Shanto opts to <strong>review </strong>the decision, Ultraedge confirms no bat involved, three reds and the ball hitting the middle-leg stumps. Marumani has to depart.
+
+
+Balls faced: 6
+Bowler: Shoriful Islam
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 0
+
+
+Bouncer delivery outside off, tries to pull and misses the length
+
+
+Balls faced: 7
+Bowler: Shoriful Islam
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+Orup Ovilashi: "@Mizbah, Probably Litton Das will be dropped from the playing XI but will remain in the squad as a backup for his experience. Jeker Ali Anik keeping wickets despite Litton being on the field says so!"
+
+Back of a length ball on the fourth stump, moves across and shovels it to the mid wicket region for a quick single
+
+
+Balls faced: 8
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+CricJane: "The sooner these two batsman realise that this is a T20I match the better this match would be as a contest"
+Marumani is OUT! lbw
+lbw b Taskin Ahmed
+Tadiwanashe Marumani lbw b Taskin Ahmed 2 (4b 0x4 0x6 21m) SR: 50
+Fuller length ball on the stumps, tries to play across the line and misses the length, hits the front pad. Loud appeal from Taskin and the fielders, no response from the umpire. Skipper Shanto opts to <strong>review </strong>the decision, Ultraedge confirms no bat involved, three reds and the ball hitting the middle-leg stumps. Marumani has to depart.
+
+
+
+Match: all_games_1425117_1425128.json
+Balls faced: 1
+Bowler: Tanvir Islam
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Tossed up delivery on the leg stump, tries to sweep it over the short square leg fielder, hits the toe end of the bat and sends it to mid on
+
+
+Balls faced: 2
+Bowler: Tanvir Islam
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+Fuller length ball outside off, attempts to play the reverse sweep and misses the line of the ball
+
+
+Balls faced: 3
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 4
+
+
+<strong>Shot! </strong> Half-volley on the off stump, opens the face of the bat early and bludgeons straight past the bowler for a boundary
+
+
+Balls faced: 4
+Bowler: Taskin
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Half-volley ball outside off, driven across the line to mid on
+
+
+Balls faced: 5
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Back of a length ball on the off stump, hangs back and defends off the back foot
+
+
+Balls faced: 6
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+Taskin from the other end Pothas having a quick chat with Hridoy at the boundary ropes.
+
+Hard length ball on the fifth stump, square cuts firmly through backward point, excellent effort from Rishad diving to his left and saving a boundary
+
+
+Balls faced: 7
+Bowler: Tanvir Islam
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Tossed up delivery on the leg stump, tries to sweep it over the short square leg fielder, hits the toe end of the bat and sends it to mid on
+
+
+Balls faced: 8
+Bowler: Tanvir Islam
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+Fuller length ball outside off, attempts to play the reverse sweep and misses the line of the ball
+
+
+Balls faced: 9
+Bowler: Saifuddin
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short of a length ball attempts to pull it away but gets beaten by the extra bounce, hits the front body and sets off for a quick single
+
+
+Balls faced: 10
+Bowler: Saifuddin
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Full-toss ball shaping in on the stumps, driven straight to short extra cover
+
+
+Balls faced: 11
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 4
+
+
+<strong>Shot! </strong> Half-volley on the off stump, opens the face of the bat early and bludgeons straight past the bowler for a boundary
+
+
+Balls faced: 12
+Bowler: Taskin
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Half-volley ball outside off, driven across the line to mid on
+
+
+Balls faced: 13
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Back of a length ball on the off stump, hangs back and defends off the back foot
+
+
+Balls faced: 14
+Bowler: Taskin
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+Taskin from the other end Pothas having a quick chat with Hridoy at the boundary ropes.
+
+Hard length ball on the fifth stump, square cuts firmly through backward point, excellent effort from Rishad diving to his left and saving a boundary
+
+
+Balls faced: 15
+Bowler: Tanvir Islam
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Full on the stumps, paddle sweeps through the square leg region
+
+
+Balls faced: 16
+Bowler: Tanvir Islam
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Looped up ball on the leg stump, Marumani tries to heave it through the onside, throws his bat early and edges it to backward point
+
+
+Balls faced: 17
+Bowler: Saifuddin
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short of a length ball attempts to pull it away but gets beaten by the extra bounce, hits the front body and sets off for a quick single
+
+
+Balls faced: 18
+Bowler: Saifuddin
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Full-toss ball shaping in on the stumps, driven straight to short extra cover
+
+
+Balls faced: 19
+Bowler: Tanzim Hasan Sakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Replay shows that 3.1 was hitting the leg stump whether they had decided to go with the review.
+
+Back of a length ball outside off, dabs it to point and sets off for a quick single
+
+
+Balls faced: 20
+Bowler: Tanvir Islam
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Full on the stumps, paddle sweeps through the square leg region
+
+
+Balls faced: 21
+Bowler: Tanvir Islam
+Over: 4
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Looped up ball on the leg stump, Marumani tries to heave it through the onside, throws his bat early and edges it to backward point
+
+
+Balls faced: 22
+Bowler: Saifuddin
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Short of a length ball on the stumps, charges down the track and mis-hits it to mid off
+
+
+Balls faced: 23
+Bowler: Saifuddin
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+Tanvir: "Nazmul hossain Shantos captaincy when the team is bowling basically comes down to: let's change bowlers every over and see how it goes. It's a trend that I have been following since the first T20I. He could get really lucky in the T20 world cup, or more likely, will totally be found out as a captain. "
+
+Short pitched ball angling in to the batter, forces it to backward point for a quick single
+
+
+Balls faced: 24
+Bowler: Tanzim Hasan Sakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Replay shows that 3.1 was hitting the leg stump whether they had decided to go with the review.
+
+Back of a length ball outside off, dabs it to point and sets off for a quick single
+
+
+Balls faced: 25
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short pitched delivery on the leg stump, dances down the ground, down on one knee and turns it down awkwardly to square leg
+
+
+Balls faced: 26
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Overpitched on the stumps, jabs to short mid wicket
+
+
+Balls faced: 27
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+Skipper Raza comes in at 5
+
+Short of a length ball stayed low, thuds the thigh pads as Marumani attempts to play it to the onside
+
+Legbyes: 1
+Balls faced: 28
+Bowler: Saifuddin
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Short of a length ball on the stumps, charges down the track and mis-hits it to mid off
+
+
+Balls faced: 29
+Bowler: Saifuddin
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+Tanvir: "Nazmul hossain Shantos captaincy when the team is bowling basically comes down to: let's change bowlers every over and see how it goes. It's a trend that I have been following since the first T20I. He could get really lucky in the T20 world cup, or more likely, will totally be found out as a captain. "
+
+Short pitched ball angling in to the batter, forces it to backward point for a quick single
+
+
+Balls faced: 30
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 3
+
+
+Fuller length delivery, reverse sweeps to backward point, misfield from Tanvir sends the ball to fine leg region and Taskin has to run back and collect the ball
+
+
+Balls faced: 31
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Good length ball, defends back to the bowler
+
+
+Balls faced: 32
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Back of a length ball on the off stump, moves away to make room, swats it firmly through the covers for a couple
+
+
+Balls faced: 33
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+Fuller length ball in the slot, Marumani slog sweeps it and sends it high over the square leg fence, 93 meters!
+
+
+Balls faced: 34
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 0
+Rishad comes in to bowl
+
+Fuller length outside off, attempted reverse sweep but beaten by the turn
+
+Wide: 1
+Balls faced: 35
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short pitched delivery on the leg stump, dances down the ground, down on one knee and turns it down awkwardly to square leg
+
+
+Balls faced: 36
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Overpitched on the stumps, jabs to short mid wicket
+
+
+Balls faced: 37
+Bowler: Taskin
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+Skipper Raza comes in at 5
+
+Short of a length ball stayed low, thuds the thigh pads as Marumani attempts to play it to the onside
+
+Legbyes: 1
+Balls faced: 38
+Bowler: Tanzim Hasan Sakib
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+Banged in short on the leg stump, pulled through the fine leg region for a single
+
+
+Balls faced: 39
+Bowler: Tanzim Hasan Sakib
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: HOOK
+Run scored: 1
+
+
+Banged in short delivery on the leg stump, pulled away to deep fine leg region
+
+
+Balls faced: 40
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 3
+
+
+Fuller length delivery, reverse sweeps to backward point, misfield from Tanvir sends the ball to fine leg region and Taskin has to run back and collect the ball
+
+
+Balls faced: 41
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Good length ball, defends back to the bowler
+
+
+Balls faced: 42
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Back of a length ball on the off stump, moves away to make room, swats it firmly through the covers for a couple
+
+
+Balls faced: 43
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+Fuller length ball in the slot, Marumani slog sweeps it and sends it high over the square leg fence, 93 meters!
+
+
+Balls faced: 44
+Bowler: Rishad Hossain
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 0
+Rishad comes in to bowl
+
+Fuller length outside off, attempted reverse sweep but beaten by the turn
+
+Wide: 1
+Balls faced: 45
+Bowler: Rishad Hossain
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+Full on the stumps, executes the paddle sweep flawlessly, beats the outfielder player and picks up the second boundary of the over
+Drinks Break
+
+Balls faced: 46
+Bowler: Rishad Hossain
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Back of a length on the fourth stump, walks across and turns it through mid wicket
+
+
+Balls faced: 47
+Bowler: Tanzim Hasan Sakib
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+Banged in short on the leg stump, pulled through the fine leg region for a single
+
+
+Balls faced: 48
+Bowler: Tanzim Hasan Sakib
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: HOOK
+Run scored: 1
+
+
+Banged in short delivery on the leg stump, pulled away to deep fine leg region
+
+
+Balls faced: 49
+Bowler: Mahmudullah
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+Marumani is OUT! caught
+c Mohammad Saifuddin b Mahmudullah
+Tadiwanashe Marumani c Mohammad Saifuddin b Mahmudullah 31 (26b 2x4 1x6 58m) SR: 119.23
+Short of a length ball, Marumani picked it up and hits it aerially to long on region, Saifuddin covers the ground and takes a brilliant diving catch
+
+
+Balls faced: 50
+Bowler: Mahmudullah
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Flighted delivery on the stumps, poked back to the bowler
+
+
+Balls faced: 51
+Bowler: Rishad Hossain
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+Full on the stumps, executes the paddle sweep flawlessly, beats the outfielder player and picks up the second boundary of the over
+Drinks Break
+
+Balls faced: 52
+Bowler: Rishad Hossain
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Back of a length on the fourth stump, walks across and turns it through mid wicket
+
+
+Balls faced: 53
+Bowler: Mahmudullah
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+Marumani is OUT! caught
+c Mohammad Saifuddin b Mahmudullah
+Tadiwanashe Marumani c Mohammad Saifuddin b Mahmudullah 31 (26b 2x4 1x6 58m) SR: 119.23
+Short of a length ball, Marumani picked it up and hits it aerially to long on region, Saifuddin covers the ground and takes a brilliant diving catch
+
+
+Balls faced: 54
+Bowler: Mahmudullah
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Flighted delivery on the stumps, poked back to the bowler
+
+
+
+Match: all_games_1425117_1425129.json
+Balls faced: 1
+Bowler: Tanzim Hasan Sakib
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 1
+Tanzim Sakib from the other end
+
+Good length ball on middle-off, plays off the front foot and finds the leading edge wide of the backward point fielder
+
+
+Balls faced: 2
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Good length ball outside off, tries to defend off the front foot, beats the outside edge
+
+
+Balls faced: 3
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Quicker delivery wide outside off, tries to play it square but beaten by the extra bounce
+
+
+Balls faced: 4
+Bowler: Shakib
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Tossed up delivery on the leg stump, shuffles across once again and attempts to chip it over the square leg fielder, missed the length of the ball
+
+
+Balls faced: 5
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+Back of a length ball on the stumps, walks across and glances it away through the fine leg region
+
+
+Balls faced: 6
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Short of a length ball down the legside, clipped the pads as Marumani tries t oclear the in-field on the legside
+
+
+Balls faced: 7
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 4
+Shakib comes in to bowl, slip in place
+
+Good length ball on the off stump, plays the reverse sweep and finds the leading edge over the wicket keeper's head, brilliant effort from Taskin near the boundary ropes but Mustafiz slips while collecting the ball and kicks it towards the boundary ropes
+
+
+Balls faced: 8
+Bowler: Tanzim Hasan Sakib
+Over: 2
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 1
+Tanzim Sakib from the other end
+
+Good length ball on middle-off, plays off the front foot and finds the leading edge wide of the backward point fielder
+
+
+Balls faced: 9
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short pitched ball on the stumps, turns it down to the onside
+
+
+Balls faced: 10
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Excellent line and length from Taskin. Banged in short delivery on the stumps, tries to pull it away but beaten by the pace and bounce
+
+
+Balls faced: 11
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Good length ball outside off, tries to defend off the front foot, beats the outside edge
+
+
+Balls faced: 12
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Quicker delivery wide outside off, tries to play it square but beaten by the extra bounce
+
+
+Balls faced: 13
+Bowler: Shakib
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Tossed up delivery on the leg stump, shuffles across once again and attempts to chip it over the square leg fielder, missed the length of the ball
+
+
+Balls faced: 14
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 4
+
+
+Back of a length ball on the stumps, walks across and glances it away through the fine leg region
+
+
+Balls faced: 15
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Short of a length ball down the legside, clipped the pads as Marumani tries t oclear the in-field on the legside
+
+
+Balls faced: 16
+Bowler: Shakib
+Over: 3
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 4
+Shakib comes in to bowl, slip in place
+
+Good length ball on the off stump, plays the reverse sweep and finds the leading edge over the wicket keeper's head, brilliant effort from Taskin near the boundary ropes but Mustafiz slips while collecting the ball and kicks it towards the boundary ropes
+
+
+Balls faced: 17
+Bowler: Shakib
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Marumani is OUT! lbw
+lbw b Shakib Al Hasan
+Tadiwanashe Marumani lbw b Shakib Al Hasan 14 (13b 3x4 0x6 3m) SR: 107.69
+Good length ball on the stumps, Marumani tries to play the slog sweep once again, misses the length and hits the front pad. Loud appeal and the umpire raises his finger. Decides to send it upstairs, replays confirm no bat involved, three reds and hitting the middle-off stump. Zimbabwe lose one review.
+
+
+Balls faced: 18
+Bowler: Shakib
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+Fuller length on the off stump, moves towards the line of the ball, attempts slog sweep and outside edges to short fine leg
+
+
+Balls faced: 19
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+Short pitched delivery outside off, moves across and swings it away through the vacant mid wicket region
+
+
+Balls faced: 20
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Short of a length ball outside off, shuffles across and inside edges on the pads
+
+
+Balls faced: 21
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+Short pitched ball on the stumps, turns it down to the onside
+
+
+Balls faced: 22
+Bowler: Taskin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+Excellent line and length from Taskin. Banged in short delivery on the stumps, tries to pull it away but beaten by the pace and bounce
+
+
+Balls faced: 23
+Bowler: Shakib
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Marumani is OUT! lbw
+lbw b Shakib Al Hasan
+Tadiwanashe Marumani lbw b Shakib Al Hasan 14 (13b 3x4 0x6 3m) SR: 107.69
+Good length ball on the stumps, Marumani tries to play the slog sweep once again, misses the length and hits the front pad. Loud appeal and the umpire raises his finger. Decides to send it upstairs, replays confirm no bat involved, three reds and hitting the middle-off stump. Zimbabwe lose one review.
+
+
+Balls faced: 24
+Bowler: Shakib
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+Fuller length on the off stump, moves towards the line of the ball, attempts slog sweep and outside edges to short fine leg
+
+
+Balls faced: 25
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+Short pitched delivery outside off, moves across and swings it away through the vacant mid wicket region
+
+
+Balls faced: 26
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Short of a length ball outside off, shuffles across and inside edges on the pads
+
+
+
+Match: all_games_1425117_1425130.json
+Balls faced: 1
+Bowler: Mahedi Hasan
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+Around the wicket
+
+Tossed up ball on the leg stump, sweps it straight to short fine leg
+
+
+Balls faced: 2
+Bowler: Shakib
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Around the wicket to Marumani
+
+Good length on the fourth stump, moves across and tucks it to square leg
+
+
+Balls faced: 3
+Bowler: Mahedi Hasan
+Over: 1
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SWEEP_SHOT
+Run scored: 0
+Around the wicket
+
+Tossed up ball on the leg stump, sweps it straight to short fine leg
+
+
+Balls faced: 4
+Bowler: Mahedi Hasan
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Good length on the stumps, defends off the front foot
+
+
+Balls faced: 5
+Bowler: Shakib
+Over: 2
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Around the wicket to Marumani
+
+Good length on the fourth stump, moves across and tucks it to square leg
+
+
+Balls faced: 6
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Slower bouncer on the stumps, swings it away and top edges to the square leg region
+
+
+Balls faced: 8
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Tight length on the off stump, squeezed to the extra cover fielder
+
+
+Balls faced: 9
+Bowler: Mahedi Hasan
+Over: 3
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Good length on the stumps, defends off the front foot
+
+
+Balls faced: 10
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Marumani is OUT! stumped
+st †Jaker Ali b Shakib Al Hasan
+Tadiwanashe Marumani st †Jaker Ali b Shakib Al Hasan 1 (7b 0x4 0x6 17m) SR: 14.28
+Flighted delivery outside off, Marumani charges down the ground and misses the line of the ball, Jaker breaks the stumps. Leg umpire sends it upstairs, seems like Marumani's bat is in the air when Jaker takes off the bails.
+
+
+Balls faced: 11
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Slower bouncer on the stumps, swings it away and top edges to the square leg region
+
+
+Balls faced: 13
+Bowler: Saifuddin
+Over: 4
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Tight length on the off stump, squeezed to the extra cover fielder
+
+
+Balls faced: 14
+Bowler: Shakib
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Marumani is OUT! stumped
+st †Jaker Ali b Shakib Al Hasan
+Tadiwanashe Marumani st †Jaker Ali b Shakib Al Hasan 1 (7b 0x4 0x6 17m) SR: 14.28
+Flighted delivery outside off, Marumani charges down the ground and misses the line of the ball, Jaker breaks the stumps. Leg umpire sends it upstairs, seems like Marumani's bat is in the air when Jaker takes off the bails.

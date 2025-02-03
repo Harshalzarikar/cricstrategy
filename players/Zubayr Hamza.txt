@@ -1,0 +1,3660 @@
+Match: all_games_1388186_1388221.json
+Balls faced: 1
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Good shot. On a length outside off, he stands tall and punches past point for a run
+Back to Vishal to close the day
+
+Balls faced: 2
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball on off stump, Hamza gets his bat down in time and pushes to midwicket
+
+
+Balls faced: 3
+Bowler: Jamieson
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Inside-edge, almost another one for Jamieson. Full jagging back into Hamza who squirts it off the inside half of the bat to square leg
+
+
+Balls faced: 4
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Goes right through his defences. Jamieson goes fuller and into Hamza, who looks to defends and the ball sneaks past his inside edge through to Blundell
+
+
+Balls faced: 5
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+135.1kmh, back of length outside off and he punches to cover off the back foot
+
+
+Balls faced: 6
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+much straighter now and Hamza defends it back
+
+
+Balls faced: 7
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+<strong>driven with a thick edge</strong>, falls short of Southee at third slip! Williamson has showed us how to drive and push with soft hands but Hamza went after that drivable length with really hard hands, got a thick edge and it nearly carried
+
+
+Balls faced: 8
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shorter length with a hint of width and Hamza slices it to gully
+
+
+Balls faced: 9
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+136.2kmh, angling in from wide of the crease but still wide outside off so left alone
+
+
+Balls faced: 10
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks Ashish! Another change, Henry is back after switching ends. And Edward Moore is giving me proper Graeme Smith feels, more than Elgar
+
+starts the new spell with a length ball outside off, pushed to cover point
+
+
+Balls faced: 11
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+Good shot. On a length outside off, he stands tall and punches past point for a run
+Back to Vishal to close the day
+
+Balls faced: 12
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length ball on off stump, Hamza gets his bat down in time and pushes to midwicket
+
+
+Balls faced: 13
+Bowler: Jamieson
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Inside-edge, almost another one for Jamieson. Full jagging back into Hamza who squirts it off the inside half of the bat to square leg
+
+
+Balls faced: 14
+Bowler: Jamieson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Goes right through his defences. Jamieson goes fuller and into Hamza, who looks to defends and the ball sneaks past his inside edge through to Blundell
+
+
+Balls faced: 15
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+135.1kmh, back of length outside off and he punches to cover off the back foot
+
+
+Balls faced: 16
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+much straighter now and Hamza defends it back
+
+
+Balls faced: 17
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+<strong>driven with a thick edge</strong>, falls short of Southee at third slip! Williamson has showed us how to drive and push with soft hands but Hamza went after that drivable length with really hard hands, got a thick edge and it nearly carried
+
+
+Balls faced: 18
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shorter length with a hint of width and Hamza slices it to gully
+
+
+Balls faced: 19
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+136.2kmh, angling in from wide of the crease but still wide outside off so left alone
+
+
+Balls faced: 20
+Bowler: Henry
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Thanks Ashish! Another change, Henry is back after switching ends. And Edward Moore is giving me proper Graeme Smith feels, more than Elgar
+
+starts the new spell with a length ball outside off, pushed to cover point
+
+
+Balls faced: 21
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+strays towards the pads and Hazma tickles it down to fine leg for one
+
+
+Balls faced: 22
+Bowler: Henry
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+135.6kmh, on the back foot again for the off stump line and Hamza defends into the off side
+
+
+Balls faced: 23
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+keeps a tad low on middle stump as Henry angles it in. Hamza does well to get his bat behind it
+
+
+Balls faced: 24
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Matiu: "@Savita I think you've missed that by a couple of generations, mates. Those guys are all Gen Z." Astute observation
+
+quite full on off stump and Hamza pushes it back to mid-on
+
+
+Balls faced: 25
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+good-looking drive for the fullish ball outside off but it's stopped at short extra cover
+
+
+Balls faced: 26
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+124.9kmh, pretty full on middle and hamza flicks it down to mid-on where the fielder stops it with a tumble
+
+
+Balls faced: 27
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+126.6kmh, into the pads and Hamza flicks it with the movement between midwicket and mid-on for two
+
+
+Balls faced: 28
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+nice and accurate on off stump, he stays back and blocks it back
+
+
+Balls faced: 29
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+125.1kmh, seaming in towards leg from middle and Hamza pushes it down to mid-on
+
+
+Balls faced: 30
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Southee returns now, for Jamieson
+
+starts with a length ball just outside off which Hamza defends
+
+
+Balls faced: 31
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+strays towards the pads and Hazma tickles it down to fine leg for one
+
+
+Balls faced: 32
+Bowler: Henry
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+135.6kmh, on the back foot again for the off stump line and Hamza defends into the off side
+
+
+Balls faced: 33
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+keeps a tad low on middle stump as Henry angles it in. Hamza does well to get his bat behind it
+
+
+Balls faced: 34
+Bowler: Henry
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Matiu: "@Savita I think you've missed that by a couple of generations, mates. Those guys are all Gen Z." Astute observation
+
+quite full on off stump and Hamza pushes it back to mid-on
+
+
+Balls faced: 35
+Bowler: Henry
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+on the other side now and four more! Room to work with and free his arms, and Hamza punches it nicely off the back foot after getting on top of it. Pierces the gap for four
+Kevin: "Where are those guys who said NZ was batting too slow? Most often, captains know what they are doing!"
+
+Balls faced: 36
+Bowler: Henry
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 4
+
+
+132.3kmh, strays in the pads and Hamza works it nicely off the pads very square of the wicket and that's beaten Jamieson's slide in the deep for four
+
+
+Balls faced: 37
+Bowler: Henry
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+136kmh, presses forward slightly and pushes that into the covers with hard hands
+
+
+Balls faced: 38
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+good-looking drive for the fullish ball outside off but it's stopped at short extra cover
+
+
+Balls faced: 39
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+124.9kmh, pretty full on middle and hamza flicks it down to mid-on where the fielder stops it with a tumble
+
+
+Balls faced: 40
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+126.6kmh, into the pads and Hamza flicks it with the movement between midwicket and mid-on for two
+
+
+Balls faced: 41
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+nice and accurate on off stump, he stays back and blocks it back
+
+
+Balls faced: 42
+Bowler: Southee
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+125.1kmh, seaming in towards leg from middle and Hamza pushes it down to mid-on
+
+
+Balls faced: 43
+Bowler: Southee
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Southee returns now, for Jamieson
+
+starts with a length ball just outside off which Hamza defends
+
+
+Balls faced: 44
+Bowler: Henry
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+on the other side now and four more! Room to work with and free his arms, and Hamza punches it nicely off the back foot after getting on top of it. Pierces the gap for four
+Kevin: "Where are those guys who said NZ was batting too slow? Most often, captains know what they are doing!"
+
+Balls faced: 45
+Bowler: Henry
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 4
+
+
+132.3kmh, strays in the pads and Hamza works it nicely off the pads very square of the wicket and that's beaten Jamieson's slide in the deep for four
+
+
+Balls faced: 46
+Bowler: Henry
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+136kmh, presses forward slightly and pushes that into the covers with hard hands
+
+
+Balls faced: 47
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+
+
+a bouncer just outside off, it could have been left on either line or length but Hamza decides to defend it away from his body
+
+
+Balls faced: 48
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short again and he lets it go this time outside off
+
+
+Balls faced: 49
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+hops on his toes on the back foot and stops the short ball pretty close to him
+
+
+Balls faced: 50
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+this time well outside off and he leaves after a forward leave
+
+
+Balls faced: 51
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+that one's a bouncer and Hamza ducks under this one
+
+
+Balls faced: 52
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+
+
+Henry bangs it in short, not quite a bouncer, and Hamza defends off the back foot
+
+
+Balls faced: 53
+Bowler: Santner
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL
+Shot: PADDLE_SWEEP
+Run scored: 4
+
+
+full on leg, there's nobody at deep fine leg and Hamza sweeps it fine enough so that deep backward square can't cut it off. Good placement
+
+
+Balls faced: 54
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+goes deep in the crease and punches it back to the bowler
+
+
+Balls faced: 55
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+
+
+a bouncer just outside off, it could have been left on either line or length but Hamza decides to defend it away from his body
+
+
+Balls faced: 56
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short again and he lets it go this time outside off
+
+
+Balls faced: 57
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+hops on his toes on the back foot and stops the short ball pretty close to him
+
+
+Balls faced: 58
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+this time well outside off and he leaves after a forward leave
+
+
+Balls faced: 59
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+that one's a bouncer and Hamza ducks under this one
+
+
+Balls faced: 60
+Bowler: Henry
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: DEFENDED
+Run scored: 0
+
+
+Henry bangs it in short, not quite a bouncer, and Hamza defends off the back foot
+
+
+Balls faced: 61
+Bowler: Santner
+Over: 20
+Pitch Line: DOWN_LEG Length: FULL
+Shot: PADDLE_SWEEP
+Run scored: 4
+
+
+full on leg, there's nobody at deep fine leg and Hamza sweeps it fine enough so that deep backward square can't cut it off. Good placement
+
+
+Balls faced: 62
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+goes deep in the crease and punches it back to the bowler
+
+
+Balls faced: 63
+Bowler: Santner
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+leans into the length ball outside off to block this time
+All these boundaries a good sign for South Africa, they need to stick around for another 24 minutes
+
+Balls faced: 64
+Bowler: Santner
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+81.1kmh, too short and enough time for Hamza to rock on the back foot and pull that away to the midwicket boundary
+
+
+Balls faced: 65
+Bowler: Santner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Karl: "Santner should have good memories of this ground after that amazing test win against Pakistan a few years back, and Brand's 6fer is a good sign that the surface will turn"
+
+goes back in the crease and punches it down towards mid-off for a single
+
+
+Balls faced: 66
+Bowler: Santner
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+leans into the length ball outside off to block this time
+All these boundaries a good sign for South Africa, they need to stick around for another 24 minutes
+
+Balls faced: 67
+Bowler: Santner
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+81.1kmh, too short and enough time for Hamza to rock on the back foot and pull that away to the midwicket boundary
+
+
+Balls faced: 68
+Bowler: Santner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Karl: "Santner should have good memories of this ground after that amazing test win against Pakistan a few years back, and Brand's 6fer is a good sign that the surface will turn"
+
+goes back in the crease and punches it down towards mid-off for a single
+
+
+Balls faced: 69
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Zubayr Hamza is OUT! bowled
+ b Santner
+Zubayr Hamza b Santner 22 (38b 4x4 0x6 62m) SR: 57.89
+<strong>oh he's bowled while playing all over it</strong>! A bit similar to Ravindra's dismissal because he's gone down on a knee to pull it fine on leg but the ball goes off his thigh pad to rise, take the elbow and then drop on the stumps
+Four down, out comes Keegan Petersen
+
+Balls faced: 70
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+some drift towards middle and leg, and Hamza blocks to leg this time
+
+
+Balls faced: 71
+Bowler: Santner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shorter outside off and Hamza goes back to slice to point
+
+
+Balls faced: 72
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+covers the line of off stumps and blocks the length ball
+
+
+Balls faced: 73
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Zubayr Hamza is OUT! bowled
+ b Santner
+Zubayr Hamza b Santner 22 (38b 4x4 0x6 62m) SR: 57.89
+<strong>oh he's bowled while playing all over it</strong>! A bit similar to Ravindra's dismissal because he's gone down on a knee to pull it fine on leg but the ball goes off his thigh pad to rise, take the elbow and then drop on the stumps
+Four down, out comes Keegan Petersen
+
+Balls faced: 74
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+some drift towards middle and leg, and Hamza blocks to leg this time
+
+
+Balls faced: 75
+Bowler: Santner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shorter outside off and Hamza goes back to slice to point
+
+
+Balls faced: 76
+Bowler: Santner
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+covers the line of off stumps and blocks the length ball
+
+
+
+Match: all_games_1388186_1388222.json
+Balls faced: 1
+Bowler: O'Rourke
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+too straight. Hamza plays it down towards short leg who deflects it towards short midwicket
+
+
+Balls faced: 2
+Bowler: O'Rourke
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+beaten. A length ball angling in but holds its line as Hamza comes forward to defend
+
+
+Balls faced: 3
+Bowler: O'Rourke
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Zubayr Hamza is the new batter. Over the wicket
+
+short of length outside off. Dabbed down
+
+
+Balls faced: 4
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Shouldered arms
+
+
+Balls faced: 5
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full around off. Pushed towards mid-on
+
+
+Balls faced: 6
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 7
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Defended on the front foot
+
+
+Balls faced: 8
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full around off. Driven towards extra cover
+
+
+Balls faced: 9
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball angling in. Defended towards short midwicket
+
+
+Balls faced: 10
+Bowler: O'Rourke
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+too straight. Hamza plays it down towards short leg who deflects it towards short midwicket
+
+
+Balls faced: 11
+Bowler: O'Rourke
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+beaten. A length ball angling in but holds its line as Hamza comes forward to defend
+
+
+Balls faced: 12
+Bowler: O'Rourke
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Zubayr Hamza is the new batter. Over the wicket
+
+short of length outside off. Dabbed down
+
+
+Balls faced: 13
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Shouldered arms
+
+
+Balls faced: 14
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full around off. Pushed towards mid-on
+
+
+Balls faced: 15
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 16
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Defended on the front foot
+
+
+Balls faced: 17
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full around off. Driven towards extra cover
+
+
+Balls faced: 18
+Bowler: Henry
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball angling in. Defended towards short midwicket
+
+
+Balls faced: 19
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball on the pads. Tucked away towards catching short midwicket
+
+
+Balls faced: 20
+Bowler: Wagner
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<b>a loud appeal for lbw and given.</b> Hamza wants to review it. It was a length ball that shaped in. Hamza thought it was going out and shouldered arm only to get hit on the back thigh. The height is the only question and the ball-tracking suggests it would have sailed over
+Jarrod: "Good leave"
+
+Balls faced: 21
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+there's the first bouncer from Wagner. Hamza ducks under
+
+
+Balls faced: 22
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length but way, way down the leg side. Ignored
+
+
+Balls faced: 23
+Bowler: Wagner
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+slightly fuller this time. Hamza defends it on the front foot
+
+
+Balls faced: 24
+Bowler: Wagner
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+Neil Wagner comes into the attack
+
+length ball, just outside off and shaping back a touch. Left alone
+
+
+Balls faced: 25
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 26
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of length outside off. Hamza ducks under and sways away
+
+
+Balls faced: 27
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball shaping in a bit. Defended on the front foot
+
+
+Balls faced: 28
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+length ball outside off. Pushed through covers where Southee puts in the chase and fumbles a bit, allowing an easy second
+
+
+Balls faced: 29
+Bowler: O'Rourke
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+short of length outside off. Dabbed towards gully
+
+
+Balls faced: 30
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball on the pads. Tucked away towards catching short midwicket
+
+
+Balls faced: 31
+Bowler: Wagner
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+<b>a loud appeal for lbw and given.</b> Hamza wants to review it. It was a length ball that shaped in. Hamza thought it was going out and shouldered arm only to get hit on the back thigh. The height is the only question and the ball-tracking suggests it would have sailed over
+Jarrod: "Good leave"
+
+Balls faced: 32
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+there's the first bouncer from Wagner. Hamza ducks under
+
+
+Balls faced: 33
+Bowler: Wagner
+Over: 16
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length but way, way down the leg side. Ignored
+
+
+Balls faced: 34
+Bowler: Wagner
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+slightly fuller this time. Hamza defends it on the front foot
+
+
+Balls faced: 35
+Bowler: Wagner
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+Neil Wagner comes into the attack
+
+length ball, just outside off and shaping back a touch. Left alone
+
+
+Balls faced: 36
+Bowler: Wagner
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short of length around off. Hops and defends it down
+
+
+Balls faced: 37
+Bowler: Wagner
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full around off. Pushed towards cover
+
+
+Balls faced: 38
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 39
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of length outside off. Hamza ducks under and sways away
+
+
+Balls faced: 40
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball shaping in a bit. Defended on the front foot
+
+
+Balls faced: 41
+Bowler: O'Rourke
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+length ball outside off. Pushed through covers where Southee puts in the chase and fumbles a bit, allowing an easy second
+
+
+Balls faced: 42
+Bowler: O'Rourke
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+short of length outside off. Dabbed towards gully
+
+
+Balls faced: 43
+Bowler: Wagner
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short of length around off. Hops and defends it down
+
+
+Balls faced: 44
+Bowler: Wagner
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full around off. Pushed towards cover
+
+
+Balls faced: 45
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short of length around off. Defended down
+Neil: "Has anyone mentioned the over rate yet?  This is glacial stuff from New Zealand,  More than an hour and a half into the session and they've only managed to bowl 20 overs."
+
+Balls faced: 46
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer. Hamza ducks under it
+
+
+Balls faced: 47
+Bowler: Wagner
+Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length but way outside off. Called a wide
+
+Wide: 1
+Balls faced: 48
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball in the line of the stumps. Defended
+
+
+Balls faced: 49
+Bowler: Wagner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 50
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full on the stumps. Defended towards mid-on
+
+
+Balls faced: 51
+Bowler: Wagner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 52
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+short of length around off. Defended down
+Neil: "Has anyone mentioned the over rate yet?  This is glacial stuff from New Zealand,  More than an hour and a half into the session and they've only managed to bowl 20 overs."
+
+Balls faced: 53
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer. Hamza ducks under it
+
+
+Balls faced: 54
+Bowler: Wagner
+Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length but way outside off. Called a wide
+
+Wide: 1
+Balls faced: 55
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball in the line of the stumps. Defended
+
+
+Balls faced: 56
+Bowler: Wagner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 57
+Bowler: Wagner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full on the stumps. Defended towards mid-on
+
+
+Balls faced: 58
+Bowler: Wagner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 59
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+full outside off. Comes forward to drive it through covers but the ball hits the inner half of the bat and rolls towards short midwicket
+
+
+Balls faced: 60
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full and swinging in. Hamza goes for the drive and gets an inside edge onto the back leg. Wagner has his hands on the head
+
+
+Balls faced: 61
+Bowler: Wagner
+Over: 22
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer this time. Hamza ducks under it
+
+
+Balls faced: 62
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full around off. Hamza goes deep in his crease and pushes it uppishly towards cover. Falls well short of the fielder
+
+
+Balls faced: 63
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Michael: "I see a bit of faf in von tonder , his forward defence and push through covers . If he can be half the player faf was South Africa might have one there "
+
+short of length just outside off. Defended down
+
+
+Balls faced: 64
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball, just outside off. Left alone
+
+
+Balls faced: 65
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+full outside off. Comes forward to drive it through covers but the ball hits the inner half of the bat and rolls towards short midwicket
+
+
+Balls faced: 66
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full and swinging in. Hamza goes for the drive and gets an inside edge onto the back leg. Wagner has his hands on the head
+
+
+Balls faced: 67
+Bowler: Wagner
+Over: 22
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+a bouncer this time. Hamza ducks under it
+
+
+Balls faced: 68
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+full around off. Hamza goes deep in his crease and pushes it uppishly towards cover. Falls well short of the fielder
+
+
+Balls faced: 69
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Michael: "I see a bit of faf in von tonder , his forward defence and push through covers . If he can be half the player faf was South Africa might have one there "
+
+short of length just outside off. Defended down
+
+
+Balls faced: 70
+Bowler: Wagner
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball, just outside off. Left alone
+
+
+Balls faced: 71
+Bowler: Wagner
+Over: 24
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+short but down the leg side. Turned towards fine leg
+
+
+Balls faced: 72
+Bowler: Wagner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full and swinging in. Hamza gets his bat down in time and pushes it towards mid-on
+
+
+Balls faced: 73
+Bowler: Wagner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 74
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 75
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. This one holds its line. Defended back towards the bowler
+
+
+Balls faced: 76
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+wide of the crease and full around off. Defended
+
+
+Balls faced: 77
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STEERED
+Run scored: 0
+
+
+floated outside off and shaping away. Pushed towards cover-point, playing away from the body
+
+
+Balls faced: 78
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball shaping away. Defended towards point
+
+
+Balls faced: 79
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 80
+Bowler: Wagner
+Over: 24
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+short but down the leg side. Turned towards fine leg
+
+
+Balls faced: 81
+Bowler: Wagner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+full and swinging in. Hamza gets his bat down in time and pushes it towards mid-on
+
+
+Balls faced: 82
+Bowler: Wagner
+Over: 24
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 83
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 84
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. This one holds its line. Defended back towards the bowler
+
+
+Balls faced: 85
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+wide of the crease and full around off. Defended
+
+
+Balls faced: 86
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STEERED
+Run scored: 0
+
+
+floated outside off and shaping away. Pushed towards cover-point, playing away from the body
+
+
+Balls faced: 87
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball shaping away. Defended towards point
+
+
+Balls faced: 88
+Bowler: Southee
+Over: 25
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 89
+Bowler: Southee
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+full outside off. Driven to the left of extra cover who makes a partial stop
+
+
+Balls faced: 90
+Bowler: Southee
+Over: 27
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 91
+Bowler: Southee
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of length just outside off. Hamza drops his hands and sways away
+
+
+Balls faced: 92
+Bowler: Southee
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around middle. Defended
+Jimmy: "Is Rob's comment bait? Two tests ago Wags was bowling us to victory against England after following on... taking out Root, Pope and Stokes in the 4th as well as getting Anderson with 1 run to spare"
+
+Balls faced: 93
+Bowler: Southee
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Last over before lunch
+
+length ball at the stumps. Defended
+
+
+Balls faced: 94
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Nice change up. Yorker on middle, Bedingham yanks the front leg to the leg side and jams it from the front of his back foot. Gets it towards cover point. Well negotiated
+Good restart from Henry
+
+Balls faced: 95
+Bowler: Henry
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length just outside off, cautiously defended off the back foot to cvoer
+Tom: "Looking forward to the Wagner v Bedingham bouncer battle. "
+
+Balls faced: 96
+Bowler: Henry
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched up on fifth, 130ks, Hamza takes a forward stride and deadbats it to the bowler
+
+
+Balls faced: 97
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Squared-up as he defends to cover point. Back half of a length around off, Hamza plays it off the back foot
+
+
+Balls faced: 98
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length on leg, tucked to midwicket off the back foot
+
+
+Balls faced: 99
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+<strong>1:42pm, Day 1, Session 2</strong> Good afternoon and welcome back. Still bright as ever in Hamilton. The players are out. Hamza to face Henry. Three slips plus gully in
+
+Pitched up at the stumps, defended to the bowler
+
+
+Balls faced: 100
+Bowler: Southee
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+full outside off. Driven to the left of extra cover who makes a partial stop
+
+
+Balls faced: 101
+Bowler: Southee
+Over: 27
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 102
+Bowler: Southee
+Over: 27
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+short of length just outside off. Hamza drops his hands and sways away
+
+
+Balls faced: 103
+Bowler: Southee
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around middle. Defended
+Jimmy: "Is Rob's comment bait? Two tests ago Wags was bowling us to victory against England after following on... taking out Root, Pope and Stokes in the 4th as well as getting Anderson with 1 run to spare"
+
+Balls faced: 104
+Bowler: Southee
+Over: 27
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Last over before lunch
+
+length ball at the stumps. Defended
+
+
+Balls faced: 105
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Nice change up. Yorker on middle, Bedingham yanks the front leg to the leg side and jams it from the front of his back foot. Gets it towards cover point. Well negotiated
+Good restart from Henry
+
+Balls faced: 106
+Bowler: Henry
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length just outside off, cautiously defended off the back foot to cvoer
+Tom: "Looking forward to the Wagner v Bedingham bouncer battle. "
+
+Balls faced: 107
+Bowler: Henry
+Over: 28
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Pitched up on fifth, 130ks, Hamza takes a forward stride and deadbats it to the bowler
+
+
+Balls faced: 108
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Squared-up as he defends to cover point. Back half of a length around off, Hamza plays it off the back foot
+
+
+Balls faced: 109
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Length on leg, tucked to midwicket off the back foot
+
+
+Balls faced: 110
+Bowler: Henry
+Over: 28
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+<strong>1:42pm, Day 1, Session 2</strong> Good afternoon and welcome back. Still bright as ever in Hamilton. The players are out. Hamza to face Henry. Three slips plus gully in
+
+Pitched up at the stumps, defended to the bowler
+
+
+Balls faced: 111
+Bowler: Henry
+Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Tight single to midwicket, no direct hit. Length on the thigh pad, clipped off the back foot to Ravindra's left. He ran quickly, picked up and threw in one motion. Ball went wide of the stumps at the non-striker's end. Think Hamza'd have made it despite a stuttering start
+
+
+Balls faced: 112
+Bowler: Henry
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length around off, 129ks, tapped off the back foot towards midwicket
+
+
+Balls faced: 113
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length just outside off, let go
+
+
+Balls faced: 114
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LATE_CUT
+Run scored: 4
+
+
+On the other side this time. Flashy square drive off the back foot takes the hard-length ball on fifth stump, wide to the right of gully. Catching height but in the gap. Hamza moves from 6 off 59 to 14 off 61
+
+
+Balls faced: 115
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 4
+
+
+Rides the bounce well and guides it over gully. Shortish ball just outside off, Hamza didn't have much room and seemed cramped but only momentarily. He swayed back and conveyor belted it with decent control
+
+
+Balls faced: 116
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Deadbatted to cover. Full on fourth, Hamza leans low and plays it off the front foot
+
+
+Balls faced: 117
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Punched off the back foot to mid-off. 132ks on the back half of a length, Hamza judged the length quickly and played it from inside the crease
+
+
+Balls faced: 118
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Three slips, gully and short leg in. Catching cover too
+
+Length on fifth, left alone. Keeper takes it just above the shoulder, good carry
+
+
+Balls faced: 119
+Bowler: Henry
+Over: 30
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Tight single to midwicket, no direct hit. Length on the thigh pad, clipped off the back foot to Ravindra's left. He ran quickly, picked up and threw in one motion. Ball went wide of the stumps at the non-striker's end. Think Hamza'd have made it despite a stuttering start
+
+
+Balls faced: 120
+Bowler: Henry
+Over: 30
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length around off, 129ks, tapped off the back foot towards midwicket
+
+
+Balls faced: 121
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length just outside off, let go
+
+
+Balls faced: 122
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LATE_CUT
+Run scored: 4
+
+
+On the other side this time. Flashy square drive off the back foot takes the hard-length ball on fifth stump, wide to the right of gully. Catching height but in the gap. Hamza moves from 6 off 59 to 14 off 61
+
+
+Balls faced: 123
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 4
+
+
+Rides the bounce well and guides it over gully. Shortish ball just outside off, Hamza didn't have much room and seemed cramped but only momentarily. He swayed back and conveyor belted it with decent control
+
+
+Balls faced: 124
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Deadbatted to cover. Full on fourth, Hamza leans low and plays it off the front foot
+
+
+Balls faced: 125
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Punched off the back foot to mid-off. 132ks on the back half of a length, Hamza judged the length quickly and played it from inside the crease
+
+
+Balls faced: 126
+Bowler: O'Rourke
+Over: 31
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+Three slips, gully and short leg in. Catching cover too
+
+Length on fifth, left alone. Keeper takes it just above the shoulder, good carry
+
+
+Balls faced: 127
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Full on fourth, gets forward and low to defend it back to the bowler. Maiden over
+
+
+Balls faced: 128
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Into the pitch just outside off, let go
+
+
+Balls faced: 129
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Full on fourth, strides across and then leans to defend it off the front foot towards cover. 140ks
+
+
+Balls faced: 130
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Pitched up on off, driven back to the bowler
+
+
+Balls faced: 131
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length on fifth, firm stride across and just as confident a leave
+
+
+Balls faced: 132
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Shortish ball just outside off at 134ks, Hamza jumps up and knocks it from next to his shoulder. Gets it to cover
+
+
+Balls faced: 133
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Full on fourth, gets forward and low to defend it back to the bowler. Maiden over
+
+
+Balls faced: 134
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Into the pitch just outside off, let go
+
+
+Balls faced: 135
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Full on fourth, strides across and then leans to defend it off the front foot towards cover. 140ks
+
+
+Balls faced: 136
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Pitched up on off, driven back to the bowler
+
+
+Balls faced: 137
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length on fifth, firm stride across and just as confident a leave
+
+
+Balls faced: 138
+Bowler: O'Rourke
+Over: 33
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Shortish ball just outside off at 134ks, Hamza jumps up and knocks it from next to his shoulder. Gets it to cover
+
+
+Balls faced: 139
+Bowler: O'Rourke
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Overpitched around sixth, jammed to cover point
+Here's Shaun chirping "I see Neil Brand doesnt think his side is too far off the pace. Maybe Neil if you could actually bat for more than an hour you'd be right." I did share the pessimism a while ago but the batters haven't really looked out of place today tbh
+
+Balls faced: 140
+Bowler: O'Rourke
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball lands around sixth and looked to have shaped back in a bit. 141ks. Let go
+
+
+Balls faced: 141
+Bowler: O'Rourke
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Overpitched around sixth, jammed to cover point
+Here's Shaun chirping "I see Neil Brand doesnt think his side is too far off the pace. Maybe Neil if you could actually bat for more than an hour you'd be right." I did share the pessimism a while ago but the batters haven't really looked out of place today tbh
+
+Balls faced: 142
+Bowler: O'Rourke
+Over: 35
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Length ball lands around sixth and looked to have shaped back in a bit. 141ks. Let go
+
+
+Balls faced: 143
+Bowler: Southee
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Fullish ball angling in, clipped to midwicket
+
+
+Balls faced: 144
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fullish ball on off, 131ks, defended towards cover
+
+
+Balls faced: 145
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Nice use of the crease from Southee but Hamza's front-foot game is upto the mark. Ball was full and wide, he did reach out away from the body but middled the check-punch through cover
+Liam: "Hamza has to up his rate here, even if it is just rotating the strike. The ball is now coming up to 40 overs old, so SA need to start putting some pressure back on NZ" Agree with the comms on air, who said after the last over that the batters have to take on Ravindra. They can't let him ease into his spell at least
+
+Balls faced: 146
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Fullish ball is punched with the swing, to cover. Angled in towards off before curving away to go through fourth
+
+
+Balls faced: 147
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Nice away swing. Angles in towards off and goes away after landing on a good length around off
+KRK: "Will Boult ever play another test match?" That's actually a good poll
+
+Balls faced: 148
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+Southee back
+
+Length outside off, Hamza reaches out late and dabs it on the head. Into the grass, towards point it goes
+
+
+Balls faced: 149
+Bowler: Southee
+Over: 37
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Fullish ball angling in, clipped to midwicket
+
+
+Balls faced: 150
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Fullish ball on off, 131ks, defended towards cover
+
+
+Balls faced: 151
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Nice use of the crease from Southee but Hamza's front-foot game is upto the mark. Ball was full and wide, he did reach out away from the body but middled the check-punch through cover
+Liam: "Hamza has to up his rate here, even if it is just rotating the strike. The ball is now coming up to 40 overs old, so SA need to start putting some pressure back on NZ" Agree with the comms on air, who said after the last over that the batters have to take on Ravindra. They can't let him ease into his spell at least
+
+Balls faced: 152
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Fullish ball is punched with the swing, to cover. Angled in towards off before curving away to go through fourth
+
+
+Balls faced: 153
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Nice away swing. Angles in towards off and goes away after landing on a good length around off
+KRK: "Will Boult ever play another test match?" That's actually a good poll
+
+Balls faced: 154
+Bowler: Southee
+Over: 37
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+Southee back
+
+Length outside off, Hamza reaches out late and dabs it on the head. Into the grass, towards point it goes
+
+
+Balls faced: 155
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length just outside off, worked off the back foot to mid-on's left
+
+
+Balls faced: 156
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Pitched up outside off, driven sweetly to cover's left. Good stop from KW, who gets low and reaches out with one hand
+
+
+Balls faced: 157
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Full just outside off, 133ks, a bit of swing away, defended in front
+
+
+Balls faced: 158
+Bowler: Southee
+Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Bumper over middle, 129ks, rose at pace. Hamza limboed inside the line, was hurried late in the piece but managed to duck in time
+
+
+Balls faced: 159
+Bowler: Southee
+Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full on the pads, worked towards midwicket
+
+
+Balls faced: 160
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Length outside off, defended to cover point
+
+
+Balls faced: 161
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length just outside off, worked off the back foot to mid-on's left
+
+
+Balls faced: 162
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Pitched up outside off, driven sweetly to cover's left. Good stop from KW, who gets low and reaches out with one hand
+
+
+Balls faced: 163
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Full just outside off, 133ks, a bit of swing away, defended in front
+
+
+Balls faced: 164
+Bowler: Southee
+Over: 39
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Bumper over middle, 129ks, rose at pace. Hamza limboed inside the line, was hurried late in the piece but managed to duck in time
+
+
+Balls faced: 165
+Bowler: Southee
+Over: 39
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full on the pads, worked towards midwicket
+
+
+Balls faced: 166
+Bowler: Southee
+Over: 39
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Length outside off, defended to cover point
+
+
+Balls faced: 167
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Same line. On the heart of a length this time. Let go again
+Paul: "7 runs off the last 10 overs. The definition of not going anywhere!"
+
+Balls faced: 168
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fifth stump line, full length from wide of the crease. Let go again. Craig McMillan talks about the long game as both batter and bowler exhibit their patience
+
+
+Balls faced: 169
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Line is straighter but this one curves away sharply. Hamza shoulders arms again
+
+
+Balls faced: 170
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Southee wily there. Hangs it out for the drive with the full length and sixth-stump line. Hamza doesn't bite
+
+
+Balls faced: 171
+Bowler: Southee
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full on middle and leg, Hamza goes diagonal and middles a drive straight to mid-on.
+
+
+Balls faced: 172
+Bowler: Southee
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Short and over the the stumps, Hamza ducks under to let it pass
+
+
+Balls faced: 173
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Same line. On the heart of a length this time. Let go again
+Paul: "7 runs off the last 10 overs. The definition of not going anywhere!"
+
+Balls faced: 174
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fifth stump line, full length from wide of the crease. Let go again. Craig McMillan talks about the long game as both batter and bowler exhibit their patience
+
+
+Balls faced: 175
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Line is straighter but this one curves away sharply. Hamza shoulders arms again
+
+
+Balls faced: 176
+Bowler: Southee
+Over: 41
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Southee wily there. Hangs it out for the drive with the full length and sixth-stump line. Hamza doesn't bite
+
+
+Balls faced: 177
+Bowler: Southee
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full on middle and leg, Hamza goes diagonal and middles a drive straight to mid-on.
+
+
+Balls faced: 178
+Bowler: Southee
+Over: 41
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Short and over the the stumps, Hamza ducks under to let it pass
+
+
+Balls faced: 179
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 180
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Comes forward to block
+
+
+Balls faced: 181
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+beaten on the outside edge this time. An outswinger from the wide of the crease, forcing the batter to play and then beating him with the movement
+
+
+Balls faced: 182
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 183
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+full outside off, and Hamza throws his bat at it. Was in the air but to the right of backward point. Breaks the sequence of dots with a boundary
+
+
+Balls faced: 184
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+nips back from good length around off to beat the inside edge. But it was a bit high as it hit the batter on the back thigh
+
+
+Balls faced: 185
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. Defended
+
+
+Balls faced: 186
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. Defended, albeit from the inner half of the bat
+
+
+Balls faced: 187
+Bowler: Ravindra
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Blocked again
+
+
+Balls faced: 188
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Defended back
+
+
+Balls faced: 189
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 190
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Comes forward to block
+
+
+Balls faced: 191
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+beaten on the outside edge this time. An outswinger from the wide of the crease, forcing the batter to play and then beating him with the movement
+
+
+Balls faced: 192
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+length ball in the channel. Left alone
+
+
+Balls faced: 193
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+full outside off, and Hamza throws his bat at it. Was in the air but to the right of backward point. Breaks the sequence of dots with a boundary
+
+
+Balls faced: 194
+Bowler: Southee
+Over: 43
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+nips back from good length around off to beat the inside edge. But it was a bit high as it hit the batter on the back thigh
+
+
+Balls faced: 195
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. Defended
+
+
+Balls faced: 196
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+length ball around off. Defended, albeit from the inner half of the bat
+
+
+Balls faced: 197
+Bowler: Ravindra
+Over: 44
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Blocked again
+
+
+Balls faced: 198
+Bowler: Ravindra
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+full around off. Defended back
+
+
+Balls faced: 199
+Bowler: Ravindra
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+Zubayr Hamza is OUT! caught
+c sub (MJ Santner) b Ravindra
+Zubayr Hamza c sub (MJ Santner) b Ravindra 20 (99b 3x4 0x6 142m) SR: 20.2
+<b>Hamza has thrown it away.</b> Ravindra tosses it up just outside off and Hamza goes for a wild slog sweep only to top-edge it towards backward point. Santner, the substitute, accepts a simple chance
+
+
+Balls faced: 200
+Bowler: Ravindra
+Over: 46
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+Zubayr Hamza is OUT! caught
+c sub (MJ Santner) b Ravindra
+Zubayr Hamza c sub (MJ Santner) b Ravindra 20 (99b 3x4 0x6 142m) SR: 20.2
+<b>Hamza has thrown it away.</b> Ravindra tosses it up just outside off and Hamza goes for a wild slog sweep only to top-edge it towards backward point. Santner, the substitute, accepts a simple chance
+
+
+
+Match: all_games_1388186_1418775.json
+Balls faced: 1
+Bowler: Duffy
+Over: 28
+ 
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Duffy
+Over: 28
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 3
+Bowler: Duffy
+Over: 28
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Duffy
+Over: 28
+ 
+Shot: LEG_GLANCE
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Duffy
+Over: 28
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 6
+Bowler: Duffy
+Over: 28
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Duffy
+Over: 30
+ 
+Shot: BACK_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Duffy
+Over: 30
+ 
+Shot: BACK_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Duffy
+Over: 30
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Duffy
+Over: 30
+ 
+Shot: BACK_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Duffy
+Over: 30
+ 
+Shot: BACK_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 17
+Bowler: Duffy
+Over: 30
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 18
+Bowler: Duffy
+Over: 30
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Duffy
+Over: 32
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Duffy
+Over: 32
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 21
+Bowler: Duffy
+Over: 32
+ 
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 22
+Bowler: Duffy
+Over: 32
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 23
+Bowler: Duffy
+Over: 32
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Duffy
+Over: 32
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Duffy
+Over: 32
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Duffy
+Over: 32
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 27
+Bowler: Duffy
+Over: 32
+ 
+Shot: CUT_SHOT_ON_BACK_FOOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 28
+Bowler: Duffy
+Over: 32
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Duffy
+Over: 32
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Duffy
+Over: 32
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Duffy
+Over: 34
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 32
+Bowler: Duffy
+Over: 34
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 1
+
+
+
+
+
+Balls faced: 33
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 34
+Bowler: Duffy
+Over: 36
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 35
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 36
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 37
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Duffy
+Over: 36
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 39
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Duffy
+Over: 36
+ 
+Shot: FORWARD_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 41
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 42
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 43
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 44
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 45
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 46
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 47
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 48
+Bowler: Georgeson
+Over: 41
+ 
+Shot: BACK_DEFENCE
+Run scored: 0
+
+
+
+
+
+Balls faced: 49
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 50
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 2
+
+
+
+
+
+Balls faced: 51
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 52
+Bowler: Georgeson
+Over: 41
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 53
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 54
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 0
+
+
+
+
+
+Balls faced: 55
+Bowler: Georgeson
+Over: 41
+ 
+Shot: VERTICAL_FORWARD_ATTACK
+Run scored: 4
+
+
+
+
+
+Balls faced: 56
+Bowler: Georgeson
+Over: 41
+ 
+Shot: BACK_DEFENCE
+Run scored: 0

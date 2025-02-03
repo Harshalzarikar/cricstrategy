@@ -1,0 +1,728 @@
+Match: all_games_1421067_1421079.json
+Balls faced: 1
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+
+
+
+Balls faced: 3
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 4
+Bowler: Main
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Main
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Main
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 7
+Bowler: Main
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 9
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+
+
+
+Balls faced: 10
+Bowler: Jarvis
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 11
+Bowler: Main
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Main
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Main
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Main
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+
+Match: all_games_1421067_1421080.json
+Balls faced: 1
+Bowler: Watt
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 2
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Watt
+Over: 8
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+
+
+
+Balls faced: 7
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Watt
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 2
+
+
+
+
+
+Balls faced: 9
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 10
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 12
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Leask
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Leask
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Leask
+Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 20
+Bowler: Watt
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 2
+
+
+
+
+
+Balls faced: 21
+Bowler: Watt
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 22
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Watt
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 24
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 25
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 26
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 27
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 29
+Bowler: Leask
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Leask
+Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+
+
+
+Balls faced: 31
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 32
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+
+
+
+Balls faced: 34
+Bowler: Greaves
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 35
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 36
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 37
+Bowler: Greaves
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 39
+Bowler: Jarvis
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 40
+Bowler: Jarvis
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 41
+Bowler: Jarvis
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 42
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 43
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+
+
+
+Balls faced: 44
+Bowler: Greaves
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 45
+Bowler: Greaves
+Over: 14
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 46
+Bowler: Watt
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Akif Raja is OUT! bowled
+ b Watt
+Akif Raja b Watt 28 (25b 3x4 0x6 34m) SR: 112
+
+
+
+Balls faced: 47
+Bowler: Watt
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+
+
+
+Balls faced: 48
+Bowler: Jarvis
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+
+
+
+Balls faced: 49
+Bowler: Jarvis
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 50
+Bowler: Jarvis
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+
+
+
+Balls faced: 51
+Bowler: Watt
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Akif Raja is OUT! bowled
+ b Watt
+Akif Raja b Watt 28 (25b 3x4 0x6 34m) SR: 112
+
+
+
+Balls faced: 52
+Bowler: Watt
+Over: 16
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0

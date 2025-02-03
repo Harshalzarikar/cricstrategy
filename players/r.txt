@@ -1,0 +1,1134 @@
+Match: all_games_1408099_1408104.json
+Balls faced: 1
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full and flat, defended back by Madande
+
+
+Balls faced: 2
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+On a length on middle and he defends to the bowler's right
+
+
+Balls faced: 3
+Bowler: Tec
+Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+Swung down the ground and Madande gets his first six! This is tossed up outside off and Madande gets down on one knee and slogs it over long-on
+
+
+Balls faced: 4
+Bowler: Tec
+Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Tector fires a rocket but that's quite wide and called so as well by the umpire
+
+Wide: 1
+Balls faced: 5
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+On a length outside off and Madande makes room and slaps it away in front of sweeper cover for a couple
+
+
+Balls faced: 6
+Bowler: Tec
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Slings it full on middle and leg, Burl tucks it through a vacant midwicket area for a single
+
+
+Balls faced: 7
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Harry Tector gets a bowl!
+
+Angles it on on a length outside off and Burl clips it to the bowler's left
+
+
+Balls faced: 8
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Full and flat, defended back by Madande
+
+
+Balls faced: 9
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+On a length on middle and he defends to the bowler's right
+
+
+Balls faced: 10
+Bowler: Tec
+Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+Swung down the ground and Madande gets his first six! This is tossed up outside off and Madande gets down on one knee and slogs it over long-on
+
+
+Balls faced: 11
+Bowler: Tec
+Over: 14
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Tector fires a rocket but that's quite wide and called so as well by the umpire
+
+Wide: 1
+Balls faced: 12
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+On a length outside off and Madande makes room and slaps it away in front of sweeper cover for a couple
+
+
+Balls faced: 13
+Bowler: Tec
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+Slings it full on middle and leg, Burl tucks it through a vacant midwicket area for a single
+
+
+Balls faced: 14
+Bowler: Tec
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Harry Tector gets a bowl!
+
+Angles it on on a length outside off and Burl clips it to the bowler's left
+
+
+
+Match: all_games_1408099_1408105.json
+Balls faced: 1
+Bowler: Tec
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+On a length around off, he nudges it square in the gap for a single
+
+
+Balls faced: 2
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Tossed up slower on a length on off, Burl clips it to his front on the leg side. Tector races across to fetch it and has a shy at the striker's end but ends up hitting Munyonga as he looked to make his ground
+
+
+Balls faced: 3
+Bowler: Tec
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fired down leg for a wide
+
+Wide: 1
+Balls faced: 4
+Bowler: Tec
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Tector slings it on a length outside off and Munyonga cuts it away to sweeper cover
+
+
+Balls faced: 5
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Full on middle and Burl pushes to long-on for a single
+
+
+Balls faced: 6
+Bowler: Tec
+Over: 9
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 4
+Chris M: "Not having Raza, Ervine and Williams is what the future looks like for Zim. We don't have any replacements in place. Worrying." Well, games like this let youngsters have a chance. Bennett, for example, looked really good today till he got out.
+
+<strong>You don't bowl there, Harry!</strong> Dragged down on leg and Burl just gets down on one knee and helps it over backward square for a boundary
+
+
+Balls faced: 7
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+Here's Harry Tector! Offspin from around the wicket
+
+On a length on leg, he nudges it in front of square for a single
+
+
+Balls faced: 8
+Bowler: Tec
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+On a length around off, he nudges it square in the gap for a single
+
+
+Balls faced: 9
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Tossed up slower on a length on off, Burl clips it to his front on the leg side. Tector races across to fetch it and has a shy at the striker's end but ends up hitting Munyonga as he looked to make his ground
+
+
+Balls faced: 10
+Bowler: Tec
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Fired down leg for a wide
+
+Wide: 1
+Balls faced: 11
+Bowler: Tec
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Tector slings it on a length outside off and Munyonga cuts it away to sweeper cover
+
+
+Balls faced: 12
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Full on middle and Burl pushes to long-on for a single
+
+
+Balls faced: 13
+Bowler: Tec
+Over: 9
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 4
+Chris M: "Not having Raza, Ervine and Williams is what the future looks like for Zim. We don't have any replacements in place. Worrying." Well, games like this let youngsters have a chance. Bennett, for example, looked really good today till he got out.
+
+<strong>You don't bowl there, Harry!</strong> Dragged down on leg and Burl just gets down on one knee and helps it over backward square for a boundary
+
+
+Balls faced: 14
+Bowler: Tec
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+Here's Harry Tector! Offspin from around the wicket
+
+On a length on leg, he nudges it in front of square for a single
+
+
+
+Match: all_games_1408099_1408107.json
+Balls faced: 1
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off stump, he bends forward and defends
+
+
+Balls faced: 2
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Flat again, outside off, he stays back and drills the cut to deep cover
+
+
+Balls faced: 3
+Bowler: Tec
+Over: 34
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+Goes for the quicker flatter one but sprays it well down leg
+
+Wide: 1
+Balls faced: 4
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Fuller down leg, he glances it but can't beat short fine leg
+
+
+Balls faced: 5
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+Quicker outside off, he glides it to short third
+
+
+Balls faced: 6
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Again, quicker on middle and leg, ticked to the on-side
+
+
+Balls faced: 7
+Bowler: Tec
+Over: 34
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 0
+Thanks, Shashwat. A very important stand between Masakadza and Burl this. They will want to hang around till at least the 40th over before opening their shoulders. Tector into the attack after the break. He is around the wicket.
+
+Flatter on the pads of Burl who works it to short fine leg
+
+
+Balls faced: 8
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Fuller on off stump, he bends forward and defends
+
+
+Balls faced: 9
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Flat again, outside off, he stays back and drills the cut to deep cover
+
+
+Balls faced: 10
+Bowler: Tec
+Over: 34
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+
+Goes for the quicker flatter one but sprays it well down leg
+
+Wide: 1
+Balls faced: 11
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Fuller down leg, he glances it but can't beat short fine leg
+
+
+Balls faced: 12
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+Quicker outside off, he glides it to short third
+
+
+Balls faced: 13
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Again, quicker on middle and leg, ticked to the on-side
+
+
+Balls faced: 14
+Bowler: Tec
+Over: 34
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 0
+Thanks, Shashwat. A very important stand between Masakadza and Burl this. They will want to hang around till at least the 40th over before opening their shoulders. Tector into the attack after the break. He is around the wicket.
+
+Flatter on the pads of Burl who works it to short fine leg
+
+
+Balls faced: 15
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+r is OUT! caught
+c †Tucker b Tector
+Ryan Burl c †Tucker b Tector 38 (89b 2x4 0x6 124m) SR: 42.69
+<strong>Edged and Tector breaks the partnership.</strong> That was pushed much quicker outside off stump and the extra bounce does Burl in. He shapes up for the cut, but is beaten by that bounce and a thin edge is snapped up by keeper
+
+
+Balls faced: 16
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Flat and quick outside off stump, he stays back and slaps it to deep cover
+
+
+Balls faced: 17
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+On middle stump, Burl pushes back to the bowler
+
+
+Balls faced: 18
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+A touch slower outside off, he gets a hint of turn as well as Burl defends towards point
+
+
+Balls faced: 19
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Quicker outside off, scythed to extra cover
+
+
+Balls faced: 20
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Tossed up outside off slapped to long off
+
+
+Balls faced: 21
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+r is OUT! caught
+c †Tucker b Tector
+Ryan Burl c †Tucker b Tector 38 (89b 2x4 0x6 124m) SR: 42.69
+<strong>Edged and Tector breaks the partnership.</strong> That was pushed much quicker outside off stump and the extra bounce does Burl in. He shapes up for the cut, but is beaten by that bounce and a thin edge is snapped up by keeper
+
+
+Balls faced: 22
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+Flat and quick outside off stump, he stays back and slaps it to deep cover
+
+
+Balls faced: 23
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+On middle stump, Burl pushes back to the bowler
+
+
+Balls faced: 24
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+A touch slower outside off, he gets a hint of turn as well as Burl defends towards point
+
+
+Balls faced: 25
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Quicker outside off, scythed to extra cover
+
+
+Balls faced: 26
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Tossed up outside off slapped to long off
+
+
+
+Match: all_games_1416063_1416083.json
+Balls faced: 1
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Flat length ball on leg, short-arm clip to midwicket's right/bowler's left. Both converge, almost collide but Balbirnie stops it
+Nisal: "Can someone please explain the nature of the pitch? is it slow with turn or just two paced with no bounce?" Leans more on being slow, spinners are getting some turn but batters are able to adjust due to the lack of pace. The odd one that skids is tougher to handle though.
+
+Balls faced: 2
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, cut to deep point
+
+
+Balls faced: 3
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Full ball is worked across the line, to midwicket
+"I reckon anything above 250 is par score or maybe I'm totally wrong?" Sounds fair, Babakhan
+
+Balls faced: 4
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Still around, slip in too
+
+Fullish ball on middle, punched back to the bowler. Hit the middle of the splice
+
+
+Balls faced: 5
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, chopped to deep point
+
+
+Balls faced: 6
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Tector on. Around the wicket
+
+Length ball angles across through fifth, tries to slash it square. Misses
+
+
+Balls faced: 7
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Flat length ball on leg, short-arm clip to midwicket's right/bowler's left. Both converge, almost collide but Balbirnie stops it
+Nisal: "Can someone please explain the nature of the pitch? is it slow with turn or just two paced with no bounce?" Leans more on being slow, spinners are getting some turn but batters are able to adjust due to the lack of pace. The odd one that skids is tougher to handle though.
+
+Balls faced: 8
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, cut to deep point
+
+
+Balls faced: 9
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Full ball is worked across the line, to midwicket
+"I reckon anything above 250 is par score or maybe I'm totally wrong?" Sounds fair, Babakhan
+
+Balls faced: 10
+Bowler: Tec
+Over: 34
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+Still around, slip in too
+
+Fullish ball on middle, punched back to the bowler. Hit the middle of the splice
+
+
+Balls faced: 11
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, chopped to deep point
+
+
+Balls faced: 12
+Bowler: Tec
+Over: 34
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Tector on. Around the wicket
+
+Length ball angles across through fifth, tries to slash it square. Misses
+
+
+Balls faced: 13
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+Full on fourth, pushed gently towards cover. Balbirnie wasn't far, swooped in and underarmed it to the keeper but batter was in
+
+
+Balls faced: 14
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Fullish on leg, beats the flick and deflects off the pad towards square leg
+
+
+Balls faced: 15
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, steered to deep point
+
+
+Balls faced: 16
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Length down leg, glanced to fine leg
+
+
+Balls faced: 17
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length ball has been defended in front
+
+
+Balls faced: 18
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+Loopy full ball is overpitched. Nabi stands still and thwacks it through cover, no chance for the fielder in the deep
+
+
+Balls faced: 19
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+Full on fourth, pushed gently towards cover. Balbirnie wasn't far, swooped in and underarmed it to the keeper but batter was in
+
+
+Balls faced: 20
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Fullish on leg, beats the flick and deflects off the pad towards square leg
+
+
+Balls faced: 21
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+Length outside off, steered to deep point
+
+
+Balls faced: 22
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Length down leg, glanced to fine leg
+
+
+Balls faced: 23
+Bowler: Tec
+Over: 36
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+Length ball has been defended in front
+
+
+Balls faced: 24
+Bowler: Tec
+Over: 36
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+Loopy full ball is overpitched. Nabi stands still and thwacks it through cover, no chance for the fielder in the deep
+
+
+Balls faced: 25
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+r is OUT! bowled
+ b Tector
+Ikram Alikhil b Tector 2 (4b 0x4 0x6 6m) SR: 50
+<strong>Tector's yorked Alikhil and knocked him over, in fact the batter's yorked himself</strong>. He took a step down and tried to work it across the line, ended up playing across it and the ball snuck through the gap to hit middle. Tector's pumped.
+
+
+Balls faced: 26
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+<strong>Ripper to beat the edge!</strong> Ohmagawd, looks even better on replay! Fullish ball drifted in towards off and Alikhil shaped to nudge it across the line. But then the spin took it away past the leading edge. Alikhil's back leg slid out but he pushed it back in reflex. Real quick and it's back. Stumping appeal was sent upstairs, given not out. Keeper collected the ball back close to the belly, non-MS Dhoni style, which cost him a second too much
+
+
+Balls faced: 27
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Length outside off, short-arm pulled to long-on
+
+
+Balls faced: 28
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Tight single, desperate dive from Hashmat, he makes it as the throw is bulleted to the bowler.
+
+
+Balls faced: 29
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+Dances down and is met by a quickish ball. Defended in front
+
+
+Balls faced: 30
+Bowler: Tec
+Over: 44
+Pitch Line: DOWN_LEG Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+Down leg, full and Hashmat shovels it fine. One of the fielders might have said that aloud. It was actually the bowler
+
+
+Balls faced: 31
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+r is OUT! bowled
+ b Tector
+Ikram Alikhil b Tector 2 (4b 0x4 0x6 6m) SR: 50
+<strong>Tector's yorked Alikhil and knocked him over, in fact the batter's yorked himself</strong>. He took a step down and tried to work it across the line, ended up playing across it and the ball snuck through the gap to hit middle. Tector's pumped.
+
+
+Balls faced: 32
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+<strong>Ripper to beat the edge!</strong> Ohmagawd, looks even better on replay! Fullish ball drifted in towards off and Alikhil shaped to nudge it across the line. But then the spin took it away past the leading edge. Alikhil's back leg slid out but he pushed it back in reflex. Real quick and it's back. Stumping appeal was sent upstairs, given not out. Keeper collected the ball back close to the belly, non-MS Dhoni style, which cost him a second too much
+
+
+Balls faced: 33
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Length outside off, short-arm pulled to long-on
+
+
+Balls faced: 34
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Tight single, desperate dive from Hashmat, he makes it as the throw is bulleted to the bowler.
+
+
+Balls faced: 35
+Bowler: Tec
+Over: 44
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+Dances down and is met by a quickish ball. Defended in front
+
+
+Balls faced: 36
+Bowler: Tec
+Over: 44
+Pitch Line: DOWN_LEG Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 4
+
+
+Down leg, full and Hashmat shovels it fine. One of the fielders might have said that aloud. It was actually the bowler
+
+
+
+Match: all_games_1428145_1428156.json
+Balls faced: 1
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+Match State: Drinks
+
+Balls faced: 2
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 5
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 6
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+Match State: Drinks
+
+Balls faced: 8
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Tec
+Over: 10
+ 
+Shot: No Shot
+Run scored: 1

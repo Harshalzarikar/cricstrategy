@@ -1,0 +1,21 @@
+Match: all_games_1389386_1389403.json
+Balls faced: 1
+Bowler: Ashwin
+Over: 50
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+beaten pushing forwards outside off
+And after all the talk about seam bowling here, all eight wickets so far have fallen to spin!
+
+Balls faced: 2
+Bowler: Ashwin
+Over: 50
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+looped up and defended carefully as Bashir untangles his limbs

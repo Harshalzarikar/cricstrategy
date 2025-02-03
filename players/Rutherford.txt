@@ -1,0 +1,4340 @@
+Match: all_games_1373558_1373578.json
+Balls faced: 1
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+lovely bowling, this one spins sharply into the gloves with Rutherford feeling for a drive. Buttler was convinced, umpire Reifer less so
+
+
+Balls faced: 2
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+tossed up wide of off, hint of spin and Rutherford swishes it to backward point
+
+
+Balls faced: 3
+Bowler: Jacks
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+floated full and straight, clipped back to the bowler
+
+
+Balls faced: 4
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+flighty stuff, 82kph on off stump, blocked
+
+
+Balls faced: 5
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Sherfane Rutherford is next man in
+
+looped up and defended
+
+
+Balls faced: 6
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+
+
+lovely bowling, this one spins sharply into the gloves with Rutherford feeling for a drive. Buttler was convinced, umpire Reifer less so
+
+
+Balls faced: 7
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+tossed up wide of off, hint of spin and Rutherford swishes it to backward point
+
+
+Balls faced: 8
+Bowler: Jacks
+Over: 22
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+floated full and straight, clipped back to the bowler
+
+
+Balls faced: 9
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+flighty stuff, 82kph on off stump, blocked
+
+
+Balls faced: 10
+Bowler: Jacks
+Over: 22
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+Sherfane Rutherford is next man in
+
+looped up and defended
+
+
+Balls faced: 11
+Bowler: Jacks
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Rutherford is OUT! caught
+c Crawley b Jacks
+Sherfane Rutherford c Crawley b Jacks 3 (9b 0x4 0x6 6m) SR: 33.33
+<B>holes out to wide long-on!</B> Rutherford attempts to unleash, but he never got hold of the stroke, nicely flighted from Jacks, dipping on the stroke and never looked like clearing the man in the deep, two metres in from the rope. Now West Indies are in some strife
+
+
+Balls faced: 12
+Bowler: Jacks
+Over: 24
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+Rutherford is OUT! caught
+c Crawley b Jacks
+Sherfane Rutherford c Crawley b Jacks 3 (9b 0x4 0x6 6m) SR: 33.33
+<B>holes out to wide long-on!</B> Rutherford attempts to unleash, but he never got hold of the stroke, nicely flighted from Jacks, dipping on the stroke and never looked like clearing the man in the deep, two metres in from the rope. Now West Indies are in some strife
+
+
+
+Match: all_games_1373558_1373581.json
+Balls faced: 1
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Drop and run to a vacant mid on. Moeen fields and there's a whiff of a run out chance at the nonstriker's end but he cannot gather cleanly
+
+
+Balls faced: 2
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Beaten all ends up! Muted appeal as this full delivery spins sharply past the outside edge
+
+
+Balls faced: 3
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Caught first slip! Albeit off the back thigh of Rutherford as Moeen gets one to dip, grip and bounce from around the wicket
+
+
+Balls faced: 4
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Back of the hand, Rutherford <em>almost skews onto his own stumps</em> as he tries to impart his own pace on the ball
+
+
+Balls faced: 5
+Bowler: Sam Curran
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Full, on leg stump, dug out to midwicket
+
+
+Balls faced: 6
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+Slower delivery on a length, <strong>carved away</strong> between the two off side boundary riders
+
+
+Balls faced: 7
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+Low full toss outside off, skewed away down to third where Livingstone does well to stop just in front of the sponge
+
+
+Balls faced: 8
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Drop and run to a vacant mid on. Moeen fields and there's a whiff of a run out chance at the nonstriker's end but he cannot gather cleanly
+
+
+Balls faced: 9
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Beaten all ends up! Muted appeal as this full delivery spins sharply past the outside edge
+
+
+Balls faced: 10
+Bowler: Moeen Ali
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Caught first slip! Albeit off the back thigh of Rutherford as Moeen gets one to dip, grip and bounce from around the wicket
+
+
+Balls faced: 11
+Bowler: Rashid
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Length, on off stump, bit of turn - conventional leggie - squeezed away into square leg. Rutherford decides against the two but then punches his bat upon realising they had time to sneak that second
+
+
+Balls faced: 12
+Bowler: Rashid
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Stunted LBW appeal as Rashid pins Rutherford with a googly that pitches just outside leg and pins the back leg
+
+
+Balls faced: 13
+Bowler: Rashid
+Over: 16
+Pitch Line: DOWN_LEG Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Flat, on leg stump, swept away in front of square
+
+
+Balls faced: 14
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Back of the hand, Rutherford <em>almost skews onto his own stumps</em> as he tries to impart his own pace on the ball
+
+
+Balls faced: 15
+Bowler: Sam Curran
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Full, on leg stump, dug out to midwicket
+
+
+Balls faced: 16
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 4
+
+
+Slower delivery on a length, <strong>carved away</strong> between the two off side boundary riders
+
+
+Balls faced: 17
+Bowler: Sam Curran
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: SQUARE_DRIVE
+Run scored: 2
+
+
+Low full toss outside off, skewed away down to third where Livingstone does well to stop just in front of the sponge
+
+
+Balls faced: 18
+Bowler: Mills
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Almost repeats the trick does Rutherford. Expects this one full, wide of off stump and reads the pace off too... but he almost finds the man at deep cover, who does well to field the ball on the half-volley
+
+
+Balls faced: 19
+Bowler: Mills
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+Quicker, shorter and <strong>flayed away</strong> over square leg! Rutherford is pre-empting Mills' deliveries here...
+
+
+Balls faced: 20
+Bowler: Mills
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 4
+Tymal Mills, who has only bowled one over which went for 11, is back in the attack
+
+Starts with a slowie... <strong>and Rutherford holds his shape and clubs down the ground!</strong> He was clearly expecting the change-up and with mid off up, it was something of a free hit
+
+
+Balls faced: 21
+Bowler: Rashid
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+Length, on off stump, bit of turn - conventional leggie - squeezed away into square leg. Rutherford decides against the two but then punches his bat upon realising they had time to sneak that second
+
+
+Balls faced: 22
+Bowler: Rashid
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Stunted LBW appeal as Rashid pins Rutherford with a googly that pitches just outside leg and pins the back leg
+
+
+Balls faced: 23
+Bowler: Rashid
+Over: 16
+Pitch Line: DOWN_LEG Length: FULL
+Shot: SWEEP_SHOT
+Run scored: 1
+
+
+Flat, on leg stump, swept away in front of square
+
+
+Balls faced: 24
+Bowler: Rashid
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+Three overs to go, Russell and Holder still to come. It's looking ominous for England unless Rashid can change the tide in this over
+
+Flighted, full and punched down to long on for a single
+
+
+Balls faced: 25
+Bowler: Mills
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Almost repeats the trick does Rutherford. Expects this one full, wide of off stump and reads the pace off too... but he almost finds the man at deep cover, who does well to field the ball on the half-volley
+
+
+Balls faced: 26
+Bowler: Mills
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+
+
+Quicker, shorter and <strong>flayed away</strong> over square leg! Rutherford is pre-empting Mills' deliveries here...
+
+
+Balls faced: 27
+Bowler: Mills
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 4
+Tymal Mills, who has only bowled one over which went for 11, is back in the attack
+
+Starts with a slowie... <strong>and Rutherford holds his shape and clubs down the ground!</strong> He was clearly expecting the change-up and with mid off up, it was something of a free hit
+
+
+Balls faced: 28
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+Rutherford is OUT! caught
+c Salt b Curran
+Sherfane Rutherford c Salt b Curran 29 (17b 2x4 2x6 27m) SR: 170.58
+<strong>Finally, pace off works!</strong> Similar to the previous delivery but, importantly, closer to the batter meaning he ends up dragging it across, straight to long on
+
+
+Balls faced: 29
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 6
+
+
+<strong>Bang!</strong> Curran goes back-of-the-hand, focussing on getting the ball on the right side of the tramline and ends up being sent into the top tier over long off!
+
+
+Balls faced: 30
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Another leg cutter spins the wrong side of the line - bowl it again, Sam
+
+Wide: 1
+Balls faced: 31
+Bowler: Sam Curran
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Very full, on leg stump, bunter down the ground to long on
+
+
+Balls faced: 32
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+Badar: "West Indies is currently red hot to carry this momentum into the world cup. Pure entertainment." Sam Curran replaces Mills
+
+<strong>Awful, awful cricket! </strong>Curran's wide with a full yorker that ends up nutmegging Buttler!
+
+Wide: 5
+Balls faced: 33
+Bowler: Rashid
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+Three overs to go, Russell and Holder still to come. It's looking ominous for England unless Rashid can change the tide in this over
+
+Flighted, full and punched down to long on for a single
+
+
+Balls faced: 34
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 0
+
+Rutherford is OUT! caught
+c Salt b Curran
+Sherfane Rutherford c Salt b Curran 29 (17b 2x4 2x6 27m) SR: 170.58
+<strong>Finally, pace off works!</strong> Similar to the previous delivery but, importantly, closer to the batter meaning he ends up dragging it across, straight to long on
+
+
+Balls faced: 35
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 6
+
+
+<strong>Bang!</strong> Curran goes back-of-the-hand, focussing on getting the ball on the right side of the tramline and ends up being sent into the top tier over long off!
+
+
+Balls faced: 36
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Another leg cutter spins the wrong side of the line - bowl it again, Sam
+
+Wide: 1
+Balls faced: 37
+Bowler: Sam Curran
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Very full, on leg stump, bunter down the ground to long on
+
+
+Balls faced: 38
+Bowler: Sam Curran
+Over: 19
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+Badar: "West Indies is currently red hot to carry this momentum into the world cup. Pure entertainment." Sam Curran replaces Mills
+
+<strong>Awful, awful cricket! </strong>Curran's wide with a full yorker that ends up nutmegging Buttler!
+
+Wide: 5
+
+Match: all_games_1373558_1373582.json
+Balls faced: 1
+Bowler: Sam Curran
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<b>cleaned out over long-off!</b> In the slot outside off and Rutherford dispatches it easy as you like. West Indies' seventh six of the powerplay (with an over still to come)
+
+
+Balls faced: 2
+Bowler: Sam Curran
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+shortish and swatted out to deep midwicket
+
+
+Balls faced: 3
+Bowler: Sam Curran
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+Sherfane Rutherford is in next
+
+<b>slapped through the covers, beats the dive!</b> One hand off the bat but still plenty enough power, Rutherford off the mark with a boundary first ball
+
+
+Balls faced: 4
+Bowler: Woakes
+Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+steps outside leg stump, Woakes goes pace on into the pitch. Swing and a miss from Rutherford this time
+"WI are 4 down already... shouldn't be much longer..." PhilFour thinks it's all over
+
+Balls faced: 5
+Bowler: Woakes
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 4
+
+
+<b>slower ball, smeared through midwicket!</b> Picks the change-up and rocks back to belabour it through the infield
+
+
+Balls faced: 6
+Bowler: Sam Curran
+Over: 5
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<b>cleaned out over long-off!</b> In the slot outside off and Rutherford dispatches it easy as you like. West Indies' seventh six of the powerplay (with an over still to come)
+
+
+Balls faced: 7
+Bowler: Sam Curran
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+shortish and swatted out to deep midwicket
+
+
+Balls faced: 8
+Bowler: Sam Curran
+Over: 5
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+Sherfane Rutherford is in next
+
+<b>slapped through the covers, beats the dive!</b> One hand off the bat but still plenty enough power, Rutherford off the mark with a boundary first ball
+
+
+Balls faced: 9
+Bowler: Rehan
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+<b>West Indies raise their 100 in the seventh</b>... Eeesh!
+
+looped up on middle and leg, worked for a single this time
+
+
+Balls faced: 10
+Bowler: Rehan
+Over: 7
+Pitch Line: WIDE_DOWN_LEG Length: SHORT
+Shot: REVERSE_PULL
+Run scored: 4
+
+
+jumps outside leg to reverse-hit, <b>top-edges past the keeper for four more!</b> Not where he was aiming in the slightest but they all count
+
+
+Balls faced: 11
+Bowler: Rehan
+Over: 7
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+<b>flat on leg stump and hacked past short fine leg!</b> Rutherford hits with the spin and swings it away to the rope
+
+
+Balls faced: 12
+Bowler: Rehan
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+<b>drops short again and hauled through midwicket!</b> Quickly on to the back foot and shovelled wide of long-on for four
+
+
+Balls faced: 13
+Bowler: Woakes
+Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+steps outside leg stump, Woakes goes pace on into the pitch. Swing and a miss from Rutherford this time
+"WI are 4 down already... shouldn't be much longer..." PhilFour thinks it's all over
+
+Balls faced: 14
+Bowler: Woakes
+Over: 6
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 4
+
+
+<b>slower ball, smeared through midwicket!</b> Picks the change-up and rocks back to belabour it through the infield
+
+
+Balls faced: 15
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+pushed through and heaved out towards wide long-on. Brook reels this one in
+
+
+Balls faced: 16
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+googly, spins away past Salt as Rutherford aims an almighty reverse-hit and misses... Just a couple as Topley gives chase from short third
+
+Byes: 2
+Balls faced: 17
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+out the front of the hand, 93kph and Rutherford steps away, slaps to cover
+
+
+Balls faced: 18
+Bowler: Rehan
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+<b>West Indies raise their 100 in the seventh</b>... Eeesh!
+
+looped up on middle and leg, worked for a single this time
+
+
+Balls faced: 19
+Bowler: Rehan
+Over: 7
+Pitch Line: WIDE_DOWN_LEG Length: SHORT
+Shot: REVERSE_PULL
+Run scored: 4
+
+
+jumps outside leg to reverse-hit, <b>top-edges past the keeper for four more!</b> Not where he was aiming in the slightest but they all count
+
+
+Balls faced: 20
+Bowler: Rehan
+Over: 7
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+<b>flat on leg stump and hacked past short fine leg!</b> Rutherford hits with the spin and swings it away to the rope
+
+
+Balls faced: 21
+Bowler: Rehan
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: PULL
+Run scored: 4
+
+
+<b>drops short again and hauled through midwicket!</b> Quickly on to the back foot and shovelled wide of long-on for four
+
+
+Balls faced: 22
+Bowler: Rehan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: REVERSE_PULL
+Run scored: 0
+
+Rutherford is OUT! lbw
+lbw b Rehan Ahmed
+Sherfane Rutherford lbw b Rehan Ahmed 36 (15b 5x4 2x6 24m) SR: 240
+goes for the reverse-hoick, hit on the pads... given! But Rutherford <b>reviews</b> it straight away. He was in front of the pegs but was it too high? Struck on the left leg as he collapsed to the on side. <b>Hitting middle stump, says ball-tracking! </b>Nigel Duguid raises his finger again and Rutherford storms off in a funk. Probably because he has given Rehan a freebie rather than over the decision
+
+
+Balls faced: 23
+Bowler: Rehan
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<b>googly, hauled over deep midwicket!</b> Hits against the spin but still has enough to just clear the rope
+
+
+Balls faced: 24
+Bowler: Rehan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 1
+Rehan continues
+
+<b>slogged leg side, dropped in the deep!</b> Curran made the ground running in off the rope but seemed to misjudge it, couldn't get his hands under the ball
+
+
+Balls faced: 25
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+pushed through and heaved out towards wide long-on. Brook reels this one in
+
+
+Balls faced: 26
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: REVERSE_SWEEP
+Run scored: 0
+
+
+googly, spins away past Salt as Rutherford aims an almighty reverse-hit and misses... Just a couple as Topley gives chase from short third
+
+Byes: 2
+Balls faced: 27
+Bowler: Rashid
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+out the front of the hand, 93kph and Rutherford steps away, slaps to cover
+
+
+Balls faced: 28
+Bowler: Rehan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: REVERSE_PULL
+Run scored: 0
+
+Rutherford is OUT! lbw
+lbw b Rehan Ahmed
+Sherfane Rutherford lbw b Rehan Ahmed 36 (15b 5x4 2x6 24m) SR: 240
+goes for the reverse-hoick, hit on the pads... given! But Rutherford <b>reviews</b> it straight away. He was in front of the pegs but was it too high? Struck on the left leg as he collapsed to the on side. <b>Hitting middle stump, says ball-tracking! </b>Nigel Duguid raises his finger again and Rutherford storms off in a funk. Probably because he has given Rehan a freebie rather than over the decision
+
+
+Balls faced: 29
+Bowler: Rehan
+Over: 9
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<b>googly, hauled over deep midwicket!</b> Hits against the spin but still has enough to just clear the rope
+
+
+Balls faced: 30
+Bowler: Rehan
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 1
+Rehan continues
+
+<b>slogged leg side, dropped in the deep!</b> Curran made the ground running in off the rope but seemed to misjudge it, couldn't get his hands under the ball
+
+
+
+Match: all_games_1373558_1373583.json
+Balls faced: 1
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+on the stumps, not much in the way of turn, helped away into the leg side for one more
+
+
+Balls faced: 2
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+pushed through straight and clipped through the leg side
+
+
+Balls faced: 3
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+quicker and skidding on to hit the front pad as Rutherford flicks across it. Moeen roars an appeal but looked to be heading down leg
+
+
+Balls faced: 4
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Slip is in
+
+round the wicket to the lefty, jabbed back
+
+
+Balls faced: 5
+Bowler: Rashid
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+pushed back to the bowler's left, Rashid pounces on it
+Time for <b>drinks</b>, West Indies steady enough but <i>just</i> beginning to fall behind the rate. Here's Miller to see whether they can finish this off and claim the series honours...
+
+Balls faced: 6
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+straightening on the stumps, pushed through a smidge quicker, defended going back
+
+
+Balls faced: 7
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+very full and Rutherford leans out, clips wide of long-on for one
+
+
+Balls faced: 8
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+floated up and turned off the pads for a couple behind square
+
+
+Balls faced: 9
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+flighted legbreak from over the wicket, Rutherford misses playing across the line. Not given by Leslie Reifer but England <b>review</b>. Spinning too much, maybe? Looked a reasonable appeal... but the umpire was spot on, turning well past leg stump! England lose that one
+
+
+Balls faced: 10
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+on the stumps, not much in the way of turn, helped away into the leg side for one more
+
+
+Balls faced: 11
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+pushed through straight and clipped through the leg side
+
+
+Balls faced: 12
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+quicker and skidding on to hit the front pad as Rutherford flicks across it. Moeen roars an appeal but looked to be heading down leg
+
+
+Balls faced: 13
+Bowler: Moeen Ali
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Slip is in
+
+round the wicket to the lefty, jabbed back
+
+
+Balls faced: 14
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+inside-out, donked up and over extra cover, excellent placement with oodles of wristy elevation. Woakes tracks round well but can't get a firm enough hand on the ball. The first boundary in four overs
+
+
+Balls faced: 15
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+rocking back, followed on the angle from round the wicket, slapped uppishly out to deep cover
+
+
+Balls faced: 16
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+makes room to leg, Moeen follows him, a cramped pull to deep backward square ensues
+
+
+Balls faced: 17
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+round the wicket, sliding in at off stump, guided off the back foot to point
+
+
+Balls faced: 18
+Bowler: Rashid
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+pushed back to the bowler's left, Rashid pounces on it
+Time for <b>drinks</b>, West Indies steady enough but <i>just</i> beginning to fall behind the rate. Here's Miller to see whether they can finish this off and claim the series honours...
+
+Balls faced: 19
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+straightening on the stumps, pushed through a smidge quicker, defended going back
+
+
+Balls faced: 20
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: FULL_TOSS
+Shot: ON_DRIVE
+Run scored: 1
+
+
+very full and Rutherford leans out, clips wide of long-on for one
+
+
+Balls faced: 21
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+floated up and turned off the pads for a couple behind square
+
+
+Balls faced: 22
+Bowler: Rashid
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+flighted legbreak from over the wicket, Rutherford misses playing across the line. Not given by Leslie Reifer but England <b>review</b>. Spinning too much, maybe? Looked a reasonable appeal... but the umpire was spot on, turning well past leg stump! England lose that one
+
+
+Balls faced: 23
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+rocks back on the cut, can't beat backward point. Good recovery but still nine off the over
+BigC-Dubya: "I'm down to my last 2 drinks, I feel this will be wrapped up by then." It's not even Christmas Eve yet. I recommend you restock urgently
+
+Balls faced: 24
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+round the wicket, slides past the off stump, Rutherford has a flat-footed feel outside his eyeline
+
+
+Balls faced: 25
+Bowler: Rashid
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+<B>violence!</B> Fuller length from Rashid, Rutherford rocks back for extra humpty and cuffs a full-blooded smack high down the ground. That's a key blow
+
+
+Balls faced: 26
+Bowler: Rashid
+Over: 12
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+chipped off the pads, finds space at deep square and they are back for the second
+
+
+Balls faced: 27
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+massive wipe through the line as Rashid fires in the slider, pushed across the left-hander's bows. Salt gathers well, but no edge
+
+
+Balls faced: 28
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+inside-out, donked up and over extra cover, excellent placement with oodles of wristy elevation. Woakes tracks round well but can't get a firm enough hand on the ball. The first boundary in four overs
+
+
+Balls faced: 29
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+rocking back, followed on the angle from round the wicket, slapped uppishly out to deep cover
+
+
+Balls faced: 30
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+makes room to leg, Moeen follows him, a cramped pull to deep backward square ensues
+
+
+Balls faced: 31
+Bowler: Moeen Ali
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+round the wicket, sliding in at off stump, guided off the back foot to point
+
+
+Balls faced: 32
+Bowler: Rehan
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+that's too short from Rehan, round the wicket and turning into Rutherford's arc, but he doesn't connect properly on his launch over midwicket
+Sam J: "We need to enjoy this England T20 side for what it is - entertaining "
+
+Balls faced: 33
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+rocks back on the cut, can't beat backward point. Good recovery but still nine off the over
+BigC-Dubya: "I'm down to my last 2 drinks, I feel this will be wrapped up by then." It's not even Christmas Eve yet. I recommend you restock urgently
+
+Balls faced: 34
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+round the wicket, slides past the off stump, Rutherford has a flat-footed feel outside his eyeline
+
+
+Balls faced: 35
+Bowler: Rashid
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 6
+
+
+<B>violence!</B> Fuller length from Rashid, Rutherford rocks back for extra humpty and cuffs a full-blooded smack high down the ground. That's a key blow
+
+
+Balls faced: 36
+Bowler: Rashid
+Over: 12
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+chipped off the pads, finds space at deep square and they are back for the second
+
+
+Balls faced: 37
+Bowler: Rashid
+Over: 12
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+massive wipe through the line as Rashid fires in the slider, pushed across the left-hander's bows. Salt gathers well, but no edge
+
+
+Balls faced: 38
+Bowler: Sam Curran
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+opens the face outside off, jabs another single to deep third
+
+
+Balls faced: 39
+Bowler: Sam Curran
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+very full, angled into the pads, can't work this one away
+Neal: "You are the chosen one, Rehan. Go get 'em, kid." I mean, he truly is... might take some moulding, but crumbs... the talent is palpable!
+
+Balls faced: 40
+Bowler: Sam Curran
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+too short from Curran, and Rutherford swivels up into the stroke, gets inside the line to lift it high over fine leg!
+
+
+Balls faced: 41
+Bowler: Sam Curran
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+full length, hint of shape from leg to middle, tapped urgently to deep midwicket and good running brings two
+Duck: "Maybe they can win more "moral series" by doing so, Sam!" They are racking them up, it's true!
+
+Balls faced: 42
+Bowler: Rehan
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 1
+
+
+that's too short from Rehan, round the wicket and turning into Rutherford's arc, but he doesn't connect properly on his launch over midwicket
+Sam J: "We need to enjoy this England T20 side for what it is - entertaining "
+
+Balls faced: 43
+Bowler: Rashid
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+Rutherford is OUT! caught
+c Curran b Rashid
+Sherfane Rutherford c Curran b Rashid 30 (24b 1x4 2x6 24m) SR: 125
+<B>inside-out slap and gobbled up at extra cover!</B> Round the wicket, googly on a full length, Rutherford timed the pants off that but Curran reached to his left and swallowed the offering! The timing of Rashid's return works in the short-term, as a very handy innings is sawn off in its prime
+
+
+Balls faced: 44
+Bowler: Sam Curran
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DAB
+Run scored: 1
+
+
+opens the face outside off, jabs another single to deep third
+
+
+Balls faced: 45
+Bowler: Sam Curran
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+very full, angled into the pads, can't work this one away
+Neal: "You are the chosen one, Rehan. Go get 'em, kid." I mean, he truly is... might take some moulding, but crumbs... the talent is palpable!
+
+Balls faced: 46
+Bowler: Sam Curran
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+too short from Curran, and Rutherford swivels up into the stroke, gets inside the line to lift it high over fine leg!
+
+
+Balls faced: 47
+Bowler: Sam Curran
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 2
+
+
+full length, hint of shape from leg to middle, tapped urgently to deep midwicket and good running brings two
+Duck: "Maybe they can win more "moral series" by doing so, Sam!" They are racking them up, it's true!
+
+Balls faced: 48
+Bowler: Rashid
+Over: 15
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+Rutherford is OUT! caught
+c Curran b Rashid
+Sherfane Rutherford c Curran b Rashid 30 (24b 1x4 2x6 24m) SR: 125
+<B>inside-out slap and gobbled up at extra cover!</B> Round the wicket, googly on a full length, Rutherford timed the pants off that but Curran reached to his left and swallowed the offering! The timing of Rashid's return works in the short-term, as a very handy innings is sawn off in its prime
+
+
+
+Match: all_games_1375837_1375850.json
+Balls faced: 1
+Bowler: Zampa
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+a googly outside off, square cuts to deep point
+That's probably a matchwinner over (and spell)
+
+Balls faced: 2
+Bowler: Zampa
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+full on the leg stump, takes the pad to the on side
+
+Legbyes: 1
+Balls faced: 3
+Bowler: Abbott
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Rutherford is OUT! caught
+c sub (AM Hardie) b Abbott
+Sherfane Rutherford c sub (AM Hardie) b Abbott 7 (4b 0x4 1x6 8m) SR: 175
+<strong>carved to backward point</strong>...Abbott now in the wickets. Length ball wider outside off, he hacks across the line and it takes a top edge into the off side
+
+
+Balls faced: 4
+Bowler: Abbott
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+on the pads and Rutherford swings this over deep square leg
+
+
+Balls faced: 5
+Bowler: Abbott
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: PUSH
+Run scored: 0
+Mr.Z: "Zamps once again proving why he's such a good white-ball bowler...offers great control through the middle overs and picks up wickets...truly an unsung hero amidst the stars" Reckon he's a star in his own right
+
+very wide outside off
+
+Wide: 1
+Balls faced: 6
+Bowler: Zampa
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+a googly outside off, square cuts to deep point
+That's probably a matchwinner over (and spell)
+
+Balls faced: 7
+Bowler: Zampa
+Over: 16
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+full on the leg stump, takes the pad to the on side
+
+Legbyes: 1
+Balls faced: 8
+Bowler: Abbott
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+Rutherford is OUT! caught
+c sub (AM Hardie) b Abbott
+Sherfane Rutherford c sub (AM Hardie) b Abbott 7 (4b 0x4 1x6 8m) SR: 175
+<strong>carved to backward point</strong>...Abbott now in the wickets. Length ball wider outside off, he hacks across the line and it takes a top edge into the off side
+
+
+Balls faced: 9
+Bowler: Abbott
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+on the pads and Rutherford swings this over deep square leg
+
+
+Balls faced: 10
+Bowler: Abbott
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: PUSH
+Run scored: 0
+Mr.Z: "Zamps once again proving why he's such a good white-ball bowler...offers great control through the middle overs and picks up wickets...truly an unsung hero amidst the stars" Reckon he's a star in his own right
+
+very wide outside off
+
+Wide: 1
+
+Match: all_games_1375837_1375851.json
+Balls faced: 1
+Bowler: Johnson
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+Rutherford is OUT! caught
+c †Wade b Johnson
+Sherfane Rutherford c †Wade b Johnson 0 (2b 0x4 0x6 2m) SR: 0
+<strong>caught behind! A cracker of a delivery!</strong> 143kph, back of a length, angled in, seaming away, he's squared up trying to defend, a little edge floats through to Wade. Test match style dismissal
+
+
+Balls faced: 2
+Bowler: Johnson
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Two slips
+
+143kph, back of a length on off, he's back and across to defend
+
+
+Balls faced: 3
+Bowler: Johnson
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+Rutherford is OUT! caught
+c †Wade b Johnson
+Sherfane Rutherford c †Wade b Johnson 0 (2b 0x4 0x6 2m) SR: 0
+<strong>caught behind! A cracker of a delivery!</strong> 143kph, back of a length, angled in, seaming away, he's squared up trying to defend, a little edge floats through to Wade. Test match style dismissal
+
+
+Balls faced: 4
+Bowler: Johnson
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Two slips
+
+143kph, back of a length on off, he's back and across to defend
+
+
+
+Match: all_games_1375837_1375852.json
+Balls faced: 1
+Bowler: Zampa
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+Slip in for Sherfane Rutherford
+
+leg break on off, 86kph, he plays around his front pad to knock it to midwicket
+
+
+Balls faced: 2
+Bowler: Hardie
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+130kph, back of a length on off, he's back to defend back to the bowler
+
+
+Balls faced: 3
+Bowler: Hardie
+Over: 9
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+full outside leg, it comes off pad and Rutherford slips and falls on all fours. But he has time to get up and run a leg bye
+
+Legbyes: 1
+Balls faced: 4
+Bowler: Zampa
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+Slip in for Sherfane Rutherford
+
+leg break on off, 86kph, he plays around his front pad to knock it to midwicket
+
+
+Balls faced: 5
+Bowler: Hardie
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+130kph, back of a length on off, he's back to defend back to the bowler
+
+
+Balls faced: 6
+Bowler: Hardie
+Over: 9
+Pitch Line: DOWN_LEG Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+full outside leg, it comes off pad and Rutherford slips and falls on all fours. But he has time to get up and run a leg bye
+
+Legbyes: 1
+Balls faced: 7
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+angled into the off side, extra turn and bounce on this one
+Hayes: "There appears to be a sub-fielder on with one of the greatest names of all time. Could you share it with everyone, please?" - Douwtjie Hoogenboezem
+
+Balls faced: 8
+Bowler: Zampa
+Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fired across outside off, Rutherford swings and misses. Zampa did well there
+
+
+Balls faced: 9
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+worked off the pads through midwicket
+
+
+Balls faced: 10
+Bowler: Zampa
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full outside off, driven to cover
+
+
+Balls faced: 11
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+Thanks Alex. West Indies' run rate is good. Wickets lost, less so
+
+rocks back and pulls this clean over long on, was sure off the bat whether he'd got it all
+
+
+Balls faced: 12
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+short of a length at off stump, leans back and guides to short third. A super over from Behrendorff
+
+
+Balls faced: 13
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+sends down the bouncer and it's ruled to be too short
+
+Wide: 1
+Balls faced: 14
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+gets forward and pushes a length ball square into the off side. The throw clatters into Russell's bat
+
+
+Balls faced: 15
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+uses his feet, swings across the line and can only get a bottom edge back to the bowler. Three dots in a row
+
+
+Balls faced: 16
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+good length at off stump, 126kph, angled to backward point
+
+
+Balls faced: 17
+Bowler: Behrendorff
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Behrendorff back into the attack
+
+good start, back of a length, straight, some late movement which takes a leading edge
+
+
+Balls faced: 18
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+angled into the off side, extra turn and bounce on this one
+Hayes: "There appears to be a sub-fielder on with one of the greatest names of all time. Could you share it with everyone, please?" - Douwtjie Hoogenboezem
+
+Balls faced: 19
+Bowler: Zampa
+Over: 11
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+fired across outside off, Rutherford swings and misses. Zampa did well there
+
+
+Balls faced: 20
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+
+
+worked off the pads through midwicket
+
+
+Balls faced: 21
+Bowler: Zampa
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+full outside off, driven to cover
+
+
+Balls faced: 22
+Bowler: Zampa
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+Thanks Alex. West Indies' run rate is good. Wickets lost, less so
+
+rocks back and pulls this clean over long on, was sure off the bat whether he'd got it all
+
+
+Balls faced: 23
+Bowler: Hardie
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<b>gets all of this!</b> Length at the stumps, he swings powerfully over the leg side and this goes a long way back
+
+
+Balls faced: 24
+Bowler: Hardie
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+full outside off, steered through point, some pace off at 112kph
+
+
+Balls faced: 25
+Bowler: Hardie
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+pushed across wide outside off, left alone, inside the tramline...pressure growing on Rutherford
+
+
+Balls faced: 26
+Bowler: Hardie
+Over: 13
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+moves outside leg and pulls at a short-of-a-length ball, gets it straight to the bowler
+
+
+Balls faced: 27
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: DAB
+Run scored: 0
+
+
+short of a length at off stump, leans back and guides to short third. A super over from Behrendorff
+
+
+Balls faced: 28
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+sends down the bouncer and it's ruled to be too short
+
+Wide: 1
+Balls faced: 29
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+gets forward and pushes a length ball square into the off side. The throw clatters into Russell's bat
+
+
+Balls faced: 30
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+
+uses his feet, swings across the line and can only get a bottom edge back to the bowler. Three dots in a row
+
+
+Balls faced: 31
+Bowler: Behrendorff
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+good length at off stump, 126kph, angled to backward point
+
+
+Balls faced: 32
+Bowler: Behrendorff
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+Behrendorff back into the attack
+
+good start, back of a length, straight, some late movement which takes a leading edge
+
+
+Balls faced: 33
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+worked off the pads through square leg
+
+
+Balls faced: 34
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+a googly at off stump, defended
+
+
+Balls faced: 35
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+into the pitch short of a length, pulled to deep midwicket
+
+
+Balls faced: 36
+Bowler: Hardie
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: SLOG_SHOT
+Run scored: 6
+
+
+<b>gets all of this!</b> Length at the stumps, he swings powerfully over the leg side and this goes a long way back
+
+
+Balls faced: 37
+Bowler: Hardie
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+
+
+full outside off, steered through point, some pace off at 112kph
+
+
+Balls faced: 38
+Bowler: Hardie
+Over: 13
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+pushed across wide outside off, left alone, inside the tramline...pressure growing on Rutherford
+
+
+Balls faced: 39
+Bowler: Hardie
+Over: 13
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 0
+
+
+moves outside leg and pulls at a short-of-a-length ball, gets it straight to the bowler
+
+
+Balls faced: 40
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 0
+
+
+short outside off, Rutherford jumps into a cut and can't make contact
+A solid debut outing for Bartlett
+
+Balls faced: 41
+Bowler: Bartlett
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+back of a length at off stump, he muscles a pull wide of long on, another pace-off delivery from Bartlett
+
+
+Balls faced: 42
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+skews a full delivery towards mid-on, gets Russell back on strike
+
+
+Balls faced: 43
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+Bartlett for his last over
+
+full and wide outside off, Rutherford gave himself room and then couldn't reach it
+
+
+Balls faced: 44
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+worked off the pads through square leg
+
+
+Balls faced: 45
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+a googly at off stump, defended
+
+
+Balls faced: 46
+Bowler: Zampa
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+into the pitch short of a length, pulled to deep midwicket
+
+
+Balls faced: 47
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+squeezes a yorker into the leg side off the toe end
+
+
+Balls faced: 48
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+full and straight, 141kph, takes the pad into the off side
+
+
+Balls faced: 49
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+<b>and another!</b> Short at the body, this time he swivels on a hook and sends it well back over fine leg
+
+
+Balls faced: 50
+Bowler: Johnson
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: CUT_SHOT
+Run scored: 6
+
+
+<b>a one-handed six!</b> Back of a length outside off, Rutherford again moving to the leg side but is able to slice this over deep wide third even though the bottom hand came off the bat
+
+
+Balls faced: 51
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 0
+
+
+short outside off, Rutherford jumps into a cut and can't make contact
+A solid debut outing for Bartlett
+
+Balls faced: 52
+Bowler: Bartlett
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+
+
+back of a length at off stump, he muscles a pull wide of long on, another pace-off delivery from Bartlett
+
+
+Balls faced: 53
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+skews a full delivery towards mid-on, gets Russell back on strike
+
+
+Balls faced: 54
+Bowler: Bartlett
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+Bartlett for his last over
+
+full and wide outside off, Rutherford gave himself room and then couldn't reach it
+
+
+Balls faced: 55
+Bowler: Hardie
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+keeps it very wide outside off, gets it on the full and drives to cover on the ring
+
+
+Balls faced: 56
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 4
+
+
+beats short third! Reaching away from his body, there's a bit of outside edge about this but the boundary takes to a <b>maiden T20I fifty from 33 balls</b>
+
+
+Balls faced: 57
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+driven up and over point this time, not quite as well timed
+Dennis: "How are the conditions? Is it a great pitch or are West Indies batting well or a bit of both?" Good pitch, yep. And this has been a very good partnership
+
+Balls faced: 58
+Bowler: Hardie
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+very wide outside off, Rutherford reaches for it and plays a cracking square drive backward of point, beats the sweeper despite David's best effort
+
+
+Balls faced: 59
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+big full toss outside off, he can't connect and is angry with himself
+
+
+Balls faced: 60
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>stand and deliver!</strong> Awesome power. Drives on the up against a slower ball and sends it rocketing through the covers
+
+
+Balls faced: 61
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+squeezes a yorker into the leg side off the toe end
+
+
+Balls faced: 62
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+full and straight, 141kph, takes the pad into the off side
+
+
+Balls faced: 63
+Bowler: Johnson
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: SHORT
+Shot: HOOK
+Run scored: 6
+
+
+<b>and another!</b> Short at the body, this time he swivels on a hook and sends it well back over fine leg
+
+
+Balls faced: 64
+Bowler: Johnson
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: CUT_SHOT
+Run scored: 6
+
+
+<b>a one-handed six!</b> Back of a length outside off, Rutherford again moving to the leg side but is able to slice this over deep wide third even though the bottom hand came off the bat
+
+
+Balls faced: 65
+Bowler: Behrendorff
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+130kph, full outside leg stump, beats the stumps and the batter on the inside of him he had given himself so much room
+jagpreet: "was skeptical of Rutherford for a long time but this has been a very refreshing knock to see. has put Winides in a solid position."
+
+Balls faced: 66
+Bowler: Behrendorff
+Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
+Shot: FLICK
+Run scored: 1
+
+
+gets the yorker in at leg stump, dug out backward of square on the leg side
+
+
+Balls faced: 67
+Bowler: Behrendorff
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: FLICK
+Run scored: 2
+
+
+goes full and straight, driven through midwicket and he keeps the strike
+
+
+Balls faced: 68
+Bowler: Behrendorff
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 4
+
+
+length outside off this time, leans back and carves over backward point, a legspinning slower-ball from Behrendorff
+
+
+Balls faced: 69
+Bowler: Behrendorff
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 6
+200 well within reach now for West Indies. Which is a great effort considering they were 17 for 3. Behrendorff for his last
+
+add another six onto the tally! A length ball angling into the pads, Rutherford uses the angle and picks it up over deep backward square
+
+
+Balls faced: 70
+Bowler: Hardie
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+keeps it very wide outside off, gets it on the full and drives to cover on the ring
+
+
+Balls faced: 71
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 4
+
+
+beats short third! Reaching away from his body, there's a bit of outside edge about this but the boundary takes to a <b>maiden T20I fifty from 33 balls</b>
+
+
+Balls faced: 72
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+driven up and over point this time, not quite as well timed
+Dennis: "How are the conditions? Is it a great pitch or are West Indies batting well or a bit of both?" Good pitch, yep. And this has been a very good partnership
+
+Balls faced: 73
+Bowler: Hardie
+Over: 17
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: YORKER
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+very wide outside off, Rutherford reaches for it and plays a cracking square drive backward of point, beats the sweeper despite David's best effort
+
+
+Balls faced: 74
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+big full toss outside off, he can't connect and is angry with himself
+
+
+Balls faced: 75
+Bowler: Hardie
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>stand and deliver!</strong> Awesome power. Drives on the up against a slower ball and sends it rocketing through the covers
+
+
+Balls faced: 76
+Bowler: Behrendorff
+Over: 18
+Pitch Line: DOWN_LEG Length: FULL
+Shot: ON_DRIVE
+Run scored: 0
+
+
+130kph, full outside leg stump, beats the stumps and the batter on the inside of him he had given himself so much room
+jagpreet: "was skeptical of Rutherford for a long time but this has been a very refreshing knock to see. has put Winides in a solid position."
+
+Balls faced: 77
+Bowler: Behrendorff
+Over: 18
+Pitch Line: DOWN_LEG Length: YORKER
+Shot: FLICK
+Run scored: 1
+
+
+gets the yorker in at leg stump, dug out backward of square on the leg side
+
+
+Balls faced: 78
+Bowler: Behrendorff
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: FLICK
+Run scored: 2
+
+
+goes full and straight, driven through midwicket and he keeps the strike
+
+
+Balls faced: 79
+Bowler: Behrendorff
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: UPPER_CUT
+Run scored: 4
+
+
+length outside off this time, leans back and carves over backward point, a legspinning slower-ball from Behrendorff
+
+
+Balls faced: 80
+Bowler: Behrendorff
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 6
+200 well within reach now for West Indies. Which is a great effort considering they were 17 for 3. Behrendorff for his last
+
+add another six onto the tally! A length ball angling into the pads, Rutherford uses the angle and picks it up over deep backward square
+
+
+Balls faced: 81
+Bowler: Johnson
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 1
+Johnson to close out
+
+gets bottom edge on a pull
+
+
+Balls faced: 82
+Bowler: Johnson
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SHOT
+Run scored: 1
+Johnson to close out
+
+gets bottom edge on a pull
+
+
+
+Match: all_games_1411166_1415702.json
+Balls faced: 1
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+On the up back to the bowler... but just beyond his dive! Rutherford had hard hands into that but it was too far from Amini to be considered a chance
+
+
+Balls faced: 2
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Sharper - hint of a googly? - defended back to the bowler
+
+
+Balls faced: 3
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Pranali: "Time to see how this decision works out :Sherfane Rutherford over Shimron Hetmyer"
+
+Bit of turn off a full length, into middle stump, defended out to cover
+
+
+Balls faced: 4
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Rutherford is OUT! caught
+c †Doriga b Vala
+Sherfane Rutherford c †Doriga b Vala 2 (7b 0x4 0x6 6m) SR: 28.57
+<strong>GOT HIM!</strong> The good news for Rutherford is this time he doesn't cut into the ground. The bad news is he's cut straight into right thigh of the keeper Doriga, who ends up keeping the ball in the air and completing the catch. PNG - are you really about to do this?!
+
+
+Balls faced: 5
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Darted into a length, Rutherford duffs a cut into the ground once more
+
+
+Balls faced: 6
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Similar length, driven this time off the back foot out to deep cover
+
+
+Balls faced: 7
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Around the wicket to Rutherford, who cuts a length ball straight into the ground
+
+
+Balls faced: 8
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+On the up back to the bowler... but just beyond his dive! Rutherford had hard hands into that but it was too far from Amini to be considered a chance
+
+
+Balls faced: 9
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+Sharper - hint of a googly? - defended back to the bowler
+
+
+Balls faced: 10
+Bowler: Amini
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+Pranali: "Time to see how this decision works out :Sherfane Rutherford over Shimron Hetmyer"
+
+Bit of turn off a full length, into middle stump, defended out to cover
+
+
+Balls faced: 11
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Rutherford is OUT! caught
+c †Doriga b Vala
+Sherfane Rutherford c †Doriga b Vala 2 (7b 0x4 0x6 6m) SR: 28.57
+<strong>GOT HIM!</strong> The good news for Rutherford is this time he doesn't cut into the ground. The bad news is he's cut straight into right thigh of the keeper Doriga, who ends up keeping the ball in the air and completing the catch. PNG - are you really about to do this?!
+
+
+Balls faced: 12
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Darted into a length, Rutherford duffs a cut into the ground once more
+
+
+Balls faced: 13
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Similar length, driven this time off the back foot out to deep cover
+
+
+Balls faced: 14
+Bowler: Vala
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Around the wicket to Rutherford, who cuts a length ball straight into the ground
+
+
+
+Match: all_games_1411166_1415718.json
+Balls faced: 1
+Bowler: Nakrani
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+fullish, pushed into the pads. Rutherford works it into the mid wicket region and gets off the mark
+
+
+Balls faced: 2
+Bowler: Nakrani
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Rutherford joins his skipper
+
+slower ball on a length on leg stump. Rutherford does not quite pick it and gets squared up. Pings into his pads
+
+
+Balls faced: 3
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+angled in on a length on leg stump. Rutherford goes back and pushes it towards long on
+
+
+Balls faced: 4
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>Rutherford gets his first maximum!</strong> Half-tracker on middle and leg. Rutherford cannot believe his luck and rocks back to pound it over cow corner!
+
+
+Balls faced: 5
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+length just outside off. Rutherford opts to stay back before jabbing it towards deep cover point
+
+
+Balls faced: 6
+Bowler: Masaba
+Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+slides this down leg. Rutherford lets it go and the umpire has to indulge in some exercise
+
+Wide: 1
+Balls faced: 7
+Bowler: Masaba
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Masaba is back. Around the wicket to Rutherford
+
+full on middle and off. Rutherford comes forward and defends
+
+
+Balls faced: 8
+Bowler: Nakrani
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+fullish, pushed into the pads. Rutherford works it into the mid wicket region and gets off the mark
+
+
+Balls faced: 9
+Bowler: Nakrani
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Rutherford joins his skipper
+
+slower ball on a length on leg stump. Rutherford does not quite pick it and gets squared up. Pings into his pads
+
+
+Balls faced: 10
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+cutter on a back of a length outside off. Rutherford jabs it towards point
+
+
+Balls faced: 11
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: STEERED
+Run scored: 1
+
+
+into the blockhole outside off. Rutherford squeezes it out towards backward point
+
+
+Balls faced: 12
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+slower ball on a length outside off. Rutherford taps it off the front foot towards backward point
+
+
+Balls faced: 13
+Bowler: Nakrani
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Nakrani to continue
+
+<strong>starts off the over with a boundary!</strong> Off-pace but this is too short on middle and leg. Rutherford picks it, delays his stroke and pulls it past deep backward square leg!
+
+
+Balls faced: 14
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+angled in on a length on leg stump. Rutherford goes back and pushes it towards long on
+
+
+Balls faced: 15
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>Rutherford gets his first maximum!</strong> Half-tracker on middle and leg. Rutherford cannot believe his luck and rocks back to pound it over cow corner!
+
+
+Balls faced: 16
+Bowler: Masaba
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 1
+
+
+length just outside off. Rutherford opts to stay back before jabbing it towards deep cover point
+
+
+Balls faced: 17
+Bowler: Masaba
+Over: 14
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+slides this down leg. Rutherford lets it go and the umpire has to indulge in some exercise
+
+Wide: 1
+Balls faced: 18
+Bowler: Masaba
+Over: 14
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+Masaba is back. Around the wicket to Rutherford
+
+full on middle and off. Rutherford comes forward and defends
+
+
+Balls faced: 19
+Bowler: Masaba
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+full outside off. Rutherford stretches forward and nudges it into the cover region
+
+
+Balls faced: 20
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+cutter on a back of a length outside off. Rutherford jabs it towards point
+
+
+Balls faced: 21
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: YORKER
+Shot: STEERED
+Run scored: 1
+
+
+into the blockhole outside off. Rutherford squeezes it out towards backward point
+
+
+Balls faced: 22
+Bowler: Nakrani
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+slower ball on a length outside off. Rutherford taps it off the front foot towards backward point
+
+
+Balls faced: 23
+Bowler: Nakrani
+Over: 15
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 4
+Nakrani to continue
+
+<strong>starts off the over with a boundary!</strong> Off-pace but this is too short on middle and leg. Rutherford picks it, delays his stroke and pulls it past deep backward square leg!
+
+
+Balls faced: 24
+Bowler: Nakrani
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+shortish outside off. Sticks in the surface and Rutherford jabs it towards backward point
+
+
+Balls faced: 25
+Bowler: Nakrani
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+full on off. Rutherford tips it to extra cover and scampers across to the other end
+
+
+Balls faced: 26
+Bowler: Masaba
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+full outside off. Rutherford stretches forward and nudges it into the cover region
+
+
+Balls faced: 27
+Bowler: Kyewuta
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: DEFENDED
+Run scored: 0
+
+Rutherford is OUT! bowled
+ b Kyewuta
+Sherfane Rutherford b Kyewuta 22 (16b 2x4 1x6 23m) SR: 137.5
+<strong>cleans him up with a cracker, and gives Rutherford a send-off too!</strong> Sizzling yorker on leg stump. Rutherford, it seems, is not expecting it and even if he was, that was just too good. Awfully late in getting his bat down and the ball thunders into leg stump. WI keep losing wickets!
+
+
+Balls faced: 28
+Bowler: Kyewuta
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+<strong>four more!</strong> Width outside off and Rutherford pounces. Flashes hard at it and scythes it past backward point!
+
+
+Balls faced: 29
+Bowler: Kyewuta
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Kyewuta is back
+
+full and wide outside off. Driven straight to extra cover
+
+
+Balls faced: 30
+Bowler: Nakrani
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+shortish outside off. Sticks in the surface and Rutherford jabs it towards backward point
+
+
+Balls faced: 31
+Bowler: Nakrani
+Over: 17
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+full on off. Rutherford tips it to extra cover and scampers across to the other end
+
+
+Balls faced: 32
+Bowler: Kyewuta
+Over: 18
+Pitch Line: ON_THE_STUMPS Length: YORKER
+Shot: DEFENDED
+Run scored: 0
+
+Rutherford is OUT! bowled
+ b Kyewuta
+Sherfane Rutherford b Kyewuta 22 (16b 2x4 1x6 23m) SR: 137.5
+<strong>cleans him up with a cracker, and gives Rutherford a send-off too!</strong> Sizzling yorker on leg stump. Rutherford, it seems, is not expecting it and even if he was, that was just too good. Awfully late in getting his bat down and the ball thunders into leg stump. WI keep losing wickets!
+
+
+Balls faced: 33
+Bowler: Kyewuta
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 4
+
+
+<strong>four more!</strong> Width outside off and Rutherford pounces. Flashes hard at it and scythes it past backward point!
+
+
+Balls faced: 34
+Bowler: Kyewuta
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 0
+Kyewuta is back
+
+full and wide outside off. Driven straight to extra cover
+
+
+
+Match: all_games_1411166_1415726.json
+Balls faced: 1
+Bowler: Southee
+Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+Rutherford joins King, who has watched the carnage from the other end since the start. Matt tells me this is only the second time Rutherford is batting in the powerplay in T20I cricket
+
+back of a length on leg stump. Rutherford helps it round the corner and gets off the mark
+
+
+Balls faced: 2
+Bowler: Neesham
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+short outside off. Rutherford waits for it and cuts it past backward point for a single
+
+
+Balls faced: 3
+Bowler: Neesham
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+fullish, angling into off stump. Rutherford comes half forward and prods it back to the bowler
+
+
+Balls faced: 4
+Bowler: Neesham
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+Neesham into the attack, straight after the powerplay. His cutters could be useful on this surface, if he gets his lengths right. Around the wicket to Rutherford Prince : "Wow! This looks like another very tricky surface very hard to score off. Think if the Windies can somehow manage 125 runs since they bat deep, NZ will find it very tough as well." -- Might be a little early to comment what a good score will be, but this is definitely not a batting paradise
+
+full outside off. Rutherford presses forward and drives it towards deep cover point
+
+
+Balls faced: 5
+Bowler: Southee
+Over: 6
+Pitch Line: DOWN_LEG Length: GOOD_LENGTH
+Shot: LEG_GLANCE
+Run scored: 1
+Rutherford joins King, who has watched the carnage from the other end since the start. Matt tells me this is only the second time Rutherford is batting in the powerplay in T20I cricket
+
+back of a length on leg stump. Rutherford helps it round the corner and gets off the mark
+
+
+Balls faced: 6
+Bowler: Ferguson
+Over: 8
+Pitch Line: DOWN_LEG Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+fuller, slanting into middle and leg. Rutherford pokes it back to the bowler
+
+
+Balls faced: 7
+Bowler: Ferguson
+Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+"For those who predicted a group stage exit for NZ : NZ may get their NRR to neutral in this match" -- NZ are in control of this match but still way too early to talk about NRR or even the result, Sowmya...
+
+shortish just outside off. Rutherford rides the bounce and runs it down to third man
+
+
+Balls faced: 8
+Bowler: Neesham
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+short outside off. Rutherford waits for it and cuts it past backward point for a single
+
+
+Balls faced: 9
+Bowler: Neesham
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+fullish, angling into off stump. Rutherford comes half forward and prods it back to the bowler
+
+
+Balls faced: 10
+Bowler: Neesham
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+Neesham into the attack, straight after the powerplay. His cutters could be useful on this surface, if he gets his lengths right. Around the wicket to Rutherford Prince : "Wow! This looks like another very tricky surface very hard to score off. Think if the Windies can somehow manage 125 runs since they bat deep, NZ will find it very tough as well." -- Might be a little early to comment what a good score will be, but this is definitely not a batting paradise
+
+full outside off. Rutherford presses forward and drives it towards deep cover point
+
+
+Balls faced: 11
+Bowler: Phillips
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full on middle and leg. Rutherford flicks it down the ground to long on
+
+
+Balls faced: 12
+Bowler: Phillips
+Over: 9
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+full toss down leg. Rutherford does not get bat on it and the ball scraps the pad, running away past Conway towards fine leg
+
+Legbyes: 2
+Balls faced: 13
+Bowler: Ferguson
+Over: 8
+Pitch Line: DOWN_LEG Length: FULL
+Shot: PUSH
+Run scored: 0
+
+
+fuller, slanting into middle and leg. Rutherford pokes it back to the bowler
+
+
+Balls faced: 14
+Bowler: Ferguson
+Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+"For those who predicted a group stage exit for NZ : NZ may get their NRR to neutral in this match" -- NZ are in control of this match but still way too early to talk about NRR or even the result, Sowmya...
+
+shortish just outside off. Rutherford rides the bounce and runs it down to third man
+
+
+Balls faced: 15
+Bowler: Neesham
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+hard length on middle and off. Rutherford stays back and pulls it towards long on. No real timing on that either
+
+
+Balls faced: 16
+Bowler: Neesham
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shortish outside off. Comes off a touch slower than Rutherford expects and he scuffs it towards extra cover
+
+
+Balls faced: 17
+Bowler: Phillips
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+full on middle and leg. Rutherford flicks it down the ground to long on
+
+
+Balls faced: 18
+Bowler: Phillips
+Over: 9
+Pitch Line: DOWN_LEG Length: FULL_TOSS
+Shot: LEG_GLANCE
+Run scored: 0
+
+
+full toss down leg. Rutherford does not get bat on it and the ball scraps the pad, running away past Conway towards fine leg
+
+Legbyes: 2
+Balls faced: 19
+Bowler: Santner
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+another shortish delivery on middle and off. Rutherford goes back and pulls it towards long on
+
+
+Balls faced: 20
+Bowler: Santner
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+Santner to get us underway after the drinks interval. Over the wicket to Rutherford
+
+<strong>Rutherford welcomes Santner with a six!</strong> A bit of a drag-down on middle and leg. Rutherford rocks onto the back foot and whacks it over deep mid wicket!
+
+
+Balls faced: 21
+Bowler: Neesham
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+hard length on middle and off. Rutherford stays back and pulls it towards long on. No real timing on that either
+
+
+Balls faced: 22
+Bowler: Neesham
+Over: 10
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+shortish outside off. Comes off a touch slower than Rutherford expects and he scuffs it towards extra cover
+
+
+Balls faced: 23
+Bowler: Ferguson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Right. Here's Andre Russell. If the West Indies are to get a defendable total, this partnership is the key for them. Ferguson is back
+
+back of a length on off. Rutherford jabs it towards deep cover point
+
+
+Balls faced: 24
+Bowler: Santner
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 1
+
+
+another shortish delivery on middle and off. Rutherford goes back and pulls it towards long on
+
+
+Balls faced: 25
+Bowler: Santner
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PULL
+Run scored: 6
+Santner to get us underway after the drinks interval. Over the wicket to Rutherford
+
+<strong>Rutherford welcomes Santner with a six!</strong> A bit of a drag-down on middle and leg. Rutherford rocks onto the back foot and whacks it over deep mid wicket!
+
+
+Balls faced: 26
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+slower ball on a back of a length just outside off. Jabbed out to backward point
+
+
+Balls faced: 27
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Boult returns. Presumably to nip this partnership in the bud
+
+length just outside off. Rutherford comes forward and pushes it towards extra cover for a single
+
+
+Balls faced: 28
+Bowler: Ferguson
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 1
+Right. Here's Andre Russell. If the West Indies are to get a defendable total, this partnership is the key for them. Ferguson is back
+
+back of a length on off. Rutherford jabs it towards deep cover point
+
+
+Balls faced: 29
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+back of a length on off. Rutherford tips it to backward point and sets off immediately. Has to scramble to the other end but makes it via a dive
+
+
+Balls faced: 30
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+<strong>lifter outside off!</strong> Back of a length, laced with width. Rutherford thinks about the cut but has to pull out because of the extra bounce
+
+
+Balls faced: 31
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+full just outside off. Rutherford leans into his stroke and drives it crisply past extra cover for a couple of runs
+
+
+Balls faced: 32
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: SQUARE_DRIVE
+Run scored: 0
+
+
+slower ball on a back of a length just outside off. Jabbed out to backward point
+
+
+Balls faced: 33
+Bowler: Boult
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Boult returns. Presumably to nip this partnership in the bud
+
+length just outside off. Rutherford comes forward and pushes it towards extra cover for a single
+
+
+Balls faced: 34
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+back of a length on off. Rutherford drops it into the off side and gets the single he is after
+
+
+Balls faced: 35
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+hard length, angling into off. Rutherford wants to tip and run to backward point again but this time, Shepherd sends him back
+
+
+Balls faced: 36
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Southee to bowl out
+
+length on middle and leg. Rutherford lets the ball come to him before knocking it to long on
+
+
+Balls faced: 37
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+back of a length on off. Rutherford tips it to backward point and sets off immediately. Has to scramble to the other end but makes it via a dive
+
+
+Balls faced: 38
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+<strong>lifter outside off!</strong> Back of a length, laced with width. Rutherford thinks about the cut but has to pull out because of the extra bounce
+
+
+Balls faced: 39
+Bowler: Neesham
+Over: 14
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 2
+
+
+full just outside off. Rutherford leans into his stroke and drives it crisply past extra cover for a couple of runs
+
+
+Balls faced: 40
+Bowler: Neesham
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+100 up for the West Indies. In the 16th over
+
+full outside off. Rutherford gets forward and drives it towards deep cover point
+
+
+Balls faced: 41
+Bowler: Neesham
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>swung away for six!</strong> Half-tracker down leg and that is easy pickings for Rutherford. He gets inside the line early and helps it over the long leg fence!
+
+
+Balls faced: 42
+Bowler: Neesham
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+NZ will have to either bowl two overs of spin or bring Mitchell on in the overs that remain. WI, if they are willing to wait, could look at those two overs as an opportunity
+
+full on the pads. Rutherford uses the angle and flicks it away towards deep square leg
+
+
+Balls faced: 43
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+back of a length on off. Rutherford drops it into the off side and gets the single he is after
+
+
+Balls faced: 44
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+hard length, angling into off. Rutherford wants to tip and run to backward point again but this time, Shepherd sends him back
+
+
+Balls faced: 45
+Bowler: Southee
+Over: 15
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+Southee to bowl out
+
+length on middle and leg. Rutherford lets the ball come to him before knocking it to long on
+
+
+Balls faced: 46
+Bowler: Ferguson
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+back of a length on middle and leg. Rutherford eases it down the ground to long on
+
+
+Balls faced: 47
+Bowler: Ferguson
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+off-pace on a full length on off. Rutherford pushes it to extra cover and saunters across to the other end
+
+
+Balls faced: 48
+Bowler: Neesham
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+100 up for the West Indies. In the 16th over
+
+full outside off. Rutherford gets forward and drives it towards deep cover point
+
+
+Balls faced: 49
+Bowler: Neesham
+Over: 16
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT
+Shot: PULL
+Run scored: 6
+
+
+<strong>swung away for six!</strong> Half-tracker down leg and that is easy pickings for Rutherford. He gets inside the line early and helps it over the long leg fence!
+
+
+Balls faced: 50
+Bowler: Neesham
+Over: 16
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 1
+NZ will have to either bowl two overs of spin or bring Mitchell on in the overs that remain. WI, if they are willing to wait, could look at those two overs as an opportunity
+
+full on the pads. Rutherford uses the angle and flicks it away towards deep square leg
+
+
+Balls faced: 51
+Bowler: Boult
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Boult to bowl out too. NZ taking a big gamble here
+
+back of a length just outside off. Sticks in the surface and Rutherford pokes it down to long on
+
+
+Balls faced: 52
+Bowler: Ferguson
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+back of a length on middle and leg. Rutherford eases it down the ground to long on
+
+
+Balls faced: 53
+Bowler: Ferguson
+Over: 17
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: PUSH
+Run scored: 1
+
+
+off-pace on a full length on off. Rutherford pushes it to extra cover and saunters across to the other end
+
+
+Balls faced: 54
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Surely Rutherford will attempt a single now to retain strike?
+
+length on middle and leg. Rutherford pushes it to long on and keeps strike for the start of the next over. <strong>Brings up his fifty too, and the crowd is up on its feet!</strong>
+
+
+Balls faced: 55
+Bowler: Mitchell
+Over: 19
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 6
+Rutherford might look for a single
+
+<strong>or, maybe not! Why run singles when you can hit sixes?!</strong> Another half-tracker, this time on leg stump. Rutherford picks it up and dumps it over the fine leg fence!
+
+
+Balls faced: 56
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fires in a yorker on the pads. Rutherford cannot work it away and the ball strikes him on the front pad
+
+
+Balls faced: 57
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<strong>back to back sixes - this is even better!</strong> Right in the slot on the stumps, and Rutherford is not going to miss out. Snaps his wrists into action and launches it over long off. Almost like a short-arm jab but that carried 86m!
+
+
+Balls faced: 58
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<strong>watch that ball fly!</strong> Slower delivery that sits up to be hit outside off. Rutherford reads it like the morning daily, opens up his stance and thumps it over long off!
+
+
+Balls faced: 59
+Bowler: Mitchell
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Motie, for what it is worth, has a First-Class average a shade under 22 and has a First-Class hundred too, alongside two fifties. Mitchell to bowl the 19th
+
+slower ball on a length outside off. Rutherford reaches out for it and drags it towards deep mid wicket. Single turned down
+
+
+Balls faced: 60
+Bowler: Boult
+Over: 18
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Boult to bowl out too. NZ taking a big gamble here
+
+back of a length just outside off. Sticks in the surface and Rutherford pokes it down to long on
+
+
+Balls faced: 61
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>four to finish off! Rutherford ends with 68 off 39, and WI finish on 149!</strong> Back of a length outside off. Rutherford sits deep in his crease, brings his wrists into play and bludgeons it to deep cover point's left. A sensational shot to cap off a sensational innings!
+<strong>10:18pm</strong> Sherfane Rutherford. That was what this innings was all about. He walked in when the West Indies were in strife. A few overs later, they were staring down the barrel but Rutherford kept calm. He milked the singles initially, chose his moments to attack and then unleashed at the end, ensuring the West Indies made 58 in their last five. He also stitched together a 37-run last-wicket stand, with every run coming off Rutherford's bat. New Zealand will feel they missed an opportunity to bundle the two-time champions out for a paltry total. They had them 76-7 at one stage but could not quite capitalise. Williamson's usage of his bowlers also left a bit to be desired and they ended up bowling Mitchell in the 19th and Santner (a left-arm spinner) against Rutherford in the 20th. Prior to that, the old guard, comprising Boult, Ferguson and Southee were exceptional. Boult was probably the pick of the bunch, scalping three vital wickets, including that of Russell. Neesham did his bit too, with the fifth bowler quota being the only dull spot in what was otherwise an accomplished bowling display. 149, viewed in isolation, may not seem much, but on this track, which has variable bounce and is pretty two-paced, could be a very good total. NZ will also have to dispel the doubts that shrouded their performance the other day and how they do that could be key in this run-chase. Join us in a bit. <b>Sherfane Rutherford:</b> It was a good innings. Playing a World Cup match is a dream and that is what we live for. Happy to contribute. Very tough surface to bat on. My plan was to bat deep. I was just telling the bowlers that even if we just get singles now, it all adds up. 149 is a brilliant score on this wicket.
+
+Balls faced: 62
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<strong>pick the bones out of this one!</strong> Santner tries to hide it outside off but Rutherford has read his intentions. Walks across, gets down on one knee and slugs it over wide long on!
+
+
+Balls faced: 63
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+<strong>safe!</strong> Given a bit of air on a length outside off. Rutherford dances down, trying to go downtown. Slices it but luckily for him, it falls in front of deep cover point. Races back to retain strike
+
+
+Balls faced: 64
+Bowler: Santner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>that is a stunning shot!</strong> Shortish outside off. Rather than trying to drag it, Rutherford holds his shape. Goes through the line and crunches it over extra cover, off the back foot!
+
+
+Balls faced: 65
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+Shorter side is to Rutherford's leg side, and he will be hitting with the wind in that direction
+
+short outside off again. Rutherford cuts it towards deep cover point and is hell-bent on the second. The throw is not great and Rutherford can make it back
+
+
+Balls faced: 66
+Bowler: Santner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+NZ went into the raffle, and it did not quite pay off. They will now have to bowl spin in the last over. Santner tasked with the responsibility. Can Rutherford get WI up to 140, at least? Around the wicket to Rutherford
+
+short outside off. Rutherford winds up and powers it straight to long off. Dot to start the over
+
+
+Balls faced: 67
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+Surely Rutherford will attempt a single now to retain strike?
+
+length on middle and leg. Rutherford pushes it to long on and keeps strike for the start of the next over. <strong>Brings up his fifty too, and the crowd is up on its feet!</strong>
+
+
+Balls faced: 68
+Bowler: Mitchell
+Over: 19
+Pitch Line: DOWN_LEG Length: SHORT
+Shot: PULL
+Run scored: 6
+Rutherford might look for a single
+
+<strong>or, maybe not! Why run singles when you can hit sixes?!</strong> Another half-tracker, this time on leg stump. Rutherford picks it up and dumps it over the fine leg fence!
+
+
+Balls faced: 69
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+fires in a yorker on the pads. Rutherford cannot work it away and the ball strikes him on the front pad
+
+
+Balls faced: 70
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<strong>back to back sixes - this is even better!</strong> Right in the slot on the stumps, and Rutherford is not going to miss out. Snaps his wrists into action and launches it over long off. Almost like a short-arm jab but that carried 86m!
+
+
+Balls faced: 71
+Bowler: Mitchell
+Over: 19
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 6
+
+
+<strong>watch that ball fly!</strong> Slower delivery that sits up to be hit outside off. Rutherford reads it like the morning daily, opens up his stance and thumps it over long off!
+
+
+Balls faced: 72
+Bowler: Mitchell
+Over: 19
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+Motie, for what it is worth, has a First-Class average a shade under 22 and has a First-Class hundred too, alongside two fifties. Mitchell to bowl the 19th
+
+slower ball on a length outside off. Rutherford reaches out for it and drags it towards deep mid wicket. Single turned down
+
+
+Balls faced: 73
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>four to finish off! Rutherford ends with 68 off 39, and WI finish on 149!</strong> Back of a length outside off. Rutherford sits deep in his crease, brings his wrists into play and bludgeons it to deep cover point's left. A sensational shot to cap off a sensational innings!
+<strong>10:18pm</strong> Sherfane Rutherford. That was what this innings was all about. He walked in when the West Indies were in strife. A few overs later, they were staring down the barrel but Rutherford kept calm. He milked the singles initially, chose his moments to attack and then unleashed at the end, ensuring the West Indies made 58 in their last five. He also stitched together a 37-run last-wicket stand, with every run coming off Rutherford's bat. New Zealand will feel they missed an opportunity to bundle the two-time champions out for a paltry total. They had them 76-7 at one stage but could not quite capitalise. Williamson's usage of his bowlers also left a bit to be desired and they ended up bowling Mitchell in the 19th and Santner (a left-arm spinner) against Rutherford in the 20th. Prior to that, the old guard, comprising Boult, Ferguson and Southee were exceptional. Boult was probably the pick of the bunch, scalping three vital wickets, including that of Russell. Neesham did his bit too, with the fifth bowler quota being the only dull spot in what was otherwise an accomplished bowling display. 149, viewed in isolation, may not seem much, but on this track, which has variable bounce and is pretty two-paced, could be a very good total. NZ will also have to dispel the doubts that shrouded their performance the other day and how they do that could be key in this run-chase. Join us in a bit. <b>Sherfane Rutherford:</b> It was a good innings. Playing a World Cup match is a dream and that is what we live for. Happy to contribute. Very tough surface to bat on. My plan was to bat deep. I was just telling the bowlers that even if we just get singles now, it all adds up. 149 is a brilliant score on this wicket.
+
+Balls faced: 74
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 6
+
+
+<strong>pick the bones out of this one!</strong> Santner tries to hide it outside off but Rutherford has read his intentions. Walks across, gets down on one knee and slugs it over wide long on!
+
+
+Balls faced: 75
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: ON_DRIVE
+Run scored: 2
+
+
+<strong>safe!</strong> Given a bit of air on a length outside off. Rutherford dances down, trying to go downtown. Slices it but luckily for him, it falls in front of deep cover point. Races back to retain strike
+
+
+Balls faced: 76
+Bowler: Santner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: COVER_DRIVE
+Run scored: 4
+
+
+<strong>that is a stunning shot!</strong> Shortish outside off. Rather than trying to drag it, Rutherford holds his shape. Goes through the line and crunches it over extra cover, off the back foot!
+
+
+Balls faced: 77
+Bowler: Santner
+Over: 20
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 2
+Shorter side is to Rutherford's leg side, and he will be hitting with the wind in that direction
+
+short outside off again. Rutherford cuts it towards deep cover point and is hell-bent on the second. The throw is not great and Rutherford can make it back
+
+
+Balls faced: 78
+Bowler: Santner
+Over: 20
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 0
+NZ went into the raffle, and it did not quite pay off. They will now have to bowl spin in the last over. Santner tasked with the responsibility. Can Rutherford get WI up to 140, at least? Around the wicket to Rutherford
+
+short outside off. Rutherford winds up and powers it straight to long off. Dot to start the over
+
+
+
+Match: all_games_1411166_1415740.json
+Balls faced: 1
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 1
+Sherfane Rutherford
+
+Full and wide outside off, looks to go over cover but gets it off the inner edge through mid-on
+
+
+Balls faced: 2
+Bowler: Naveen-ul-Haq
+Over: 20
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: FULL
+Shot: SLOG_SHOT
+Run scored: 1
+Sherfane Rutherford
+
+Full and wide outside off, looks to go over cover but gets it off the inner edge through mid-on
+
+
+
+Match: all_games_1434088_1434102.json
+Balls faced: 1
+Bowler: David
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: David
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 3
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 4
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 5
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 7
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 8
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 9
+Bowler: David
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 10
+Bowler: David
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Ellis
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Ellis
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 15
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 17
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 18
+Bowler: Zampa
+Over: 17
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 19
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 21
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 22
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Ellis
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Ellis
+Over: 18
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+Match State: Innings Break
+
+Balls faced: 26
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 27
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 28
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 29
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 30
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+Wide: 1
+Balls faced: 32
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 6
+
+
+
+
+
+Balls faced: 33
+Bowler: Hazlewood
+Over: 19
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 34
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+Match State: Innings Break
+
+Balls faced: 35
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 36
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 37
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 4
+
+
+
+
+
+Balls faced: 38
+Bowler: Ellis
+Over: 20
+ 
+Shot: No Shot
+Run scored: 0

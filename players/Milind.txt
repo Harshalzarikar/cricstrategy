@@ -1,0 +1,1089 @@
+Match: all_games_1425115_1425121.json
+Balls faced: 1
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 2
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 6
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 8
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 11
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 12
+Bowler: Saad
+Over: 16
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 13
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 2
+
+
+
+
+
+Balls faced: 14
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 1
+
+
+
+
+
+Balls faced: 15
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+Balls faced: 16
+Bowler: Joshi
+Over: 17
+ 
+Shot: No Shot
+Run scored: 0
+
+
+
+
+
+
+Match: all_games_1425115_1425124.json
+Balls faced: 1
+Bowler: Heyliger
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 2
+Bowler: Heyliger
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 3
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 4
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 5
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 6
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 7
+Bowler: Heyliger
+Over: 7
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 8
+Bowler: Heyliger
+Over: 7
+Pitch Line: WIDE_OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 9
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 10
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 11
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 12
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 13
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 14
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 15
+Bowler: Dutta
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 16
+Bowler: Dutta
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 17
+Bowler: Dutta
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 18
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: DEFENDED
+Run scored: 0
+
+
+
+
+
+Balls faced: 19
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 1
+
+
+
+
+
+Balls faced: 20
+Bowler: Heyliger
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 2
+
+
+
+
+
+Balls faced: 21
+Bowler: Saad
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 22
+Bowler: Saad
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 23
+Bowler: Dutta
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 24
+Bowler: Dutta
+Over: 10
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 25
+Bowler: Dutta
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 26
+Bowler: Dutta
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 27
+Bowler: Dutta
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 28
+Bowler: Dutta
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 29
+Bowler: Saad
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 30
+Bowler: Saad
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: FLICK
+Run scored: 1
+
+
+
+
+
+Balls faced: 31
+Bowler: Saad
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Milind is OUT! caught
+c †Movva b Saad Bin Zafar
+Milind Kumar c †Movva b Saad Bin Zafar 16 (20b 1x4 0x6) SR: 80
+
+
+
+Balls faced: 32
+Bowler: Saad
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 33
+Bowler: Saad
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+Balls faced: 34
+Bowler: Dutta
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 4
+
+
+
+
+
+Balls faced: 35
+Bowler: Dutta
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 1
+
+
+
+
+
+Balls faced: 36
+Bowler: Dutta
+Over: 12
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 37
+Bowler: Dutta
+Over: 12
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+
+
+
+Balls faced: 38
+Bowler: Saad
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: SLOG_SWEEP
+Run scored: 0
+
+Milind is OUT! caught
+c †Movva b Saad Bin Zafar
+Milind Kumar c †Movva b Saad Bin Zafar 16 (20b 1x4 0x6) SR: 80
+
+
+
+Balls faced: 39
+Bowler: Saad
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+
+
+
+Balls faced: 40
+Bowler: Saad
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: ON_DRIVE
+Run scored: 1
+
+
+
+
+
+
+Match: all_games_1425119_1425133.json
+Balls faced: 1
+Bowler: Mustafizur
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: DEFENDED
+Run scored: 0
+
+
+Low full-toss outside off, defends off the front foot to extra cover
+Wicket maiden over
+
+Balls faced: 2
+Bowler: Rishad Hossain
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Overpitched outside off, opens the face of the bat and steers through the covers
+
+
+Balls faced: 3
+Bowler: Mustafizur
+Over: 6
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL_TOSS
+Shot: DEFENDED
+Run scored: 0
+
+
+Low full-toss outside off, defends off the front foot to extra cover
+Wicket maiden over
+
+Balls faced: 4
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Hard length ball steered to third man for a single
+
+
+Balls faced: 5
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Attempted slower bouncer delivery pitching wide down the leg side
+
+Wide: 1
+Balls faced: 6
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Overpitched wide outside off, driven straight to the extra cover fielder
+
+
+Balls faced: 7
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 2
+
+
+Slower through the air on the stumps, blocked on the pitch and sets off for a quick single, Hasan tries to kick the ball at the striker's end but sends it wide of the stumps past the wicket keeper, an extra run gifted to the USA
+
+
+Balls faced: 8
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+<strong>Stat alert:</strong> Shakib Al Hasan becomes the first cricketer in international cricket to take 700 wickets and score more than 14,000 runs in all formats.
+
+Good length ball down the leg side, tries to glance it away to fine leg, tickles off the thigh pads, good effort from Litton behind the stumps diving to his left
+
+Legbyes: 1
+Balls faced: 9
+Bowler: Rishad Hossain
+Over: 7
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 1
+
+
+Overpitched outside off, opens the face of the bat and steers through the covers
+
+
+Balls faced: 10
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Beauty! Flighted good length ball on the off stump turning away, beats the outside edge of the bat
+Maiden Over
+
+Balls faced: 11
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 0
+
+
+Length ball on the stumps, timed the ball to cover
+
+
+Balls faced: 12
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Back of a length ball outside off, cuts it straight to backward point
+
+
+Balls faced: 13
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Back of a length ball, dabs it to the onside and sets off for a quick single, Nitish sends Milind back to the crease, chance of a run out at the striker's end but Litton failed to hit the stumps from close range
+
+
+Balls faced: 14
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Half-volley on the stumps, driven firmly straight to extra cover
+
+
+Balls faced: 15
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Generously flighted on middle-leg, plays across the line and outside edges past the slip fielder, backward point fielder cuts it off
+
+
+Balls faced: 16
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: SHORT_OF_A_GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Hard length ball steered to third man for a single
+
+
+Balls faced: 17
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: DOWN_LEG Length: SHORT_OF_A_GOOD_LENGTH
+Shot: LEFT_ALONE
+Run scored: 0
+
+
+Attempted slower bouncer delivery pitching wide down the leg side
+
+Wide: 1
+Balls faced: 18
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Overpitched wide outside off, driven straight to the extra cover fielder
+
+
+Balls faced: 19
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 2
+
+
+Slower through the air on the stumps, blocked on the pitch and sets off for a quick single, Hasan tries to kick the ball at the striker's end but sends it wide of the stumps past the wicket keeper, an extra run gifted to the USA
+
+
+Balls faced: 20
+Bowler: Hasan Mahmud
+Over: 8
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+<strong>Stat alert:</strong> Shakib Al Hasan becomes the first cricketer in international cricket to take 700 wickets and score more than 14,000 runs in all formats.
+
+Good length ball down the leg side, tries to glance it away to fine leg, tickles off the thigh pads, good effort from Litton behind the stumps diving to his left
+
+Legbyes: 1
+Balls faced: 21
+Bowler: Mustafizur
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Off-cutter tighter line and length outside off, hangs back and taps it to third man region
+
+
+Balls faced: 22
+Bowler: Mustafizur
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Slower through the air outside off, played with soft hands to the off side
+
+
+Balls faced: 23
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: DEFENDED
+Run scored: 0
+
+
+Beauty! Flighted good length ball on the off stump turning away, beats the outside edge of the bat
+Maiden Over
+
+Balls faced: 24
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 0
+
+
+Length ball on the stumps, timed the ball to cover
+
+
+Balls faced: 25
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Back of a length ball outside off, cuts it straight to backward point
+
+
+Balls faced: 26
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: FLICK
+Run scored: 0
+
+
+Back of a length ball, dabs it to the onside and sets off for a quick single, Nitish sends Milind back to the crease, chance of a run out at the striker's end but Litton failed to hit the stumps from close range
+
+
+Balls faced: 27
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Half-volley on the stumps, driven firmly straight to extra cover
+
+
+Balls faced: 28
+Bowler: Rishad Hossain
+Over: 9
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: FLICK
+Run scored: 0
+
+
+Generously flighted on middle-leg, plays across the line and outside edges past the slip fielder, backward point fielder cuts it off
+
+
+Balls faced: 29
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Flighted ball on the stumps, advances forward and bludgeons wide of the short mid wicket fielder for a single
+
+
+Balls faced: 30
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Looped up delivery, charges down the ground and inside edges through the legs to fine leg
+
+
+Balls faced: 31
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+Arm ball on the stumps, hits it straight back to the bowler
+
+
+Balls faced: 32
+Bowler: Shakib
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Flighted ball on the stumps, driven aerially straight to extra cover, does not carry to the fielder
+
+
+Balls faced: 33
+Bowler: Mustafizur
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: STEERED
+Run scored: 1
+
+
+Off-cutter tighter line and length outside off, hangs back and taps it to third man region
+
+
+Balls faced: 34
+Bowler: Mustafizur
+Over: 10
+Pitch Line: OUTSIDE_OFFSTUMP Length: FULL
+Shot: COVER_DRIVE
+Run scored: 0
+
+
+Slower through the air outside off, played with soft hands to the off side
+
+
+Balls faced: 35
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Flighted ball on the stumps, advances forward and bludgeons wide of the short mid wicket fielder for a single
+
+
+Balls faced: 36
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: ON_DRIVE
+Run scored: 1
+
+
+Looped up delivery, charges down the ground and inside edges through the legs to fine leg
+
+
+Balls faced: 37
+Bowler: Shakib
+Over: 11
+Pitch Line: ON_THE_STUMPS Length: FULL
+Shot: STRAIGHT_DRIVE
+Run scored: 0
+
+
+Arm ball on the stumps, hits it straight back to the bowler
+
+
+Balls faced: 38
+Bowler: Shakib
+Over: 11
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: PUSH
+Run scored: 0
+
+
+Flighted ball on the stumps, driven aerially straight to extra cover, does not carry to the fielder
+
+
+Balls faced: 39
+Bowler: Rishad Hossain
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Milind is OUT! caught
+c Tanzid Hasan b Rishad Hossain
+Milind Kumar c Tanzid Hasan b Rishad Hossain 7 (20b 0x4 0x6) SR: 35
+<strong>Milind has holed out! </strong> Short of a length ball, plays against the turn and chips it to the mid wicket region, Tanzid runs forward from the boundary ropes and completes the catch
+
+
+Balls faced: 40
+Bowler: Rishad Hossain
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Good length ball turning away, defends off the front foot and outside edges to the slip fielder, does not carry to Soumya
+
+
+Balls faced: 41
+Bowler: Rishad Hossain
+Over: 13
+Pitch Line: ON_THE_STUMPS Length: GOOD_LENGTH
+Shot: PULL
+Run scored: 0
+
+Milind is OUT! caught
+c Tanzid Hasan b Rishad Hossain
+Milind Kumar c Tanzid Hasan b Rishad Hossain 7 (20b 0x4 0x6) SR: 35
+<strong>Milind has holed out! </strong> Short of a length ball, plays against the turn and chips it to the mid wicket region, Tanzid runs forward from the boundary ropes and completes the catch
+
+
+Balls faced: 42
+Bowler: Rishad Hossain
+Over: 13
+Pitch Line: OUTSIDE_OFFSTUMP Length: GOOD_LENGTH
+Shot: CUT_SHOT
+Run scored: 0
+
+
+Good length ball turning away, defends off the front foot and outside edges to the slip fielder, does not carry to Soumya
